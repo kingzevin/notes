@@ -6057,3 +6057,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you scope variables appropriately and reduce the use of instance variables , you can reduce this kind of object retention.
     如果您适当地限制了变量的范围并且减少实例变量的使用， 则可以减少此类对象保留。
 
+venture
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['ventʃə]    美: ['vɛntʃɚ]
+
+     vt. 敢于
+     vi. 冒险；投机
+     n. 企业；风险；冒险
+     n. (Venture)人名；(法)旺蒂尔
+    
+
+  1.Don't venture into the jungle without a guide.
+    没有向导，不要冒险进入丛林中。
+  2.The insecurity of the venture kept investors away.
+    这种冒险事业的不安全性使投资者望而却步。
+  3.He tamed the urge to participate in the new venture.
+    他抑制住想参加新的冒险的冲动。
+

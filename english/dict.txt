@@ -6173,3 +6173,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Smile and respond gently but firmly : address it as an uninformed critique , ignoring the personal attack entirely , and offer something along the lines of ' I just have a vivid imagination.
     微笑，礼貌而坚定的回应：把它当做无知的评论，完全忽略其中人身攻击的成分，并且说‘我只是想象力丰富而已。
 
+asymptotic
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,æsɪmp'tɒtɪk]    美: ['æsɪmp,toʊtɪk]
+
+     adj. 渐近的；渐近线的
+    
+
+  1.In the development of the theory the main emphasis is on asymptotic behavior and the distribution of zeros.
+    在主要重点关于渐近的行为和零的分发的理论的发展过程中。
+  2.Now. Two other things , before we do this last example. One is , I 'll remind you , what we 're interested in is asymptotic growth.
+    好，我们看最后的例子之前还有两件事情,第一是，我要提醒大家，我们感兴趣的是渐进的增长率。
+  3.Now, we concluded last week at looking at sorts and efficiency , some new notation called asymptotic notation and we 'll continue that story today.
+    上周我们着眼于排序和效率问题，并提出一些渐近线的新符号,今天我们将继续讨论相关内容。
+

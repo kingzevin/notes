@@ -136,3 +136,5 @@ episodic
 
 uninformed
 
+asymptotic
+

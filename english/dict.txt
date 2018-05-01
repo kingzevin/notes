@@ -6074,3 +6074,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He tamed the urge to participate in the new venture.
     他抑制住想参加新的冒险的冲动。
 
+embark
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ɪm'bɑːk; em-]    美: [ɪm'bɑrk]
+
+     vi. 从事，着手；上船或飞机
+     vt. 使从事；使上船
+    
+
+  1.But are we , the fans , ready for them to embark on something new?
+    但是我们这些粉丝准备好他们从事别的事了吗？
+  2.Before company leaders embark on an acquisition , they should watch Mr Levin squirm , and think about how likely they are, one day , to be offering a hapless apology.
+    在公司领袖着手收购前，他们应该看一看莱文羞愧不安的模样，想想自己有一天也要不幸地进行道歉的可能性有多大。
+  3.Experts argue that although most companies see the need to reform in a crisis , many embark on the wrong kind of change.
+    专家辩称，尽管多少公司在危机中看到改革的需求，许多公司会从事一类错误的变革。
+

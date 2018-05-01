@@ -6144,3 +6144,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In effect , the noise increases the sensitivity of the switch - a phenomenon called stochastic resonance.
     作为结果，噪音提高了开关的灵敏度--这种现象叫做随机共振。
 
+episodic
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,epɪ'sɒdɪk]    美: [,ɛpɪ'sɑdɪk]
+
+     adj. 插曲式的
+     adj. 偶然发生的
+    
+
+  1.These are usually episodic in nature and for the most part are a reflection of the immature central nervous system.
+    这些通常在本质中表现为插曲式的，大多数情况下是未成熟的中枢神经系统的反射。
+  2.Examples of this would be a half- hour sitcom , a one - hour drama , an episodic documentary , a how-to program such as cooking or home repair or a reality show.
+    包括半小时的情景喜剧，一小时的剧情片，一部插话式的纪录片，一个诸如烹饪或家居修补或真人秀的指引类节目。
+  3.But here 's where this experiment gets interesting : in half of these trials , the reward option was presented along with an '' episodic cue '' derived from a previous " prescan " interview.
+    但这个实验中最有趣的地方是，在一半的试验里，提出奖励办法同时，还伴随着一个从以前的“预扫描”采访中得到的 ''情节线索"。
+

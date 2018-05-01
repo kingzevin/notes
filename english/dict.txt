@@ -6222,3 +6222,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.As a manager , you must ensure that all test plans have contingency plans for dealing with problems.
     作为管理者，你必须保证所有测试计划带有处理这些问题的偶然性计划。
 
+percept
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['pɜːsept]    美: ['pɝsɛpt]
+
+     n. 认知，认知的对象
+    
+
+  1.We can percept the mission of philosophy as well as of intellectuals by Socrates.
+    从苏格拉底身上可以感知哲学的使命以及知识分子的使命。
+  2.That is , the self - education ability is a kind of synthetic skills in which the abilities to aim , to plan , to percept and read - many kinds of mental states-are included.
+    是由独立确立学习目标和计划的能力、认知能力、阅读能力等多种心理机能参与的一种综合性能力。
+  3.This structure may be perfectly situated to bind the activity of the sensory cortices into a single , coherent percept.
+    这个构造也许刚好可以将感觉皮质的活性结合成单一统整的知觉。
+

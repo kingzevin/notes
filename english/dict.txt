@@ -6187,3 +6187,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Now, we concluded last week at looking at sorts and efficiency , some new notation called asymptotic notation and we 'll continue that story today.
     上周我们着眼于排序和效率问题，并提出一些渐近线的新符号,今天我们将继续讨论相关内容。
 
+suntan
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'suntan' not found, do you mean?
+
+    论坛
+    forum | tribune
+

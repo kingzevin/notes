@@ -6130,3 +6130,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you have been to Beijing *, you've most likely come across this street scene : a bunch of people crowded around a street vendor , picking out skewers from a bubbling hot red broth.
     如果你曾经去过北京，你在大街上很可能遇到过这样的景象：一群人拥挤在一个街头小贩周围，正从一个滚烫的红色肉汤里挑选着串肉扦。
 
+stochastic
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [stə'kæstɪk]    美: [sto'kæstɪk]
+
+     adj. [数] 随机的；猜测的
+    
+
+  1.Experimentally , it is now possible to generate large libraries of stochastic DNA , RNA , and peptides or polypeptides.
+    在实验上，现在可以生成一个大型的库，包含随机的DNA，RNA及肽或多肽。
+  2.Since natural systems have evolved not only to cope with noise but to exploit it , as neurons do with stochastic resonance , could it be that nature has also learned to compute with noise ?
+    既然自然系统进化出了不光能应对，还能利用噪音的系统，比如神经元利用随机共振，有没有可能自然也发现了使用噪音进行计算的发放？
+  3.In effect , the noise increases the sensitivity of the switch - a phenomenon called stochastic resonance.
+    作为结果，噪音提高了开关的灵敏度--这种现象叫做随机共振。
+

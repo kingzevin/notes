@@ -6116,3 +6116,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.The question is : can we do any better — without falling into the trap of feigning omniscience ?
     现在的问题是：如果没有掉进无所不知好为人师的陷阱，我们可以做到更好吗？
 
+vendor
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['vendə; 'vendɔː]    美: ['vɛndɚ]
+
+     n. 卖主；小贩；供应商；[贸易] 自动售货机
+    
+
+  1.I think the vendor is still there.
+    我想那个小贩应该还在那里。
+  2.She looked at the vendor who cheated her the other day with distaste.
+    她厌恶地望着那个前几天曾经欺骗过她的小贩。
+  3.If you have been to Beijing *, you've most likely come across this street scene : a bunch of people crowded around a street vendor , picking out skewers from a bubbling hot red broth.
+    如果你曾经去过北京，你在大街上很可能遇到过这样的景象：一群人拥挤在一个街头小贩周围，正从一个滚烫的红色肉汤里挑选着串肉扦。
+

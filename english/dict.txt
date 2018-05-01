@@ -6208,3 +6208,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Watch for Waste - Millions of tickets go unused, even though most non-refundable fares are valid for travel for up to a year.
     虽然多数不可退还的机票的有效期长达一年，但还是有数以百万张机票最后被浪费掉。
 
+contingency
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [kən'tɪndʒ(ə)nsɪ]    美: [kən'tɪndʒənsi]
+
+     n. 偶然性；[安全] 意外事故；可能性；[审计] 意外开支；[离散数学或逻辑学]偶然式
+    
+
+  1.While this strategy doesn't cover every contingency , it acknowledges the existence of the unexpected.
+    尽管这个策略不能覆盖每一个可能性，但它承认不可预知性的存在。
+  2.However , the Selective Service System remains in place as a contingency plan ; men between the ages of 18 and 25 are required to register so that a draft can be readily resumed if needed.
+    然而，选征兵役制作为意外事故防范计划还保留着。 法律规定年纪18-25的公民必须进行登记注册，以备紧急需要时能迅速恢复义务兵役。
+  3.As a manager , you must ensure that all test plans have contingency plans for dealing with problems.
+    作为管理者，你必须保证所有测试计划带有处理这些问题的偶然性计划。
+

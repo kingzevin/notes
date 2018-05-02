@@ -6307,3 +6307,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Analyze your environment and try and organize the disks so that a disk is free or underutilized so you can benefit from the reliability and availability benefits offered by transaction logging.
     分析您的环境并尝试组织磁盘，了解空闲或未充分利用的磁盘，从而获得事务日志提供的可靠性和可用性好处。
 
+reap
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [riːp]    美: [rip]
+
+     vt. 收获，获得；收割
+     vi. 收割，收获
+     n. (Reap)人名；(英)里普
+    
+
+  1.The peasants leaned down to reap wheat.
+    农民们俯身收割小麦。
+  2.You work hard after you learn how to work smart and as a result, reap the best benefits of both worlds.
+    在你知道怎样精明的工作以后再去努力工作，你就会在这两个世界里获得最大利益。
+  3.But it cannot happen just like that, you need to believe in some basic principles of success so that you automatically reap success every moment.
+    但是它并会想想象中的那样容易，你需要了解一些成功的基本原理，使得你在任何时刻都可以自动的获得利益。
+

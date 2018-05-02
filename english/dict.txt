@@ -6352,3 +6352,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Once the missile closes on a target , its active radar guides it to intercept.
     一旦导弹锁定了目标，它的主动雷达将引导其进行拦截。
 
+resort
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [rɪ'zɔːt]    美: [rɪ'zɔrt]
+
+     n. 凭借，手段；度假胜地；常去之地
+     vi. 求助，诉诸；常去；采取某手段或方法
+    
+
+  1.In this luxury resort , you can live like a king.
+    在这个奢华的度假胜地,你可以像国王一样生活.
+  2.As he had a weak case and could not defend himself, he had to resort to sophistry.
+    他理屈词穷，只好求助于诡辩。
+  3.As another said , Who wants to go out in a resort town where people are celebrating if you can’t pay a restaurant tab and everybody around you knows it ?
+    另一人说，在一个度假胜地，人们正在庆祝的时候，如果你连餐厅账单都支付不起，而你周围的每个人都知道这一点，谁还想出门？
+

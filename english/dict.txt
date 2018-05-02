@@ -6252,3 +6252,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.All projects follow similar processes ; therefore , the managers devise a naming convention that includes the major release version and minor release version , along with the development and test phase.
     所有项目都遵循相似的过程；因此，管理者设计一个命名约定，它包括主要的发布版本和次要的发布版本，以及开发和测试阶段。
 
+consolidate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [kən'sɒlɪdeɪt]    美: [kən'sɑlɪdet]
+
+     vt. 巩固，使固定；联合
+     vi. 巩固，加强
+    
+
+  1.What do they have to consolidate ?
+    他们还有什么可巩固的？
+  2.He believed that the European Economic Community should consolidate.
+    他认为欧洲经济共同体应该加强。
+  3.If you can teach others knowledge , you could consolidate study.
+    如果你能把知识教给别人,你也可以巩固学习。
+

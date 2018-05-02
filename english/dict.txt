@@ -6396,3 +6396,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.We also will like to see development of some standard patterns and best practices that will facilitate BPMN learning.
     我们也希望看到能促进BPMN学习的一些标准模式和最佳实践的出现。
 
+crux
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [krʌks]    美: [krʌks]
+
+     n. 关键；难题；十字架形，坩埚
+    
+
+  1.This is the crux of the matter.
+    这就是问题的关键所在。
+  2." The crux of the ( suit ) is to get these vehicles fixed and safe ," he said.
+    "诉讼的关键,是要让这些车的缺陷得到修补,变得安全."他说.
+  3.Look at this structure before you move on , because it contains the crux of the algorithm.
+    在继续开发之前，先仔细看看这个结构，因为它包含算法的关键。
+

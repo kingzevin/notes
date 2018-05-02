@@ -6293,3 +6293,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.My Bostonian bug turned out to be one of many on the forefront of an unprecedented resurgence.
     我的这只来自波士顿的臭虫被证明是前所未有的复苏的众多臭虫中的一只。
 
+underutilized
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [,ʌndə'ju:tilaizd]    
+
+     vt. 未充分使用（underutilize过去式）
+    
+
+  1.In addition , the costly approach of spreading workloads over dozens or hundreds of underutilized disk drives is no longer necessary with EFDs.
+    此外，在EFD中，不需要再考虑将工作负载散布到许多未充分使用的磁盘驱动器中。
+  2.With grid computing , if the system housing the application is unusually busy , the application may run on an idle or underutilized system that is part of the grid.
+    如果装载了该应用程序的系统异常繁忙，那么利用网格计算，应用程序可以在格网中空闲的或未充分利用的系统上运行。
+  3.Analyze your environment and try and organize the disks so that a disk is free or underutilized so you can benefit from the reliability and availability benefits offered by transaction logging.
+    分析您的环境并尝试组织磁盘，了解空闲或未充分利用的磁盘，从而获得事务日志提供的可靠性和可用性好处。
+

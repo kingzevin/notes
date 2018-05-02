@@ -6323,3 +6323,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But it cannot happen just like that, you need to believe in some basic principles of success so that you automatically reap success every moment.
     但是它并会想想象中的那样容易，你需要了解一些成功的基本原理，使得你在任何时刻都可以自动的获得利益。
 
+overcommit
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,ovəkə'mɪt]    
+
+     vt. 过量使用
+    
+
+  1.If we chronically overcommit , our sagging spirit inside may well become obvious to everyone.
+    如果我们长期承诺过多，我们内心松懈的精神就会显而易见。
+  2.This also still applies , but unlike memory overcommit , advances in CPU speeds and multi- core CPUs have made CPU partitioning more practical.
+    这仍然适用，但是和内存过量使用不一样，CPU速度和多核CPU的发展使得CPU分区更实用。
+  3.Phil Flynn , senior market analyst with PFG Best in Chicago , said markets were trading "headline to headline, so I'm telling people not to overcommit to markets at this time."
+    芝加哥PFGBest的高级市场分析师PhilFlynn称,市场根据"不同的消息"进行交投,因此,我告诫投资者在目前的情况下不要过度建仓.
+

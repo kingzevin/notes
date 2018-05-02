@@ -6410,3 +6410,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Look at this structure before you move on , because it contains the crux of the algorithm.
     在继续开发之前，先仔细看看这个结构，因为它包含算法的关键。
 
+anomaly
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [ə'nɒm(ə)lɪ]    美: [ə'nɑməli]
+
+     n. 异常；不规则；反常事物
+    
+
+  1.It was also the largest negative anomaly , meaning difference below the long-term average , on record for any month.
+    它也是有记录以来任何一个月中最大的负异常，指的是低于长期平均值的差分。
+  2.He offers this as if the new private university were an irrelevance – just a random anomaly – but I'm not so sure.
+    谈到这个问题时，他似乎忘记了这个新设立的私立大学——只是一个异常化的随意——但是我并不确定。
+  3.An " anomaly " can also mean that a safety problem at a facility could have resulted in greater damage than it did or that radioactive material has been stolen or transported incorrectly.
+    “异常”也可能意味着核设施的某个安全问题本可能造成更大的破坏，但结果并未造成严重后果；或是放射性材料被盗，或被不当运输。
+

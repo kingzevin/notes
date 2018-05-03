@@ -6525,3 +6525,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.We are going to get someone who is least obtrusive and least obnoxious towards the governments and the [ UNESCO ] board , and people who will compromise themselves into impotence.
     经验丰富的他指出：“但是我们不会得到这种结果。我们将会得到一个对各国政府和[UNESCO]委员会的态度最为温和、最不具有挑衅性的人，也就是向无能妥协的人。”
 
+unobtrusive
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ʌnəb'truːsɪv]    美: [ˌʌnəb'trʊsɪv]
+
+     adj. 不唐突的；谦虚的；不引人注目的
+    
+
+  1.They can be blank and positioned in unobtrusive areas of the application , or they can be used to display a logo or other branding.
+    组件可以保持空白并置于应用程序中不引人注意的区域，或者用来显示徽标或其他标志。
+  2.You will then learn how to correct these issues , writing the same code in an unobtrusive way , with guidelines on some best practices for this style of development.
+    然后，您将了解如何更正这些问题，以一种低调的方式编写相同的代码，并了解这种开发风格的一些最佳实践的原则。
+  3.The next step in making your scripts unobtrusive is deciding when and how to include them.
+    要使得脚本无侵入，接下来的步骤是决定何时以及如何包含它们。
+

@@ -6473,3 +6473,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.For membership in the euro means that these countries have to deflate their way back to competitiveness , with all the pain that implies.
     作为欧元成员国，这些国家必须通过通货紧缩而重新获得竞争能力，这就意味着要遭受所有的痛苦。
 
+impose
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ɪm'pəʊz]    美: [ɪm'poz]
+
+     vi. 利用；欺骗；施加影响
+     vt. 强加；征税；以…欺骗
+    
+
+  1.But what if we are entering an era where this new reasoning will impose itself ?
+    但如果我们正在进入一个时代，在这个时代，这种新的论证将会自我强加呢？
+  2.These relationships impose some semantics on the system that further assist in validating or understanding the system.
+    这些关系利用系统上的一些语义可以进一步帮助确认或者理解这个系统。
+  3.While the project process may impose some content and formatting constraints on the information , each team should have the ability to determine how it produces the information.
+    项目过程可能在这些信息上强加一些内容或者格式的限制，每个团队应该有能力决定它是如何产生这些信息的。
+

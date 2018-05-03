@@ -6511,3 +6511,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This is an organism ’s outward expression : its anatomy , physiology and behaviour , whether healthy or pathological.
     “显形”是一种生物的外貌表征：如解剖结构，生理机能，行为，健康或病态。
 
+obtrusive
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [əb'truːsɪv]    美: [əb'trusɪv]
+
+     adj. 突出的；强迫人的；冒失的
+    
+
+  1.The interface declaration seems obtrusive , but the intrusion is light compared to what you 'll see in the implementation.
+    接口声明似乎有些突兀，但其影响较下面将介绍到的实现内容而言还算轻微。
+  2.Painters were hired to try and blend the huge , obtrusive towers into the landscape.
+    受雇的画家尝试着将突兀的巨塔融入周围的风景之中。
+  3.We are going to get someone who is least obtrusive and least obnoxious towards the governments and the [ UNESCO ] board , and people who will compromise themselves into impotence.
+    经验丰富的他指出：“但是我们不会得到这种结果。我们将会得到一个对各国政府和[UNESCO]委员会的态度最为温和、最不具有挑衅性的人，也就是向无能妥协的人。”
+

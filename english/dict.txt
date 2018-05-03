@@ -6460,3 +6460,16 @@ Querying... █▒▒▒▒▒▒▒▒▒               
      vt. 使充气；使通货膨胀
      vi. 膨胀；充气
     
+deflate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [dɪ'fleɪt]    美: [dɪ'flet]
+
+     vt. 放气；使缩小；紧缩通货；打击；使泄气
+     vi. 缩小；物价下降
+    
+
+  1.One sharp remark is enough to deflate her.
+    一句尖锐的话足以使她泄气。
+  2.For membership in the euro means that these countries have to deflate their way back to competitiveness , with all the pain that implies.
+    作为欧元成员国，这些国家必须通过通货紧缩而重新获得竞争能力，这就意味着要遭受所有的痛苦。
+

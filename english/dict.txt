@@ -6488,3 +6488,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.While the project process may impose some content and formatting constraints on the information , each team should have the ability to determine how it produces the information.
     项目过程可能在这些信息上强加一些内容或者格式的限制，每个团队应该有能力决定它是如何产生这些信息的。
 
+pathologicsl
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'pathologicsl' not found, do you mean?
+
+    pathological
+    adj. 病理学的；病态的；由疾病引起的（等...
+    pathologic
+    adj. 病理学的；病态的
+

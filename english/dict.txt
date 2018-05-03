@@ -6497,3 +6497,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     pathologic
     adj. 病理学的；病态的
 
+pathological
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [pæθə'lɒdʒɪk(ə)l]    美: ['pæθə'lɑdʒɪkl]
+
+     adj. 病理学的；病态的；由疾病引起的（等于pathologic）
+    
+
+  1.“ Not one subject had a pathological sexuality ,” he said . “ In fact , all of their sexual practices were quite conventional.
+    “没有一个研究对象有病态性行为，”他说。“实际上，他们所有的性行为都是相当常规的。”
+  2." But what happens in humans is pathological " he continues "whereas the birds are programmed to attack each other as siblings " because the parents can handle only one.
+    但是在人类产生的现象却是病理学的原因。”他继续说道：“雏鸟兄妹相残是一种程式，”因为父母只能只能抚育一个孩子。
+  3.This is an organism ’s outward expression : its anatomy , physiology and behaviour , whether healthy or pathological.
+    “显形”是一种生物的外貌表征：如解剖结构，生理机能，行为，健康或病态。
+

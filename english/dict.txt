@@ -6569,3 +6569,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The history of the period is mainly a collection of such emblems and symbols , evocative but ephemeral.
     这一时期的历史，基本上便是这种标志和符号的集合，富有煽动性，却又短命。
 
+frontier
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['frʌntɪə; frʌn'tɪə]    美: [frʌn'tɪr]
+
+     n. 前沿；边界；国境
+     adj. 边界的；开拓的
+     n. (Frontier)人名；(法)弗龙捷
+    
+
+  1.I know we might have to wait at the frontier.
+    我知道我们可能必须在边界上等。
+  2.But they cannot adopt frontier technology by themselves.
+    但他们无法靠自己的力量引进前沿技术。
+  3.The frontier town boomed when gold was discovered nearby.
+    当那个边疆城镇附近发现金矿时它迅速而蓬勃发展起来。
+

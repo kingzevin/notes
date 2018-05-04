@@ -6539,3 +6539,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The next step in making your scripts unobtrusive is deciding when and how to include them.
     要使得脚本无侵入，接下来的步骤是决定何时以及如何包含它们。
 
+faint
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [feɪnt]    美: [fent]
+
+     adj. 模糊的；头晕的；虚弱的；[医] 衰弱的
+     vi. 昏倒；变得微弱；变得没气力
+     n. [中医] 昏厥，昏倒
+    
+
+  1.He fell into a dead faint.
+    他昏倒了。
+  2.It didn’t taste like marijuana , I remember the taste being rather faint.
+    它的味道与大麻不同，我记得那种味道是很模糊的。
+  3.So , guys , you might not have a clue what you want these days, but hopefully now you have a faint idea of what women want.
+    所以，男人们，你们也许完全不知道你们想要什么，但但愿你们现在能对女人想要什么有个模糊的概念。
+

@@ -6599,3 +6599,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But the benefits of grid computing are not all about money.
     但是网格计算的好处不都是与钱有关。
 
+systematically
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [,sɪstə'mætɪklɪ]    美: [,sɪstə'mætɪkl]
+
+     adv. 有系统地；有组织地
+    
+
+  1.A scientist makes observations , poses a hypothesis to explain the observations , and then systematically tests the hypothesis , looking for evidence that either supports or refutes its validity.
+    科学家先从事观测，再提出假设来解释观测结果，然后对假设进行系统地检验，寻找证据来支持或者否定这一假设。
+  2.But these challenges must not become an excuse for governments to systematically violate the rights and privacy of those who use the internet for peaceful political purposes.
+    然而，对于那些为了和平的政治目的利用互联网的人士，这些并不能成为政府有计划地侵犯他们的权利和隐私的托辞。
+  3.Never before has anyone systematically looked for the last queen of Egypt.
+    以前没有人曾系统地寻找过这位埃及最后的女王。
+

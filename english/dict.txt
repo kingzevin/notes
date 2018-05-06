@@ -6627,3 +6627,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.For example , terminology can be seen to be convergent -- fewer and fewer new business definitions are being identified across additional domains.
     例如，术语开始收敛了 ——跨新领域识别出的新术语越来越少了。
 
+eventual
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪ'ven(t)ʃʊəl]    美: 
+
+     adj. 最后的，结果的；可能的；终于的
+    
+
+  1.What does all this mean for eventual control of the stricken reactor as well as the cleanup ?
+    所有的这些对最终控制瘫痪的反应堆和清除核废物意味着什么？
+  2.Combined with reduced blood flow , neuropathy in the feet increases the chance of foot ulcers and eventual limb amputation.
+    足部神经病与血流量减少结合在一起，增加了患足部溃疡的可能，最终导致截肢。
+

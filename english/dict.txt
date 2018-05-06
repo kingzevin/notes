@@ -6723,3 +6723,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.An " anomaly " can also mean that a safety problem at a facility could have resulted in greater damage than it did or that radioactive material has been stolen or transported incorrectly.
     “异常”也可能意味着核设施的某个安全问题本可能造成更大的破坏，但结果并未造成严重后果；或是放射性材料被盗，或被不当运输。
 
+folrlore
+Querying... █▒▒▒▒▒▒▒▒▒                        
+    word 'folrlore' not found, do you mean?
+
+    folklore
+    n. 民俗学；民间传说；民间风俗
+    flore
+    n. 凝花（由升华得到的一种片状或粉末状...
+

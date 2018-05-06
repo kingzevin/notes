@@ -6732,3 +6732,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     flore
     n. 凝花（由升华得到的一种片状或粉末状...
 
+folklore
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['fəʊklɔː]    美: ['foklɔr]
+
+     n. 民俗学；民间传说；民间风俗
+    
+
+  1.I am interested in anything pertaining to folklore.
+    属于民间文学的任何东西我都感兴趣。
+  2.Like the notion of evil itself , they have ancient origins and appear in folklore and literature across the world.
+    像邪恶本身的概念，他们历史悠久，并且在世界上所有民间传说和文艺作品中都有出现。
+  3.Today , my foremost concern should be to research the folklore of my home country so that I can finish the footnote to my report.
+    今天，我最主要关心的应该是研究祖国的民间传说，那样我就可以完成我的报告的脚注了。
+

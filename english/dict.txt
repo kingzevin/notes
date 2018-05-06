@@ -6639,3 +6639,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.Combined with reduced blood flow , neuropathy in the feet increases the chance of foot ulcers and eventual limb amputation.
     足部神经病与血流量减少结合在一起，增加了患足部溃疡的可能，最终导致截肢。
 
+reconcile
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['rek(ə)nsaɪl]    美: ['rɛkənsaɪl]
+
+     vt. 使一致；使和解；调停，调解；使顺从
+    
+
+  1.How do we reconcile that ?
+    我们如何协调这些？
+  2.How do you reconcile this choice with liberalism ?
+    你如何调和这个选择与自由主义？
+  3.The teacher in charge of our class had to reconcile disputes among the students.
+    我们的班主任必须调解学生中的纠纷。
+

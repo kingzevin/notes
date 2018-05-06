@@ -6681,3 +6681,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.For its level of risk , there is no other portfolio with more value.
     对于风险级别，不存在其他高价值的投资组合。
 
+concur
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [kən'kɜː]    美: [kən'kɝ]
+
+     vi. 同意；一致；互助
+    
+
+  1.This should concur with the need for SOA governance ; in fact design -time governance is needed to enforce standardized services.
+    这要跟SOA治理的需求保持一致；事实上，要想执行标准化的服务，就需要设计时的治理。
+  2.And so , a lot of people see this as a sort of … or create a scenario , an Orwellian scenario , a Big Brother type scenario but I don't concur.
+    所以，大多数人会把这个现象视为一种……或者说创作一幕剧情，一幕奥威尔式或是“老大哥”式的剧情，但是我并不同意这样的看法。
+  3.This heritage I am proud of, and those who study Chinese history and culture will concur that it is a source of pride for mankind.
+    为这传统我感到骄傲，而任何人研究过中国的历史与文化，会同意那是人类足以为傲的一个源头。
+

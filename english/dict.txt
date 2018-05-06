@@ -6653,3 +6653,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The teacher in charge of our class had to reconcile disputes among the students.
     我们的班主任必须调解学生中的纠纷。
 
+practitioner
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [præk'tɪʃ(ə)nə]    美: [præk'tɪʃənɚ]
+
+     n. 开业者，从业者，执业医生
+    
+
+  1.You can do this by selecting only roles that interest you , as a practitioner.
+    作为一名从业者，您可以通过只选择那些您感兴趣的角色来进行操作。
+  2.The only itemthat is constant in all of those is the transformed practitioner.
+    在所有这些变化中唯一不变的就是转化的从业者。
+  3.Your doctor , health care practitioner or psychotherapist will help you determine the best course of action to have you feel strong and well again.
+    你的医生，健康护理从业者或精神治疗师将帮助你确定最好的治疗方案，去帮助你再次感觉到强壮和健康。
+

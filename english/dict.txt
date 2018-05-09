@@ -6753,3 +6753,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     monotonicity
     n. 单调性
 
+monotonicity
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [,mɔnətə'nisəti]    
+
+     n. [数] 单调性
+    
+
+  1.Theorem 1 indicates the feature of non- monotonicity for default reasoning.
+    定理1表明了缺省推理的非单调性这一特点。
+  2.In this paper, the basic theory of the soft morphology is presented and the soft morphology applied to detecting edge is discussed by its monotonicity , extensibility and anti extensionality.
+    根据柔性形态学单调性、扩展性、和反扩展性等基本理论，讨论了柔性形态学在边缘检测中的应用。
+  3.By using the continuous selection theorems and fixed point theorems , some existence theorems for GSVQEP are obtained without any monotonicity assumption.
+    利用连续选择定理和不动点定理，在没有任何单调性假设下得到了GSVQEP解的存在性定理。
+

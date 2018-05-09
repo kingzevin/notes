@@ -6746,3 +6746,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Today , my foremost concern should be to research the folklore of my home country so that I can finish the footnote to my report.
     今天，我最主要关心的应该是研究祖国的民间传说，那样我就可以完成我的报告的脚注了。
 
+monotonocity
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    word 'monotonocity' not found, do you mean?
+
+    monotonicity
+    n. 单调性
+

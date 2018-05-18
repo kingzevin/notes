@@ -6795,3 +6795,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This also means that users only have to learn one unified solution , as the tooling provides seamless integration , regardless of whether you are using processes , rules or event processing.
     这也意味着用户只需要学习一种统一的方案，因为工具提供了无缝的集成，无论你使用的是流程、规则还是事件处理。
 
+heterogeneous
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,het(ə)rə(ʊ)'dʒiːnɪəs; -'dʒen-]    美: ['hɛtərə'dʒinɪəs]
+
+     adj. [化学] 多相的；异种的；[化学] 不均匀的；由不同成分形成的
+    
+
+  1.Now, suppose that I have a heterogeneous mixture.
+    现在假设我们有不均匀的混合物。
+  2.These heterogeneous batch updates enable all associated tables to be updated in one network round trip to the server.
+    这些异构批处理更新允许在到服务器的一次网络行程中更新所有相关联的表。
+  3.They have begun to appreciate the immediate benefit of interoperability between heterogeneous platforms and programming languages.
+    他们开始意识到异种平台和编程语言之间的互操作性的即时利益。
+

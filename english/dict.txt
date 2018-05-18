@@ -6781,3 +6781,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The plays of Wilds exemplify the comedy of manners.
     王尔德的戏剧是风尚喜剧的典范。
 
+seamless
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['siːmlɪs]    美: ['simləs]
+
+     adj. 无缝的；无缝合线的；无伤痕的
+    
+
+  1.From what we ’re hearing , HP wants to create a seamless experience for all of their hardware.
+    从我们所听到的来看，惠普想要为他们所有的硬件创建一个无缝体验。
+  2.This is all seamless to the client ; no configuration or special code is required to enable this feature in the service.
+    这个特性对于客户端是无缝的；不需要进行配置或特殊代码就可以在服务中启用该特性。
+  3.This also means that users only have to learn one unified solution , as the tooling provides seamless integration , regardless of whether you are using processes , rules or event processing.
+    这也意味着用户只需要学习一种统一的方案，因为工具提供了无缝的集成，无论你使用的是流程、规则还是事件处理。
+

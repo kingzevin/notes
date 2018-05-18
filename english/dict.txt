@@ -6767,3 +6767,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.By using the continuous selection theorems and fixed point theorems , some existence theorems for GSVQEP are obtained without any monotonicity assumption.
     利用连续选择定理和不动点定理，在没有任何单调性假设下得到了GSVQEP解的存在性定理。
 
+exemplify
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ɪg'zemplɪfaɪ; eg-]    美: [ɪɡ'zɛmplɪfaɪ]
+
+     vt. 例证；例示
+    
+
+  1.All these recipes exemplify my cooking : healthy , delicious and quick.
+    所有这些食谱例证了我的饭菜：健康、美味、快捷。
+  2.Samson , one of the heroes of the Hebrew scriptures , seems to exemplify a different understanding of the power of hair : his awesome strength abandoned him as soon as his locks were trimmed.
+    参孙，希伯来圣经里的英雄之一，似乎例证了一种对头发的力量的不同理解：他的非凡力量随着头发被剪掉而消失。
+  3.The plays of Wilds exemplify the comedy of manners.
+    王尔德的戏剧是风尚喜剧的典范。
+

@@ -234,3 +234,5 @@ inherent
 
 reluctance
 
+delegate
+

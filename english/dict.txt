@@ -6823,3 +6823,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.You should be able to support accurate planning and scheduling with the help of the architecture by analyzing the complexity and risk factors inherent in the components.
     您应该能够通过分析组件固有的复杂性和风险影响因素来在体系结构的帮助下支持进行准确的计划和调度。
 
+reluctance
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [rɪ'lʌkt(ə)ns]    美: [rɪ'lʌktəns]
+
+     n. [电磁] 磁阻；勉强；不情愿
+    
+
+  1.The Netherlands , Slovakia and Austria have also expressed reluctance on the issue.
+    荷兰、斯洛伐克和奥地利在这个问题上也有不情愿的表示。
+  2.Only , the cruelty must be whitewashed by a moral excuse , and a pretence of reluctance.
+    只有这样，虐待才会有一种合乎道德的借口和假装的不情愿而被掩盖。
+  3.Morgiana obeyed , though with no little reluctance , and had a curiosity to see this man who ate no salt.
+    莫吉安娜服从了；虽然带着一点不情愿，并且有一点好奇去看看这个不吃盐的男人。
+

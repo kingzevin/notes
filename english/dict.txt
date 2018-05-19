@@ -6925,3 +6925,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Decide on three colors that either match or will coordinate with what you own and buy only those three colors for apparel.
     定下三种和你现有衣服搭配或协调的颜色，以后也只买这三种颜色的衣服。
 
+linguist
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['lɪŋgwɪst]    美: ['lɪŋgwɪst]
+
+     n. 语言学家
+     学多种外语的人
+    
+
+  1." I have decided to become a linguist , " he wrote.
+    “我已经决定成为一名语言学家，”他写到。
+  2.Application code is best developed by the programmer ; how to display the proper text is the job of the linguist.
+    应用程序代码最适合由程序员来开发；如何显示正确的文本则是语言学家的工作。
+  3.And this is what linguists do for a living so if you hear me talking about this and say , " I want to spend the next forty years of my life studying that ," you should become a linguist.
+    这就是语言学家们研究的问题,如果你听了我的讲解然后说,"我想用我的余生来研究这些东西",那你该去做一个语言学家
+

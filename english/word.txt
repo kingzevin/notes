@@ -248,3 +248,5 @@ apparel
 
 linguist
 
+morpheme
+

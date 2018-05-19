@@ -6940,3 +6940,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.And this is what linguists do for a living so if you hear me talking about this and say , " I want to spend the next forty years of my life studying that ," you should become a linguist.
     这就是语言学家们研究的问题,如果你听了我的讲解然后说,"我想用我的余生来研究这些东西",那你该去做一个语言学家
 
+morpheme
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: ['mɔːfiːm]    美: ['mɔrfim]
+
+     n. [语] 词素；形态素
+    
+
+  1.And what a morpheme is is the smallest meaningful unit in a language.
+    语素是语言中最小的意义单位
+  2.This process of adding more than one affix to a free morpheme is termed complex derivation.
+    这个过程中加入一个以上的词缀一个自由词素称为复杂的推导。
+  3.The most basic element of meaning is traditionally called morpheme.
+    传统上把意义的基本成分称为词素。
+

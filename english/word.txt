@@ -250,3 +250,5 @@ linguist
 
 morpheme
 
+arduous
+

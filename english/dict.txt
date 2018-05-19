@@ -6954,3 +6954,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The most basic element of meaning is traditionally called morpheme.
     传统上把意义的基本成分称为词素。
 
+arduous
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['ɑːdjʊəs]    美: ['ɑrdʒuəs]
+
+     adj. 努力的；费力的；险峻的
+    
+
+  1.This work will be arduous , but we have to overcome the difficulty.
+    这将是十分艰苦的工作，但也是我们必须克服的困难。
+  2.Therefore , they need the stopover habitat —the shallows , the sandbars , the security , the corn and invertebrates — to complete their arduous yearly cycle.
+    因此，它们需要这个中途停留的栖息地——浅滩、沙洲、安全、玉米和无脊椎动物——来完成年复一年的努力。
+  3.The process of changing from what you are to what you would like to become can be either arduous and frustrating or easy and rewarding.
+    从现在的你变成你想成为的自己的过程可能是艰辛和令人沮丧的，也可以是容易且值得的。
+

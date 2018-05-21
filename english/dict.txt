@@ -7105,3 +7105,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The high-frequency transformer which uses two windings in parallel with power converter , together with the use of interleave control will split input current and raise the efficiency of conversion.
     另高频变压器低压侧采用双绕组及功率转换器并联之结构，功率级电晶体之切换以交错式方式控制，可分散低压侧电流以提升转换效率。
 
+caveat
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['kævɪæt; 'keɪ-]    美: ['kævɪæt; 'ke-]
+
+     n. 警告；中止诉讼手续的申请；货物出门概不退换；停止支付的广告
+    
+
+  1.The only caveat I have is that a few of the commands generated contain syntax errors.
+    我要提出的惟一的警告就是：它所生成的部分命令包含语法错误。
+  2.The answer is yes but with one very critical caveat : isolating too much can devalue the deployment and run time benefits of an SOA.
+    答案是肯定的，但有一个非常重要的警告：过多隔离可能会降低部署的价值和SOA的运行时好处。
+  3.One caveat to node removal : the node must be running in order for this automatic removal process to proceed.
+    关于删除节点的一个警告就是要进行此自动删除过程必须按顺序运行节点。
+

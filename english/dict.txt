@@ -7078,3 +7078,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Introduction of new curricula and teaching methods ; 80% of teachers have started using new methodologies in line with national education strategy.
     引入了新课程和新的教学方法；80%的教师已开始采用符合全国教育战略要求的新方法。
 
+keep pace
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+     并驾齐驱；齐步并进
+    
+
+  1.We will see again a consumer that can keep pace with the economy , but cannot drive the economy forward.
+    我们将再次看到,消费者支出能够与经济成长步伐保持一致,但无法带动经济成长.
+  2.But despite this success , implementation of the programme could not keep pace with the rapidly spreading virus.
+    但是，尽管获得了成功，规划的实施却不能与病毒的快速传播保持同步。
+  3.The common thread is that the security models we implement for messaging need to keep pace with the ways in which we use messaging.
+    共同的思路是我们为消息传递实现的安全模型需要与我们使用消息传递的方式保持同步。
+

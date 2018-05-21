@@ -7119,3 +7119,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.One caveat to node removal : the node must be running in order for this automatic removal process to proceed.
     关于删除节点的一个警告就是要进行此自动删除过程必须按顺序运行节点。
 
+enticing
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ɪn'taɪsɪŋ; en-]    美: [ɪn'taɪsɪŋ]
+
+     adj. 迷人的；引诱的
+     v. 引诱；诱骗（entice的ing形式）
+    
+
+  1.One of the most enticing roles we lead in life is that of a storyteller.
+    我们在生活中最迷人的一个角色，就是作为一个讲述者。
+  2.How it made the leap from someone who makes you want to cuddle to someone who makes you cringe isn’t really known but there are a few enticing clues.
+    这个词是如何进行的从“让你想拥抱的人”到“能让你哭喊的人”的这一跳跃，并不被我们真正了解，但是其中有一些迷人的线索。
+  3.So he flew up to visit Gates in his office near Seattle and spun an enticing vision of what the Macintosh would be : a computer for the masses , with a friendly graphical interface.
+    因此，他乘飞机前去西雅图附近的微软办公室，与盖茨会面，向后者阐述了麦金塔的迷人前景：它将是一款为大众而开发的电脑，拥有图形化的友好界面。
+

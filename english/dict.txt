@@ -7146,3 +7146,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Use separate projects to group together packages that work in concert with each other or collectively achieve a single goal.
     使用单一的项目把在工作过程中有相互关联的或者要完成共同目标的包组合在一起。
 
+withstand
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [wɪð'stænd]    美: [wɪð'stænd]
+
+     vt. 抵挡；禁得起；反抗
+     vi. 反抗
+    
+
+  1.As a politician , he is able to withstand public criticism.
+    作为一名政治家，他经得住公众批评。
+  2.The only durable strength we have — the only one that can withstand these gale winds — is innovation.
+    唯一经得住考验的力量，我们唯一一个能够承受这些狂风聚变的---就是创新。
+  3.If you believe the decision of the group is wrong , you must have the courage to override it and withstand the group \\\\\\\ ' s reaction.
+    倘若你认为集体的决策是错误的，你就必须拿出勇气来推翻它，而且还要能抵挡得住大家的反应。
+

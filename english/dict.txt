@@ -7134,3 +7134,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.So he flew up to visit Gates in his office near Seattle and spun an enticing vision of what the Macintosh would be : a computer for the masses , with a friendly graphical interface.
     因此，他乘飞机前去西雅图附近的微软办公室，与盖茨会面，向后者阐述了麦金塔的迷人前景：它将是一款为大众而开发的电脑，拥有图形化的友好界面。
 
+in concert with
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+     和…相呼应；与…合作；和…一致
+    
+
+  1.If a tuning fork is struck and another tuning fork of the same pitch is in the vicinity , the second one will ring in concert with the first.
+    如果一个音叉被敲击，同样音高的另一个音叉在附近，第二个音叉将会与第一个音叉和谐地形成回响。
+  2.The tester argues for pertinent and realistic tests , conducting them in concert with the architect , and evaluating and interpreting the results.
+    测试人员赞成相关的且实际的测试，使它们与架构师保持一致，并且评估并解释结果。
+  3.Use separate projects to group together packages that work in concert with each other or collectively achieve a single goal.
+    使用单一的项目把在工作过程中有相互关联的或者要完成共同目标的包组合在一起。
+

@@ -7194,3 +7194,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.An " anomaly " can also mean that a safety problem at a facility could have resulted in greater damage than it did or that radioactive material has been stolen or transported incorrectly.
     “异常”也可能意味着核设施的某个安全问题本可能造成更大的破坏，但结果并未造成严重后果；或是放射性材料被盗，或被不当运输。
 
+imperative
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪm'perətɪv]    美: [ɪm'pɛrətɪv]
+
+     adj. 必要的，不可避免的；紧急的；命令的，专横的；势在必行的；[语]祈使的
+     n. 必要的事；命令；需要；规则；[语]祈使语气
+    
+
+  1.The undertaking was not easy , she said , but it felt imperative.
+    她说，这个选择并不轻松，但她感觉是必要的。
+  2.But it says " communications security , and specifically bandwidth protection [ from both friendly interference and adversary action ] is imperative.
+    但它说：“通信安全，具体的带宽保护[来自友好的干扰和对手的行动]是必要的。”
+  3.Sharing important information about sex with your child is much easier than you think , and it's imperative to give them a sense of confidence , trust , and safety.
+    与你的孩子分享有关性问题的重要信息比你所认为的要容易得多，而且很有必要给他们一种自信感，信任感和安全感。
+

@@ -7223,3 +7223,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Since it 's quite terse and provide powerful features for succinctness , it should be very maintainable.
     既然它很简洁，同时又为这种简洁性提供了强大的特性，那么它应该很容易维护。
 
+retention
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [rɪ'tenʃ(ə)n]    美: [rɪ'tɛnʃən]
+
+     n. 保留；扣留，滞留；记忆力；闭尿
+    
+
+  1.In customer retention situations , the firm knows when the relationship is over.
+    在客户保留情况下，公司知道关系什么时候结束。
+  2.Data security , retention , and management will be part of your standards discussion as well as programming conventions.
+    数据安全性、保留和管理将是与标准有关的讨论以及编程约定的一部分。
+  3.If you scope variables appropriately and reduce the use of instance variables , you can reduce this kind of object retention.
+    如果您适当地限制了变量的范围并且减少实例变量的使用， 则可以减少此类对象保留。
+

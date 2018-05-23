@@ -7209,3 +7209,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Sharing important information about sex with your child is much easier than you think , and it's imperative to give them a sense of confidence , trust , and safety.
     与你的孩子分享有关性问题的重要信息比你所认为的要容易得多，而且很有必要给他们一种自信感，信任感和安全感。
 
+terse
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [tɜːs]    美: [tɝs]
+
+     adj. 简洁的，精练的，扼要的
+    
+
+  1.See how terse that code is ?
+    看看这段代码有多么简洁？
+  2.The list of matching nodes is normally rather terse , including just the node name and the node 's internal handle.
+    匹配节点的列表通常是相当简洁的，只包括节点名和节点的内部句柄。
+  3.Since it 's quite terse and provide powerful features for succinctness , it should be very maintainable.
+    既然它很简洁，同时又为这种简洁性提供了强大的特性，那么它应该很容易维护。
+

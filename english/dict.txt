@@ -7237,3 +7237,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you scope variables appropriately and reduce the use of instance variables , you can reduce this kind of object retention.
     如果您适当地限制了变量的范围并且减少实例变量的使用， 则可以减少此类对象保留。
 
+pertain
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [pə'teɪn]    美: [pɝ'ten]
+
+     vi. 属于；关于；适合
+    
+
+  1.How this might pertain to choices that people might make is, as yet , unclear.
+    这些方式怎样附属于人们可能做出的选择至今仍未明了。
+  2.By doing this , you will then see metrics in the report that pertain only to that time range.
+    通过完成该操作，您就能看到只属于该时间范围的报告工具了。
+  3.If you hold CONTROL privilege on a table , you can update values that pertain to that table , but if you hold explicit DBADM authority on the database , you can change any updatable column.
+    如果在某个表上拥有CONTROL权限，那么就可以更新属于该表的值，但是如果拥有数据库上显式的DBADM授权的话，那么您可以更新任何可更新的列。
+

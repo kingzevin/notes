@@ -7265,3 +7265,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you hold CONTROL privilege on a table , you can update values that pertain to that table , but if you hold explicit DBADM authority on the database , you can change any updatable column.
     如果在某个表上拥有CONTROL权限，那么就可以更新属于该表的值，但是如果拥有数据库上显式的DBADM授权的话，那么您可以更新任何可更新的列。
 
+well-documented
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['wel'dɔkjumentid]    
+
+     adj. 证据充分的
+    
+
+  1.The findings may ' help to explain the well- documented association between sedentary screen -time activities and overweight ,' the study says.
+    该研究称，这些结论或许“有助于解释久坐电脑前与超重之间证据充分的关系”。
+  2.Despite BPM ’s long history and well - documented benefits , about half of all BPM initiatives fail , according to findings from leading analysts.
+    尽管BPM历史悠久，能带来的好处证据充分，根据领先的分析师的发现，却有约一半的BPM行动失败。
+  3.Fortunately there are well - documented algorithms on how to construct the transition table for any transition diagram , so the DFA effectively solves the problem.
+    幸运的是，在对任意一个转换图构造转换表方面，有一些成文的算法，这样，DFA就可以有效地解决这个问题。
+

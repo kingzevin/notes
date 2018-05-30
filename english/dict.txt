@@ -7333,3 +7333,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Does your current lease allow you to request that your tenant vacate within a certain period of time ?
     您当前的租契是否允许您对您的房客提出在某一段时间之内搬出的要求？
 
+outperform
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [aʊtpə'fɔːm]    美: [,aʊtpɚ'fɔrm]
+
+     vt. 胜过；做得比……好
+    
+
+  1.This is a good example of when unit testing can really outperform system integration testing.
+    这是单元测试能够胜过系统集成测试的一个很好的例子。
+  2.But character can't be taught in the classroom. Girls outperform boys at all levels of education.
+    但是，课堂上不可能教授这些品质，而女孩在各级教育中都胜过男孩。
+  3.The marketing coup was devised entirely by Hyundai 's U .S. managers and likely helped the company outperform its rivals during the downturn.
+    这个营销方案完全是由现代汽车的美国经理们设计的，而它可能帮助公司在经济衰退中胜过对手。
+

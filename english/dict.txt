@@ -7287,3 +7287,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   1.But the gathering of so many political heavyweights in one place can only be of concern to those not there , and notably President Bashir and his party.
     但是，如此众多的政治重量级人物齐聚同一地点，对那些未参加的人来说造成隐患，尤其是总统巴希尔和他的全国大会党。
 
+distill
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英:     美: [dɪs'tɪl]
+
+     vt. 提取；蒸馏；使滴下
+     vi. 蒸馏；滴下；作为精华产生（等于distil）
+    
+
+  1.“When you distill your own liquor , sometimes you end up with a bad batch,” whispered Tom.
+    “你自己蒸馏造酒，有时会最终弄得一塌糊涂。”汤姆小声说。
+  2.Weiss had to distill , heat and pass the air samples over adsorbents to remove gases such as carbon dioxide and krypton that could foul the extremely sensitive detector.
+    维斯必须蒸馏、加热并使空气样品通过吸附剂，以除去二氧化碳和氪等会污染极灵敏的探测器的气体。
+  3.They do not distill the music - gathering process.
+    他们不去浓缩提炼收集音乐的过程。
+

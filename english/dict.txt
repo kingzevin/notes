@@ -7354,3 +7354,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     utile
     adj. 有用的；有益的
 
+methodical
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [mɪ'θɒdɪk(ə)l]    美: [mə'θɑdɪkl]
+
+     adj. 有系统的；有方法的
+    
+
+  1.Many organizations grow organically and don’t think about their activities in this structured and methodical way.
+    许多组织在有机地成长时，并不会用这种结构化、有方法地去思考自身活动。
+  2.Completing the framework in a methodical way ensures that project managers have thought through every aspect of a problem and considered it from every perspective.
+    用系统的方法完成这个框架保证了项目的管理者通过了项目的每个方面，并且从每个方面进行了考虑。
+  3.The processes and institutions that create laws are slow and methodical , replete with redundant checks and balances.
+    制定法律的过程与制度是缓慢而有条不紊的，具有充分的检验与权衡。
+

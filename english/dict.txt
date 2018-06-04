@@ -7368,3 +7368,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The processes and institutions that create laws are slow and methodical , replete with redundant checks and balances.
     制定法律的过程与制度是缓慢而有条不紊的，具有充分的检验与权衡。
 
+bypass
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: ['baɪpɑːs]    美: ['baɪpæs]
+
+     vt. 绕开；忽视；设旁路；迂回
+     n. 旁路；[公路] 支路
+    
+
+  1.But if you think gastric bypass surgery might be right for you , talk with your doctor.
+    但是如果你认为胃分流术适合你，你可以与你的医生讨论一下。
+  2.This will allow her to bypass what some have speculated would be a risky Senate nomination process.
+    这将使沃伦绕开参议院的提名程序，有人士推测这将会是一个冒险之举。
+  3.The usage of this approach not only allows us to bypass service proxy generation , but also to use the same interfaces for both service and client implementation.
+    这个方法不仅让我们无需单独生成服务代理，而且服务和服务消费者的实现都可以使用同样的服务接口。
+

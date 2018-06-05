@@ -7399,3 +7399,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.And while most harvesting is still done manually , some have abandoned the ox -pulled plow for tractors.
     因为大部分收割还是手工的，有些人已经废弃了使用牛拉犁而改用拖拉机。
 
+disperse
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [dɪ'spɜːs]    美: [dɪ'spɝs]
+
+     vt. 分散；使散开；传播
+     vi. 分散
+     adj. 分散的
+    
+
+  1.After midnight Wednesday , the situation in Bishkek seemed to have calmed down a little and the protesters began to disperse , as witnessed by Xinhua reporters.
+    据新华社记者目击，星期三半夜之后，比什凯克的局势似乎平静下来一些，反对刚支持者开始分散。
+

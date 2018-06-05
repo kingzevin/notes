@@ -7411,3 +7411,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   1.After midnight Wednesday , the situation in Bishkek seemed to have calmed down a little and the protesters began to disperse , as witnessed by Xinhua reporters.
     据新华社记者目击，星期三半夜之后，比什凯克的局势似乎平静下来一些，反对刚支持者开始分散。
 
+convoy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒ 
+    英: ['kɒnvɒɪ]    美: ['kɑnvɔɪ]
+
+     n. 护送；护卫；护航队
+     vt. 护航；护送
+    
+
+  1.I'm expecting to hear a convoy of cars pulling up, but nothing , silence.
+    我希望听到护送他的汽车刹车的声音，但没有，一片安静。
+  2.IN THE dead of night, an unusual convoy made its way through Lyon earlier this month.
+    在这个月初，一支不寻常的护卫队伍在夜深人静的时候，取道里昂。
+  3.Thinking gunmen would be reluctant to shoot women and journalists , he sent them in a convoy to register his candidacy.
+    想到持枪者会不大愿意射杀妇女和记者，他用车队护送他们去注册他的候选资格。
+

@@ -332,3 +332,5 @@ scatter
 
 omission
 
+ponder
+

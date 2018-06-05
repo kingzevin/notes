@@ -7486,3 +7486,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This omission , again , may be accidental -- the superior does not realize that subordinates need the information.
     这种遗漏同样也可能是出于偶然——上级没有意识到下级需要这个信息。
 
+ponder
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: ['pɒndə]    美: ['pɑndɚ]
+
+     vt. 仔细考虑；衡量
+     vi. 考虑；沉思
+     n. (Ponder)人名；(英)庞德
+    
+
+  1.We can ponder over the ways and means for raising funds before the construction work starts.
+    我们可以在建筑工程开工之前详细考虑各种筹款集资的措施。
+  2.For complex decisions with lots of important factors , feed your unconscious mind the data and than let it ponder the decision for a while.
+    对于那些有着很多重要因素的复杂决定，把这些信息输入到你的潜意识中，让它考虑一段时间。
+  3.In one of the tests , half of the participants were asked to ponder on the information they were given and then decide which among similar products to buy.
+    在一个试验中，一半的参与者被要求对他们所得到的信息进行仔细考虑，然后在那些相似的产品中做出购买决定。
+

@@ -7435,3 +7435,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     inhibit
     vt. 抑制；禁止
 
+inhibit
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ɪn'hɪbɪt]    美: [ɪn'hɪbɪt]
+
+     vt. 抑制；禁止
+    
+
+  1.The bacterium can also secrete chemicals that inhibit fungal growth , as well as hormones that stimulate the growth of its host plants.
+    这种细菌也能够分泌抑制真菌生长的化学物质，同时，它还能产生促进宿主植物生长的激素。
+  2.But they also seem to inhibit the development of the fatty plaques that can clog up blood vessels and cause strokes.
+    然而这种抗体看起来也抑制脂质斑块的形成，脂质斑块可以堵塞血管并导致中风。
+  3.Of course , many programmers , including myself , would object that such a policy would inhibit the use of many important design patterns.
+    当然，包括我在内的许多程序员都会反对这种策略，它抑制了许多重要设计模式的使用。
+

@@ -7426,3 +7426,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Thinking gunmen would be reluctant to shoot women and journalists , he sent them in a convoy to register his candidacy.
     想到持枪者会不大愿意射杀妇女和记者，他用车队护送他们去注册他的候选资格。
 
+inhibitg
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'inhibitg' not found, do you mean?
+
+    inhibits
+    
+    inhibit
+    vt. 抑制；禁止
+

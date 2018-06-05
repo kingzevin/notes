@@ -7456,3 +7456,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     utile
     adj. 有用的；有益的
 
+scatter
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['skætə]    美: ['skætɚ]
+
+     vi. 分散，散开；散射
+     vt. 使散射；使散开，使分散；使散播，使撒播
+     n. 分散；散播，撒播
+    
+
+  1.Put all your eggs into one basket and then watch that basket , do not scatter your shot.
+    把你所有的鸡蛋放到一个篮子里，然后小心的看好你的篮子，不要分散你的注意力。
+  2.I will scatter them as with an east wind before the enemy ; I will shew them the back, and not the face , in the day of their calamity.
+    我必在仇敌面前分散他们，好像用东风吹散一样。遭难的日子，我必以背向他们，不以面向他们。
+  3.The model depicts aerosol optical thickness , a measure of the amount of light that the aerosols scatter and absorb , and a proxy for the number of particles in the air.
+    这个模型描述了气溶胶的光学厚度（一个衡量光在气溶胶里分散和吸收的物理量）以及气溶胶代替空气分子的程度。
+

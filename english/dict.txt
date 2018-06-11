@@ -7502,3 +7502,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In one of the tests , half of the participants were asked to ponder on the information they were given and then decide which among similar products to buy.
     在一个试验中，一半的参与者被要求对他们所得到的信息进行仔细考虑，然后在那些相似的产品中做出购买决定。
 
+snoop
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [snuːp]    美: 
+
+     vi. 调查，窥探
+     n. 私家侦探，到处窥视；爱管闲事的人
+     vt. 窥察，窥探
+    
+
+  1.A good snoop would have sat behind the man 's desk , looked under it for piles of shoes , rummaged through the bin.
+    优秀的窥探者会坐到办公桌后面去，看看下面有没有成堆的鞋子，翻翻垃圾筒里都有些什么。
+  2.The president and police have more power , claiming more authority to snoop into the private lives of citizens with less oversight from the courts.
+    总统和警方现在拥有更多权力，有更大权力可以窥探公民私生活，而接受法庭监管变少了。
+  3.The same has occurred in Bahrain , while in Iran , deep packet inspection - used to snoop on email , VoIP calls , and other online activity - has been reported.
+    同样的事情也发生在巴林。据报道，伊朗使用深度数据包检测技术来窥探电子邮件、网络语音电话和其它在线活动。
+

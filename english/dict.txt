@@ -7537,3 +7537,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.We could optimize , but the application would be at least an order of magnitude slower. Memory use would also skyrocket , as so many classes are created.
     我们可以做优化，但应用程序的速度将会变慢至少一个数量级，内存的使用也会扶摇直上，因为有这么多的类被创建。
 
+judiciously
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [dʒu:'diʃəsli]    
+
+     adv. 明智而审慎地；明断地
+    
+
+  1.You should use this feature judiciously.
+    您应该谨慎使用此功能。
+  2.Caching as a strategy for improving application performance must be applied judiciously and with care.
+    作为提高应用程序性能的一种策略，缓存应当被明智谨慎地应用。
+  3.With existing users of the service , however , changes need to be made judiciously so as not to disrupt their successful operation.
+    不过，对于服务的现有用户，需要采用巧妙的方式进行更改，以便不会干扰他们的成功操作。
+

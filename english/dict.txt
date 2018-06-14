@@ -7518,3 +7518,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The same has occurred in Bahrain , while in Iran , deep packet inspection - used to snoop on email , VoIP calls , and other online activity - has been reported.
     同样的事情也发生在巴林。据报道，伊朗使用深度数据包检测技术来窥探电子邮件、网络语音电话和其它在线活动。
 
+orders of magnitude
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    word 'orders of magnitude' not found, do you mean?
+
+    order of magnitude
+    数量级
+

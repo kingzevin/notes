@@ -7551,3 +7551,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.With existing users of the service , however , changes need to be made judiciously so as not to disrupt their successful operation.
     不过，对于服务的现有用户，需要采用巧妙的方式进行更改，以便不会干扰他们的成功操作。
 
+evict
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪ'vɪkt]    美: [ɪ'vɪkt]
+
+     vt. 驱逐；逐出
+    
+
+  1.One cleric resigned over plans to evict the protesters forcibly , arguing that the Church should have been more supportive of their cause.
+    一位因为计划强行驱逐示威者而辞职的神职人员辩解说国教会应当给予他们更多的支持。
+  2.It uses complex network analysis to identify where stealth attacks are taking place and provides the tools organisations need to evict the perpetrators and shore up the network against future threats.
+    它使用复杂的网络分析，以确定哪些地方正在发生的隐蔽攻击，并提供必要的工具驱逐攻击者，支持网络抵御未来的威胁。
+  3.Due to political pressure , rangers can't evict settlers , many of whom have nowhere else to go.
+    基于政治压力，护林员不可以驱逐定居者。许多定居者也没有其它地方可去。
+

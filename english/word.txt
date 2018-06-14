@@ -342,3 +342,5 @@ order of magnitude
 
 judiciously
 
+evict
+

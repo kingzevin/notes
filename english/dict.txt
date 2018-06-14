@@ -7525,3 +7525,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     order of magnitude
     数量级
 
+order of magnitude
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+     [数] 数量级
+    
+
+  1.New boosters can increase the payload by almost one order of magnitude.
+    新型助推器能使有效负载几乎增加一个数量级.
+  2.Most software projects have requirements backlogs that are too big -- often by an order of magnitude.
+    大多数软件项目都有庞大的需求积压——通常按照数量级进行排列。
+  3.We could optimize , but the application would be at least an order of magnitude slower. Memory use would also skyrocket , as so many classes are created.
+    我们可以做优化，但应用程序的速度将会变慢至少一个数量级，内存的使用也会扶摇直上，因为有这么多的类被创建。
+

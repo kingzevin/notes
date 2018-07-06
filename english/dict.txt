@@ -7579,3 +7579,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The plays of Wilds exemplify the comedy of manners.
     王尔德的戏剧是风尚喜剧的典范。
 
+ccontract
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'ccontract' not found, do you mean?
+
+    contract
+    vi. 收缩；感染；订约 | vt. 感染；订约...
+

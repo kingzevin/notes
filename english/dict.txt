@@ -7656,3 +7656,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Sure , most developers unquestioningly back up their source code , but backing up a build environment is a lot more difficult and customarily gets done only in more strictly maintained environments.
     不错，大多数开发人员肯定会备份他们的源代码，但是备份构建环境要困难得多，通常只能在更严格维护的环境中才能完成。
 
+scketch
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'scketch' not found, do you mean?
+
+    sketch
+    n. 素描；略图；梗概 | vt. 画素描或速写 |...
+    scratch
+    n. 擦伤；抓痕；刮擦声；乱写 | adj. 打...
+

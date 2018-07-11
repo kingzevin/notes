@@ -7642,3 +7642,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.What does , ironically , veer more towards sensationalism , are the attempts by opponents of climate action to lambast such discussions as opportunistic , to try to shut down the dialogue.
     但是讽刺的是那些气候行动的对手试图谴责这样的讨论，正如投机取巧的试图关闭对话，这些才是更加的哗众取宠。
 
+customarily
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['kʌstəm(ə)rɪlɪ]    美: 
+
+     adv. 通常，习惯上
+    
+
+  1.This transformation is customarily called the Industrial Revolution.
+    习惯上，这种转变被称为“产业革命”。
+  2.Customarily , the austerity measures have to be in place as the aid package takes effect.
+    在援助计划生效的同时，紧缩措施通常必须到位。
+  3.Sure , most developers unquestioningly back up their source code , but backing up a build environment is a lot more difficult and customarily gets done only in more strictly maintained environments.
+    不错，大多数开发人员肯定会备份他们的源代码，但是备份构建环境要困难得多，通常只能在更严格维护的环境中才能完成。
+

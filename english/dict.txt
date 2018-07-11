@@ -7679,3 +7679,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Bates is best known for The Darling Buds of May , which was a TV hit ; this sequel was also adapted for television in 1977.
     贝茨最有名的小说《五月的花朵》改编成电视剧风靡一时，这本书作为续集也于1977年被改编成电视剧。
 
+axiom
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['æksɪəm]    美: ['æksɪəm]
+
+     n. [数] 公理；格言；自明之理
+    
+
+  1.The " sex is bad " axiom predominates in society and science.
+    “性是坏的”这个公理在社会和科学中占据了主导。
+  2.It is an axiom in the business world that a satisfied customer is the best advertisement.
+    满意的顾客是最好的广告，这是商界的格言。
+  3.This axiom seems to be completely missing , or at least grossly underemphasized , by the process evangelists and literature, but it is usually very observable in successful software projects.
+    这个公理在过程里似乎完全被忽略了，或者至少是不受重视的，但是它在成功的软件项目中通常是非常引人注目的。
+

@@ -7736,3 +7736,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Finally they rose against the unjust treatment.
     他们终于起来反对这种不公正的待遇。
 
+toggle
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['tɒg(ə)l]    美: ['tɑɡl]
+
+     vt. 拴牢，系紧
+     n. 开关，触发器；拴扣；[船] 套索钉
+    
+
+  1.After executing each instance , toggle back to the applications described above.
+    执行每个实例后，切换到前面描述的应用程序。
+  2.How do these actually wind up in the spinner , and how can the application toggle between English and metric units ?
+    那么，这些值如何出现在微调器中，应用程序如何在英制单位与公制单位之间切换？
+  3.Since the desired behavior is to toggle it on and off , we only have to remove it if it is present ; otherwise , insert it.
+    因为所希望的行为就是插入和除去这个修饰符，所以如果它存在，我们除去它；否则就插入它。
+

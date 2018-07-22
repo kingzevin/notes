@@ -7707,3 +7707,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Yet we are still heirs to a noble struggle for freedom . And now we must summon all of our might and moral suasion to meet the challenges of a new age.
     然而我们依然是为争取自由而战的崇高使命的继承者，我们必须召唤我们所有的力量和道义的呼声应对新时代的各种挑战。
 
+clockwise
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['klɒkwaɪz]    美: ['klɑk'waɪz]
+
+     adv. 顺时针方向地
+     adj. 顺时针方向的
+    
+
+  1.If you walk clockwise , you will see that the surface is to your left or use the right-hand rule.
+    如果沿顺时针方向走，就会发现这个曲面在左方,或者用右手定则来判断。
+  2.The genetic code decides whether they sit with a slight twist towards clockwise or anticlockwise.
+    基因密码决定了它们的排列是稍稍向顺时针方向还是向逆时针方向扭曲。
+  3.If it's morning , you'll find south about halfway between the hour hand and twelve o'clock, clockwise.
+    如果是早上，按顺时针方向转过去，时针和十二点位置的中间差不多就是南边。
+

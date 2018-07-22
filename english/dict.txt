@@ -7693,3 +7693,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This axiom seems to be completely missing , or at least grossly underemphasized , by the process evangelists and literature, but it is usually very observable in successful software projects.
     这个公理在过程里似乎完全被忽略了，或者至少是不受重视的，但是它在成功的软件项目中通常是非常引人注目的。
 
+summon
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['sʌmən]    美: ['sʌmən]
+
+     vt. 召唤；召集；鼓起；振作
+    
+
+  1.Parliament has powers to introduce and pass legislation , summon and impeach ministers or the president.
+    议会拥有提出和通过法律、召集弹劾内阁成员或总统的权力。
+  2.Her magnanimity provoked his tears : he wept wildly , kissing her supporting hands , and yet could not summon courage to speak out.
+    她的宽宏大量惹起他的眼泪；他发狂地哭着，吻她那扶着他的手，却还不能鼓起勇气说出来。
+  3.Yet we are still heirs to a noble struggle for freedom . And now we must summon all of our might and moral suasion to meet the challenges of a new age.
+    然而我们依然是为争取自由而战的崇高使命的继承者，我们必须召唤我们所有的力量和道义的呼声应对新时代的各种挑战。
+

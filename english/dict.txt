@@ -7722,3 +7722,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If it's morning , you'll find south about halfway between the hour hand and twelve o'clock, clockwise.
     如果是早上，按顺时针方向转过去，时针和十二点位置的中间差不多就是南边。
 
+unjust
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ʌn'dʒʌst]    美: ['ʌn'dʒʌst]
+
+     adj. 不公平的，不公正的；非正义的
+    
+
+  1.He submitted to the unjust treatment.
+    他屈服于这种不公平的待遇。
+  2.The unjust Stamp Act must be annulled.
+    必须废止这个不公正的印花税案。
+  3.Finally they rose against the unjust treatment.
+    他们终于起来反对这种不公正的待遇。
+

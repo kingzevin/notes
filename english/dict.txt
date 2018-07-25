@@ -7751,3 +7751,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Since the desired behavior is to toggle it on and off , we only have to remove it if it is present ; otherwise , insert it.
     因为所希望的行为就是插入和除去这个修饰符，所以如果它存在，我们除去它；否则就插入它。
 
+combinatorial
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [kɒm,baɪnə'tɔːrɪəl]    美: [kəm,baɪnə'tɔrɪəl]
+
+     adj. 组合的
+    
+
+  1.As Norbert Wiener showed in 1952 , feedback circuits , in all their combinatorial variety , are the fountainhead of control and self- governance.
+    正如诺伯特•维纳在1952年所指出的，具备各类组合变化的反馈电路，是控制和自我管理的根源。
+  2.DNA also has this sort of combinatorial system where you have a finite number of , I guess, bases or amino acids that could combine to a possible infinity of strings of DNA strings.
+    脱氧核糖核酸也拥有这种组合系统,你的生物基础或氨基酸数量是有限的,但却能组合出,几乎无限的脱氧核糖核酸螺旋结构
+  3.And the answer is you have a combinatorial system.
+    答案便是,你有一个组合系统
+

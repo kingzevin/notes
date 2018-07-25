@@ -7765,3 +7765,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.And the answer is you have a combinatorial system.
     答案便是,你有一个组合系统
 
+thesis
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['θiːsɪs]    美: ['θisɪs]
+
+     n. 论文；论点
+    
+
+  1.Here you list the contributions of new knowledge that your thesis makes.
+    这里你列举出你的论文所做出的新知识的贡献。
+  2.It is what you profess . Well, the thesis is also , another way to think of it , an answer to a question.
+    它就是你要表达的东西，这个论文也是，另一种思考它的方式，关于一个问题的答案。
+  3.In other words , this note should be helpful when you are just getting started in your graduate program , as well as later when you start to write your thesis.
+    用另一句话来说就是，这篇短文应该会对你很有帮助无论是你刚刚开始你的研究生课程还是稍后你要开始写你的论文。
+

@@ -7779,3 +7779,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In other words , this note should be helpful when you are just getting started in your graduate program , as well as later when you start to write your thesis.
     用另一句话来说就是，这篇短文应该会对你很有帮助无论是你刚刚开始你的研究生课程还是稍后你要开始写你的论文。
 
+arbitration
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɑːbɪ'treɪʃ(ə)n]    美: [,ɑrbɪ'treʃən]
+
+     n. 公断，仲裁
+    
+
+  1.It was settled by compulsory arbitration.
+    此事已通过强制性仲裁得到解决。
+  2.We should include an arbitration clause in the contract.
+    在合同中，我们应该加进仲裁的条款。
+

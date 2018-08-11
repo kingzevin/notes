@@ -7791,3 +7791,21 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.We should include an arbitration clause in the contract.
     在合同中，我们应该加进仲裁的条款。
 
+trim
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [trɪm]    美: [trɪm]
+
+     vt. 修剪；整理；装点
+     vi. 削减
+     n. 修剪；整齐；情形
+     adj. 整齐的
+     n. (Trim)人名；(意)特里姆
+    
+
+  1.We should trim off the unnecessary parts of our spending.
+    我们应该削减不必要的开销。
+  2.As banks labor under stricter limitations on how they can lend , they have been looking to trust companies in particular to trim their balance sheets and lessen their regulatory burden.
+    由于银行在如何贷款方面有严格的限制，他们已经希望可以给那些努力削减其资产负债表的公司放贷，减轻其监管负担。
+  3.Some companies cautioned that the projections might be too high , which suggests they might trim their pay levels for the fourth quarter in response to public anger.
+    一些公司警告说，这一预期可能过高了；这意味着他们可能会在第四季度削减薪酬水平，以应对公众的愤怒情绪。
+

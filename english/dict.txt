@@ -7809,3 +7809,13 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Some companies cautioned that the projections might be too high , which suggests they might trim their pay levels for the fourth quarter in response to public anger.
     一些公司警告说，这一预期可能过高了；这意味着他们可能会在第四季度削减薪酬水平，以应对公众的愤怒情绪。
 
+notably
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['nəʊtəblɪ]    美: ['notəbli]
+
+     adv. 显著地；尤其
+    
+
+  1.But the gathering of so many political heavyweights in one place can only be of concern to those not there , and notably President Bashir and his party.
+    但是，如此众多的政治重量级人物齐聚同一地点，对那些未参加的人来说造成隐患，尤其是总统巴希尔和他的全国大会党。
+

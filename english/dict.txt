@@ -7966,3 +7966,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.I also successfully tested the built-in TV function , which requires a cumbersome external attachment to work with a cable box.
     我还成功检测了其内置的电视功能，这个功能需要一个以分线盒连接的笨重外接设备。
 
+mandate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['mændeɪt]    美: ['mændet]
+
+     n. 授权；命令，指令；委托管理；受命进行的工作
+     vt. 授权；托管
+    
+
+  1.Why have a mandate ?
+    为什么需要命令？
+  2.Not all states, however , mandate their use.
+    然而，有些州并未授权使用。
+  3.She has after all a mandate that transcends the influence of her brother. And she must remember that reconciliation is a loaded word.
+    她不要忘记有一个超越了她哥哥影响力的授权，并且她一定要记住和解是一个内涵很丰富的词。
+

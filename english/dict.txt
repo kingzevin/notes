@@ -7896,3 +7896,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you scope variables appropriately and reduce the use of instance variables , you can reduce this kind of object retention.
     如果您适当地限制了变量的范围并且减少实例变量的使用， 则可以减少此类对象保留。
 
+tier
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [tɪə]    美: [tɪr]
+
+     n. 层，排；行，列；等级
+     vt. 使层叠
+     vi. 成递升排列
+     n. (Tier)人名；(英)蒂尔
+    
+
+  1.However , this tutorial focuses on the middleware tier.
+    不过，本教程的重点是中间件层。
+  2.I like to run each tier in production within its own logical partition.
+    在生产环境中，我喜欢在独立的逻辑分区中运行每个层。
+  3.Failure and recovery tests should also be performed here so there should be at least two servers for each tier.
+    故障和恢复测试也应该在这里执行，以便每一层至少应该有两个服务器。
+

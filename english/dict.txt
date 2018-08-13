@@ -7997,3 +7997,16 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It should not overwhelm you with raw HTTP traffic dumps , and it goes far beyond simply providing a framework to tamper with the application by hand.
     用户不会再被大量原始的HTTP流量数据淹没，而且这个工具远不仅仅是一个人工干预应用程序的框架。
 
+free up
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+     空出来
+     开放 (市场、经济或体制)
+    
+
+  1.In this simple way , users are able to free up space on their Taskbar.
+    就这样一个简单的方法可以为用户释放更多的任务栏空间。
+  2.When a user operation involves multiple interactions , each interaction should have its own transaction to commit and should free up all locks before returning activity to the user.
+    当用户操作涉及多个交互作用时，每个交互作用应当提交自己的事务并且应当在将活动返回给用户之前释放所有锁。
+  3.An improved eurozone current account through trade as well as Chinese investment into Europe will free up funding within Europe and allow more savings to be directed towards governments.
+    通过贸易和中国对欧洲的投资，欧元区经常账户情况得到改善，将解放欧洲内部的资金，从而使更多的储蓄流向各国政府。
+

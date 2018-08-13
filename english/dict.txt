@@ -8025,3 +8025,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.His mantra of “ Change ” propelled him all the way to the White House in some style.
     他那高亢的“改变”颂歌以一种独特的方式一路上推动他走入白宫。
 
+eschew
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ɪs'tʃuː; es-]    美: [ɪsˈtʃuː]
+
+     vt. 避免；避开；远避
+    
+
+  1.Eschew any decisions.
+    避开任何决定。
+  2.Some XML programmers eschew attributes altogether for this reason , but I think that goes too far.
+    一些XML程序员由于这个原因而完全避开了属性，但我认为太过分了。
+  3.Adults eschew such prey and typically feed on nectar or pollen , though some adults do not eat at all.
+    成虫会避免此种捕食方式，典型的以花蜜或花粉为食，虽然某些萤火虫成虫压根不进食。
+

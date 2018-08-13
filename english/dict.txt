@@ -7981,3 +7981,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.She has after all a mandate that transcends the influence of her brother. And she must remember that reconciliation is a loaded word.
     她不要忘记有一个超越了她哥哥影响力的授权，并且她一定要记住和解是一个内涵很丰富的词。
 
+tamper
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['tæmpə]    美: ['tæmpɚ]
+
+     vi. 篡改；干预；损害；削弱；玩弄；贿赂
+     vt. 篡改
+     n. 填塞者；捣棒
+    
+
+  1.Don't tamper with my business.
+    别干预我的事。
+  2.When you tamper with this position , you are asking for trouble.
+    若是你损害了这一定位，那么你就是在自找麻烦。
+  3.It should not overwhelm you with raw HTTP traffic dumps , and it goes far beyond simply providing a framework to tamper with the application by hand.
+    用户不会再被大量原始的HTTP流量数据淹没，而且这个工具远不仅仅是一个人工干预应用程序的框架。
+

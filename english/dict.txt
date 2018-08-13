@@ -7846,3 +7846,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.You should be able to support accurate planning and scheduling with the help of the architecture by analyzing the complexity and risk factors inherent in the components.
     您应该能够通过分析组件固有的复杂性和风险影响因素来在体系结构的帮助下支持进行准确的计划和调度。
 
+impediment
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ɪm'pedɪm(ə)nt]    美: [ɪm'pɛdɪmənt]
+
+     n. 口吃；妨碍；阻止
+    
+
+  1.Moreover , we do not carry the legacies of the past several years in our banks' or public sector balance sheets that are such an impediment in other places.
+    此外，我们不必承担那些在银行和公共部门资产负债表中存在的过去几年的遗留问题，这在其他一些地方是如此一个妨碍。
+  2.Expectation is the greatest impediment to living. In anticipation of tomorrow , it loses today.
+    期待是生活着最大的妨碍在明天的预期中遗失了今天.—塞纳卡人
+

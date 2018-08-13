@@ -7831,3 +7831,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   1.After midnight Wednesday , the situation in Bishkek seemed to have calmed down a little and the protesters began to disperse , as witnessed by Xinhua reporters.
     据新华社记者目击，星期三半夜之后，比什凯克的局势似乎平静下来一些，反对刚支持者开始分散。
 
+inherent
+inherent
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪn'hɪər(ə)nt; -'her(ə)nt]    美: [ɪn'hɪrənt]
+
+     adj. 固有的；内在的；与生俱来的，遗传的
+    
+
+  1.However , the use of these materials does involve some inherent questions.
+    然而，对这些材料的使用涉及了一些固有的问题。
+  2.They can be quite cryptic , but are worth learning because of the inherent power they give you for text processing.
+    它们可能十分神秘，但是值得学习，因为它们给予您文本处理的与生俱来的力量。
+  3.You should be able to support accurate planning and scheduling with the help of the architecture by analyzing the complexity and risk factors inherent in the components.
+    您应该能够通过分析组件固有的复杂性和风险影响因素来在体系结构的帮助下支持进行准确的计划和调度。
+

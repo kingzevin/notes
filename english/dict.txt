@@ -7913,3 +7913,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Failure and recovery tests should also be performed here so there should be at least two servers for each tier.
     故障和恢复测试也应该在这里执行，以便每一层至少应该有两个服务器。
 
+compliance
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [kəm'plaɪəns]    美: [kəm'plaɪəns]
+
+     n. 顺从，服从；承诺
+    
+
+  1.My joy is in your freedom , not your compliance.
+    我的工体现在你的自由而非你的顺从中。
+  2.Compliance means Say what you do , Do what you say , and Show you did it.
+    遵从性意味着说您所做的，做您所说的，并且展示您所做的。
+  3.To do that with confidence , you need to measure your compliance to them.
+    要想自信地作出承诺，您需要衡量自己对服务承诺的符合度。
+

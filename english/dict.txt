@@ -7952,3 +7952,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     cumber
     vt. 阻碍，妨害；使受苦 | n. 拖累，累赘；妨害
 
+cumbersome
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['kʌmbəs(ə)m]    美: [ˈkʌmbərsəm]
+
+     adj. 笨重的；累赘的；难处理的
+    
+
+  1.This is a very cumbersome approach , though.
+    虽然这是一种很笨重的实现方法。
+  2.This proved to be very cumbersome.
+    但是这样做会非常累赘。
+  3.I also successfully tested the built-in TV function , which requires a cumbersome external attachment to work with a cable box.
+    我还成功检测了其内置的电视功能，这个功能需要一个以分线盒连接的笨重外接设备。
+

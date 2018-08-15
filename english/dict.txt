@@ -8052,3 +8052,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   1.She soon learned to punt.
     她很快就学会了撑方头平底船。
 
+test
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [test]    美: [tɛst]
+
+     n. 试验；检验
+     vt. 试验；测试
+     vi. 试验；测试
+     n. (Test)人名；(英)特斯特
+    
+
+  1.He got in after a special test.
+    经过一次特殊测试后，他被接受入学。
+  2.We must run a test before beginning to operate a new machine.
+    在开始使用一台新机器前必须先进行一次试验。
+  3.His work is to test out new designs of cars before they are put on the market.
+    他的工作是在新设计的汽车投入市场之前对它们进行检验。
+

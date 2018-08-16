@@ -8109,3 +8109,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Of these three , theft is the most obvious because the act itself is malicious.
     在这三种之中，盗窃是最明显的，因为其行为本身就是恶意的。
 
+monetary
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['mʌnɪt(ə)rɪ]    美: ['mʌnɪtɛri]
+
+     adj. 货币的；财政的
+    
+
+  1.So that will be the monetary policy tool.
+    所以，这将会是货币政策的工具。
+  2.We should recover monetary policy from the dustbin and put it on the table.
+    我们应该从垃圾桶里找回货币政策，并将其摆在桌面上。
+

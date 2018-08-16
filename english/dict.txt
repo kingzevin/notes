@@ -8095,3 +8095,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.So how do these outliers and dispersion affect the values of the mean and standard deviation ?
     那么这些异常值和分散度是怎么影响度量值和标准偏差的呢？
 
+malicious
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [mə'lɪʃəs]    美: [mə'lɪʃəs]
+
+     adj. 恶意的；恶毒的；蓄意的；怀恨的
+    
+
+  1.You ought to kick back at such malicious slander.
+    你应当对这种恶意诽谤进行反击。
+  2.The malicious rumours compromised her good reputation.
+    恶毒的谣言使她的好名声受到损害。
+  3.Of these three , theft is the most obvious because the act itself is malicious.
+    在这三种之中，盗窃是最明显的，因为其行为本身就是恶意的。
+

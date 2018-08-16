@@ -8081,3 +8081,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Must lend itself to using most of the IBM Framework for e -business products and technologies in its implementation , and be representative of our customers' problems and solutions
     必须有助于在其实现中使用大部分的面向电子商务产品和技术的IBM框架，还必须是我们的客户的问题和解决方案的典型代表
 
+deviation
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [diːvɪ'eɪʃ(ə)n]    美: ['divɪ'eʃən]
+
+     n. 偏差；误差；背离
+    
+
+  1.What is deviation detection ?
+    什么是偏差检测？
+  2.The deviation made by the wind could be straightened by the computer.
+    由风引起的偏差可由计算机予以校正。
+  3.So how do these outliers and dispersion affect the values of the mean and standard deviation ?
+    那么这些异常值和分散度是怎么影响度量值和标准偏差的呢？
+

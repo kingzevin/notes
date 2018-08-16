@@ -8069,3 +8069,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.His work is to test out new designs of cars before they are put on the market.
     他的工作是在新设计的汽车投入市场之前对它们进行检验。
 
+lend itself to
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+     适用于，适宜于；有助于
+    
+
+  1.This technology seems to lend itself to the way UPMC uses shared processors.
+    这种技术看起来有助于UPMC 改进使用共享处理器的方式。
+  2.Although pure science usually has no apparent connection with technology , it does lend itself to the development of applied science.
+    理论科学虽然通常与技术没有明显的联系，但确实有助于应用科学的发展。
+  3.Must lend itself to using most of the IBM Framework for e -business products and technologies in its implementation , and be representative of our customers' problems and solutions
+    必须有助于在其实现中使用大部分的面向电子商务产品和技术的IBM框架，还必须是我们的客户的问题和解决方案的典型代表
+

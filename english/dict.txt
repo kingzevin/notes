@@ -8167,3 +8167,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This kind of holistic approach to server virtualization is necessary to reap the benefits of the technology without succumbing to the perils of virtual sprawl.
     服务器虚拟化的这种整体方法对于从该技术获取效益来说是很有必要的，而不会面临虚拟蔓延的危险。
 
+coordination system
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+     [自] 协调系统
+    
+
+  1.An effective coordination system should be set up to promote improvement of adjustment framework and ensure the healthy growth of the ABS market.
+    应通过有效的制度协调促进证券化调整框架的完善，以保障证券化市场的健康和繁荣发展。
+  2.The RTLS provider might provide location data on a coordination system in the form of x , y , z , id , or for two-dimensional data in the form of x , y , id.
+    RTLS提供者可以通过一个形式为x,y,z,id的坐标系统来提供位置数据，或者对二维数据采用形式为x,y,id的坐标系统。
+  3.With a synchronized stowage coordination system , you see how changes affect capacity , loading , and discharge at all ports in a vessel's voyage.
+    凭借此同步配载协调系统，您能够即时掌握变化对航程途中各港口的吞吐容量、装载和卸载负荷的影响。
+

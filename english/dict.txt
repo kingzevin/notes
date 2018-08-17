@@ -8191,3 +8191,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If a pre- rendered map of the building is unavailable , you can even sketch a diagram by hand and use that as your basis for a coordinate system.
     如果无法获得预渲染的建筑物地图，您也可以手工绘制示意图并且使用该示意图作为坐标系统的基础。
 
+equilibrium
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [,iːkwɪ'lɪbrɪəm; ,ekwɪ-]    美: [,ikwɪ'lɪbrɪəm]
+
+     n. 均衡；平静；保持平衡的能力
+    
+
+  1.Now we want to show a notation , how do we go from one equilibrium state like this describes to another equilibrium state ?
+    现在我们要展示一种记号，来标记）我们如何,从这里描述的,这样的一个平衡态过渡到另一个平衡态？
+  2.Thermodynamicstalks about equilibrium systems and how to go from one state of equilibrium to another state of equilibrium.
+    热力学研究的是平衡系统,以及如何,从一个平衡态转变到另一个平衡态。
+  3.But we know thermodynamics is all about equilibrium.
+    但我们知道热力学都是关于平衡的。
+

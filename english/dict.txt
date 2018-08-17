@@ -8179,3 +8179,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.With a synchronized stowage coordination system , you see how changes affect capacity , loading , and discharge at all ports in a vessel's voyage.
     凭借此同步配载协调系统，您能够即时掌握变化对航程途中各港口的吞吐容量、装载和卸载负荷的影响。
 
+coordinate system
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+     [数][物] 坐标系
+    
+
+  1.The objects are repositioned to fit into the new coordinate system.
+    对象会被重新放置，以适合这个新的坐标系统。
+  2.Edge queries consist of a set of one or more dimension queries that collectively describe a coordinate system of a result set.
+    边界查询由一组单维度或多维度查询组成，从总体上描述结果集的坐标系统。
+  3.If a pre- rendered map of the building is unavailable , you can even sketch a diagram by hand and use that as your basis for a coordinate system.
+    如果无法获得预渲染的建筑物地图，您也可以手工绘制示意图并且使用该示意图作为坐标系统的基础。
+

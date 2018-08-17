@@ -8135,3 +8135,21 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Using music to relax when dwelling on a particular problem then , may not only elevate your mood – but could help you reach that “a-ha” moment and find a solution.
     用音乐来放松自己，然后停留在一个特定问题之上，不仅能够提升你的心情，而且可能帮助你达到豁然开朗的境地，并找到解决办法。
 
+gear
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [gɪə]    美: [ɡɪr]
+
+     n. 齿轮；装置，工具；传动装置
+     vi. 适合；搭上齿轮；开始工作
+     vt. 开动；搭上齿轮；使……适合；使……准备好
+     adj. 好极了
+     n. (Gear)人名；(英)吉尔
+    
+
+  1.The first gear engages with the second.
+    第一齿轮与第二齿轮啮合。
+  2.When she put the car in gear it began to buck wildly.
+    当她把汽车搭上齿轮时，汽车便开始颠簸地行进。
+  3.This large gear turns the small one to rotate the cylinder.
+    这个大齿轮带动小齿轮使滚筒旋转。
+

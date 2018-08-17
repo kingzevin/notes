@@ -8153,3 +8153,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This large gear turns the small one to rotate the cylinder.
     这个大齿轮带动小齿轮使滚筒旋转。
 
+holistic
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [həʊ'lɪstɪk; hɒ-]    美: [ho'lɪstɪk]
+
+     adj. 整体的；全盘的
+    
+
+  1.From the holistic perspective , you see yourself as an integral part of the universe as a whole.
+    从整体的视角来看，你把作为整体的自己当做整体中一个完整部分。
+  2.If you take a holistic look of this program , I ’m certain you could have told me what it did even before you knew what any of its statements really did.
+    如果你从整体上来看这个程序，我很确定即便你不了解每一条单独语句的作用，你也能告诉我这个程序是干什么的。
+  3.This kind of holistic approach to server virtualization is necessary to reap the benefits of the technology without succumbing to the perils of virtual sprawl.
+    服务器虚拟化的这种整体方法对于从该技术获取效益来说是很有必要的，而不会面临虚拟蔓延的危险。
+

@@ -8205,3 +8205,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But we know thermodynamics is all about equilibrium.
     但我们知道热力学都是关于平衡的。
 
+substrate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: ['sʌbstreɪt]    美: ['sʌbstret]
+
+     n. 基质；基片；底层（等于substratum）；酶作用物
+    
+
+  1.This means that a file system would serve as a reasonable substrate for a synchronization database.
+    这意味着文件系统作为同步数据库的底层支持是合情合理的。
+  2.As chemical precursors stream onto the surface of a rolling metal or plastic substrate , they react with one another to form a network of nanoparticles.
+    各化学母质流向滚动中的金属或塑料基片的表面，他们互相作用，形成一层纳米级微粒网状结构。
+  3.Factors include good thermal coefficient matching and smooth substrate surfaces.
+    因素包括好的热系数匹配和光滑的底层表面。
+

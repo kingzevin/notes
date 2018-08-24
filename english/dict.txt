@@ -8260,3 +8260,21 @@ Querying... █▒▒▒▒▒▒▒▒▒               
 
      adv. 在其中；在何处
     
+dock
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [dɒk]    美: [dɑk]
+
+     n. 码头；船坞；被告席；尾巴的骨肉部分
+     vt. 使靠码头；剪短
+     vi. 入船坞
+     n. （Dock）程序坞
+     n. （Dock）人名；(老)多；(英、法、瑞典)多克
+    
+
+  1.They easied on approaching the dock.
+    船驶近码头时他们停止了划桨。
+  2.The ship disgorged its passengers at the dock.
+    船在码头下客。
+  3.They docked the ship in dry dock for repairs , cleaning and painting.
+    他们使船进入干船坞以便修理、清理和油漆。
+

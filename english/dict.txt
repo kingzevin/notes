@@ -8278,3 +8278,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.They docked the ship in dry dock for repairs , cleaning and painting.
     他们使船进入干船坞以便修理、清理和油漆。
 
+docker
+Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: ['dɒkə]    美: ['dɑkɚ]
+
+     n. 码头工人
+     物件
+    
+
+  1.The docker 's strike tied up the port.
+    码头工人的罢工使港口陷于瘫痪。
+  2.Understanding docker - how do containers contain all required dependencies ?
+    如何理解Docker容器包含所有需要的依赖？
+  3.Of course , this and docker supply deficiency are concerned.
+    当然，这与码头工人供给不足有关。
+

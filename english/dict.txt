@@ -8351,3 +8351,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.That stirring sunlight , plentiful vine , and wine in the kiln urn with wine bottle , played to ring the ream the glad music in mind.
     那撩人的阳光，茂盛的葡萄藤，以及窑中的酒缸和酒瓶，奏响了令心灵愉悦的音乐。
 
+lockstep
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['lɒkstep]    美: ['lɑkstɛp]
+
+     n. 因循守旧；密集连锁的步伐；步伐一致
+    
+
+  1.Technophiles were impressed with the achievement of making millions of photons march in lockstep , but unable to see any real- world uses for it.
+    那个时代的科技爱好者们惊叹于激光器使数以百万计的光量子步调一致的能力，但却没有看到它在现实生活中的用途。
+  2.Mr. Obama came to office vowing to reach across the aisle and change the tone in Washington , a goal he quickly abandoned when Republicans stood in lockstep against his stimulus bill.
+    奥巴马到办公室来宣誓：与不同党派的人相互妥协、并改变华盛顿的论调，当共和党因循守旧反对他的经济刺激法案时，他快速放弃了一个目标。
+  3.Regulators must also take into account credit conditions , because money and credit do not move in lockstep.
+    由于货币和信贷并不同步，所以监管部门还必须考虑到信贷的状况。
+

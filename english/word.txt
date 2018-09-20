@@ -468,3 +468,5 @@ lockstep
 
 hassle
 
+stringent
+

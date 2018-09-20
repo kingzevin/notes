@@ -8382,3 +8382,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.After thinking through the hassle of the censoring process , however, he reluctantly gave up , and referred her to another publisher.
     可考虑过审查过程的麻烦之后，他不情愿地放弃了，把她推荐给了另一位出版商。
 
+stringent
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: ['strɪn(d)ʒ(ə)nt]    美: ['strɪndʒənt]
+
+     adj. 严格的；严厉的；紧缩的；短缺的
+    
+
+  1.In either case , though , the insistence that we be in the right place at the right time puts a very stringent constraint on our possible future actions.
+    不管在上述哪种情况下，我们都一定要在对的时间出现在对的地点，这就会很严格地限制自己未来可能做出的行为。
+  2.Yes , IT governance does embody management according to stringent regulations , standards , and policies , but regulation is just a subset of the overall importance of IT governance for your business.
+    是的，IT治理确实根据严格的法规、标准和政策来体现管理，但是法规只是IT治理对于您的企业的整个重要性的子集。
+  3.But even then , as anti- drug policies show , the most stringent legislation is not always enough to change behaviour.
+    但是即便如此，正如反毒品政策所证明的，最严格的立法也不总是足够改变行为。
+

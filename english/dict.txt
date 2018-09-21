@@ -8396,3 +8396,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But even then , as anti- drug policies show , the most stringent legislation is not always enough to change behaviour.
     但是即便如此，正如反毒品政策所证明的，最严格的立法也不总是足够改变行为。
 
+spindle
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['spɪnd(ə)l]    美: ['spɪndl]
+
+     n. 轴；纺锤，锭子；细长的人或物
+     adj. 锭子的，锭子似的；细长的
+     vt. 装锭子于
+     vi. 长得细长，变细长
+    
+
+  1.The nut has been worked on the spindle.
+    螺帽已经拧在轴心上了。
+  2.The old woman put down her spindle and smiled kindly on Lizette.
+    老妇人把纺锤放下，对莉莎特和蔼地微笑着。
+  3.She sat on the stool in front of the wheel and the wheel whirred round . As soon as she touched the spindle she pricked her finger.
+    她坐在纺车前的凳子上，纺车转起来了，她刚碰到纺锤就刺到了手指，她倒在地板上沉沉的睡去了。
+

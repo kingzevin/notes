@@ -8472,3 +8472,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This means that whatever you develop with these two libraries does not have to be open source , but can be proprietary.
     这意味着，无论您使用这两个库开发什么软件，该软件不必是开放源码的，可以是专有的。
 
+argot
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['ɑːgəʊ]    美: ['ɑrgo]
+
+     n. 隐语；暗语；暗号；俚语；黑话
+    
+
+  1.How ! Argot !
+    怎么！黑话！
+  2.Just as the financial crisis has morphed into a daily grind instead of a daily fire drill, its peculiar argot has found its way into everyday conversations.
+    随着金融危机从“狼来了”变成活生生的磨难，金融业的一些特有隐语也进入到了日常对话中。
+  3.Even the prose is weirdly rootless : the multicultural argot of global VIPs who spend their lives at 35,000 feet.
+    甚至散文都是离奇得无厘头：那是一生都在35000英尺高空的全球贵宾们的多元文化暗语。
+

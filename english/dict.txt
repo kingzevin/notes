@@ -8442,3 +8442,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.People rarely consider that the tangible features assumed to be intrinsic to the “ computer ” were imitations of other objects , with keyboards inherited from typewriters and screens from television.
     人们很少考虑，这些被假定为“计算机”固有的可触知的特征是对其他事物的模仿，如键盘继承自打字机，显示屏模仿了电视机。
 
+proprietory
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [prəu'praiətəri]    
+
+     adj. 所有的
+     n. 所有者；所有权
+    
+
+  1.I don't want to use any proprietory database which forces me to pay them the royalty.
+    我不希望使用任何专利数据库，迫使我向他们支付专利费。
+  2.Areva has since signed a deal to build two of its proprietory EPRs at the Taishan site in southern Guangdong province.
+    自那之后,阿海珐签署了协议,在中国广东台山新建两台使用其欧洲压水堆(EPR)技术的核电机组.
+  3.The university student's dormitory information management system is one safe and the highly effective proprietory system , designs specially for the information engineering institute.
+    高校学生公寓信息管理系统是一个安全和高效的专用系统，专为信息工程学院设计。
+

@@ -8428,3 +8428,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In order to bring risks under control , you must have a sense of what risks you face and when you expect to mitigate them.
     为了使风险在掌控之下，您必须有高度的意识来判断您所面临的风险以及您期望什么时候可以减轻它。
 
+intrinsic
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪn'trɪnsɪk]    美: [ɪn'trɪnsɪk]
+
+     adj. 本质的，固有的
+    
+
+  1.This raises a question . Whether the relation between contemporary political science and liberalism is merely accidental or whether there is some intrinsic some necessary connection between them.
+    这导出一个问题，当代政治科学,与自由主义的关系仅是偶然,或之间，有些本质的,一些必然的,连结介于两者之间。
+  2.Because you can learn an awful lot about the intrinsic structure of the material.
+    因为你们可以了解到,关于物质固有结构的大量信息。
+  3.People rarely consider that the tangible features assumed to be intrinsic to the “ computer ” were imitations of other objects , with keyboards inherited from typewriters and screens from television.
+    人们很少考虑，这些被假定为“计算机”固有的可触知的特征是对其他事物的模仿，如键盘继承自打字机，显示屏模仿了电视机。
+

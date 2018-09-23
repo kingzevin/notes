@@ -8457,3 +8457,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The university student's dormitory information management system is one safe and the highly effective proprietory system , designs specially for the information engineering institute.
     高校学生公寓信息管理系统是一个安全和高效的专用系统，专为信息工程学院设计。
 
+proprietary
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [prə'praɪət(ə)rɪ]    美: [prə'praɪətɛri]
+
+     n. 所有权；所有人
+     adj. 所有的；专利的；私人拥有的
+    
+
+  1.This question often turns on whether the manufacturer produces a commodity product or a proprietary one and the relative size of the parties.
+    这一问题经常表现为供应商是否制造商品产品或一个所有权产品，以及当事各方的相对规模大小。
+  2.We couldn’t say why consumers would buy a product that’s constantly expanding in size using proprietary media , but hey, that’s half the fun of these concepts.
+    我们不能讲，为什么消费者会买在使用具有所有权媒体的多少上一直在扩大的产品,但使这些概念的乐趣打了折扣。
+  3.This means that whatever you develop with these two libraries does not have to be open source , but can be proprietary.
+    这意味着，无论您使用这两个库开发什么软件，该软件不必是开放源码的，可以是专有的。
+

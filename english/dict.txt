@@ -8413,3 +8413,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.She sat on the stool in front of the wheel and the wheel whirred round . As soon as she touched the spindle she pricked her finger.
     她坐在纺车前的凳子上，纺车转起来了，她刚碰到纺锤就刺到了手指，她倒在地板上沉沉的睡去了。
 
+mitigate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['mɪtɪgeɪt]    美: ['mɪtɪɡet]
+
+     vt. 使缓和，使减轻
+     vi. 减轻，缓和下来
+    
+
+  1.Identify and mitigate risks.
+    识别和减轻风险。
+  2.It can improve future disaster management and help mitigate the effects of these catastrophes.
+    它可以改善未来的灾害管理，并帮助减轻这些大灾害的影响。
+  3.In order to bring risks under control , you must have a sense of what risks you face and when you expect to mitigate them.
+    为了使风险在掌控之下，您必须有高度的意识来判断您所面临的风险以及您期望什么时候可以减轻它。
+

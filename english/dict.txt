@@ -8502,3 +8502,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.China not only censors much more content , but has a deliberately opaque system in which no one can be sure who is censoring what , or on what grounds.
     中国不仅审查过多的内容，而且有一个精密的不透明的系统，没有人确定谁在审查，审查什么，为什么审查。
 
+pruge
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'pruge' not found, do you mean?
+
+    purge
+    vi. 净化；通便 | vt. 净化；清洗；通便 | ...
+    prune
+    vi. 删除；减少 | vt. 修剪；删除；剪去 | ...
+

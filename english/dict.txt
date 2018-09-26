@@ -8511,3 +8511,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     prune
     vi. 删除；减少 | vt. 修剪；删除；剪去 | ...
 
+purge
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [pɜːdʒ]    美: [pɝdʒ]
+
+     vi. 净化；通便
+     vt. 净化；清洗；通便
+     n. 净化；泻药
+    
+
+  1.The empty table is then ready to ingest new data until its next purge date.
+    然后，重新创建的空表又可以摄取新的数据，直到清洗日的到来。
+  2.Your task is to build a tightly defended base and then purge the planet of all infested buildings.
+    你的任务是建造一个严密防守的基地并净化行星上所有的被感染建筑。
+  3.I will do my best to document these purge trips every week , whether the stuff goes to the landfill , the recycling bin , the consignment shop or Goodwill.
+    每个星期，我都会尽力去记录这些净化的行程，不管这些物品最终是被送到了垃圾堆、回收站、托运站或是低价回收站。
+

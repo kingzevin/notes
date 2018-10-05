@@ -8536,3 +8536,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     arrive
     vi. 到达；成功；达成；出生
 
+falter
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['fɔːltə; 'fɒl-]    美: ['fɔltɚ]
+
+     vi. 支吾；蹒跚地走
+     vt. 支吾地说；结巴地讲出
+     n. 踌躇；支吾；颤抖
+     n. (Falter)人名；(英)福尔特；(德、捷)法尔特
+    
+
+  1.He is not likely to falter on such an occasion.
+    在这种场合下他是不大可能结结巴巴的。
+  2.Or will the economic miracle falter or even collapse ?
+    抑或这种经济奇迹将会动摇，甚至崩溃？
+  3.When the authority of fathers begins to falter , political power generally collapses , as well.
+    当父亲的权威开始动摇时，政治力量通常也会随之崩溃。
+

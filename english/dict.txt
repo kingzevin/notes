@@ -8635,3 +8635,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Fowler, an associate professor at the School of Medicine at the University of California , San Diego , created an international uproar in 2007 when they published a study on obesity.
     加州大学圣地亚哥分校医学院的一名助理教授，在2007年发表了一篇关于肥胖的研究报告，并且在国际上引起了一阵骚动。
 
+rat
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ræt]    美: [ræt]
+
+     n. 鼠；卑鄙小人，叛徒
+     vi. 捕鼠；背叛，告密
+     n. (Rat)人名；(法、意、印、瑞典)拉特；(泰)叻
+    
+
+  1.Rat -fleas communicate a disease to man.
+    鼠蚤会把疾病传染给人。
+  2.The hungry rat ravened down the poison bait.
+    饥饿的老鼠一口吞下毒饵。
+  3.But critics of the Princeton study say the findings are inconsistent — some of the rat groups , after all , showed no differences in weight gain.
+    但是普林斯顿研究所的评论家说这些发现是前后矛盾的，有一些鼠群在体重增加方面始终没有任何区别。
+

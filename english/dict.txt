@@ -8665,3 +8665,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.No one noticed the boy as he crept off . From there , he hitchhiked to Paris in a lorry.
     当男孩从船里爬出来时，谁也没有发现他。从那里他又搭上卡车到了巴黎。
 
+handquater
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    word 'handquater' not found, do you mean?
+
+    hindquarter
+    n. 后腿及臀部
+    hand cutter
+    n. 后腿及臀部
+

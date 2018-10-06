@@ -8821,3 +8821,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.With his half brother steadying him , he began to tread the sandy footpaths of his youth , this time wearing a pair of $ 135 Air Jordans.
     他的哥哥扶住他，他开始踏上这条童年时代的沙石小路，如今的他穿着价值135美金一双的乔丹鞋。
 
+rust
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [rʌst]    美: [rʌst]
+
+     n. 锈；生锈；[植保] 锈病
+     vt. 使生锈；腐蚀
+     vi. 生锈；成铁锈色；变迟钝
+     n. (Rust)人名；(英)拉斯特；(德、捷、瑞典)鲁斯特；(法)吕斯特
+    
+
+  1.Oil it regularly to prevent rust.
+    经常擦油，以免生锈。
+  2.Iron exposed to damp air will rust.
+    放在空气潮湿地方的铁会生锈。
+  3.The tools will corrode with rust if never used.
+    这些工具如长期不用会长铁锈而损坏。
+

@@ -8760,3 +8760,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He has talked himself hoarse.
     他讲话过多，嗓子都嘶哑了。
 
+stir
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [stɜː]    美: [stɝ]
+
+     n. 搅拌；轰动
+     vt. 搅拌；激起；惹起
+     vi. 搅动；传播；走动
+    
+
+  1.Don't stir the milk until it creams.
+    不要搅动牛奶，直到上面结皮。
+  2.Before painting , you should stir up the paint a bit.
+    漆油漆前，你得把油漆搅拌一下。
+  3.If you enjoy steak , try cutting it into thin strips for stir fry or cubed for stroganoff.
+    如果你喜欢牛排,可以把它切成薄条搅拌再过油或切成方块做俄式烩饭。
+

@@ -8776,3 +8776,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you enjoy steak , try cutting it into thin strips for stir fry or cubed for stroganoff.
     如果你喜欢牛排,可以把它切成薄条搅拌再过油或切成方块做俄式烩饭。
 
+stirring
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: ['stɜːrɪŋ]    美: ['stɝɪŋ]
+
+     adj. 激动人心的；活跃的，活泼的；忙碌的
+     v. 激起（stir的ing形式）
+    
+
+  1.Everyone in the house was stirring.
+    屋里的每个人都开始活跃起来了。
+  2.He felt the stirring of an answer , but let his wife continue.
+    一个激动人心的答案就要脱口而出，但他还是让妻子继续。
+  3.You need no stirring speeches ; you need no coercion or coaxing. You all know the difference between right and wrong.
+    无需激动人心的演讲、无需强制和哄骗，你们所有的人都能分辨正义与邪恶。
+

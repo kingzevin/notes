@@ -8791,3 +8791,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.You need no stirring speeches ; you need no coercion or coaxing. You all know the difference between right and wrong.
     无需激动人心的演讲、无需强制和哄骗，你们所有的人都能分辨正义与邪恶。
 
+tidings
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['taɪdɪŋz]    美: ['taɪdɪŋz]
+
+     n. 消息；音信
+    
+
+  1.For two months they have had no tidings of Him.
+    那里的人已经有两个多月没有他的消息了。
+  2.Are they making themselves feel important as the bearer of bad tidings ?
+    作为坏消息的信使是否让他们觉得自己很重要？
+  3.Let , therefore , thy husband be to the world as one already dead , and of whom no tidings shall ever come.
+    因此，让这里的人都以为你丈夫已经死了吧，关于他，不应再有任何消息了。
+

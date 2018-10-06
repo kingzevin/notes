@@ -8988,3 +8988,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Besides the mammoths , some other animals pasture in this valley as well.
     除了猛犸象，还有一些其他动物在山谷牧场里。
 
+Herschel
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['hə:ʃəl]    美: 
+
+     n. 赫歇尔（十九世纪的天文学家）；天王星
+    
+
+  1.On August 28 , 1789 , the first night of its operation , Herschel pointed it at Saturn and discovered one of its moons.
+    1789年8月28日夜里，望远镜第一次使用，赫歇尔将它对准土星，发现了土星的一颗卫星。
+  2.The media day is organized in connection with the Herschel First Results Symposium taking place this week at ESTEC and the theme is Revealing the Hidden Side of Star Formation.
+    与媒体日安排相关的赫歇尔首例成果讨论会也将在欧洲空间探索和技术中心举行，其主题是揭示恒星形成的不为人知的一面。
+  3.While all the planets orbiting the sun closer than this tilted blue giant have been known to humans since ancient times , Uranus wasn 't spotted until William Herschel saw it in the 1781.
+    虽然自古以来，人类就认识了所有比它更靠近行太阳运行的行星，但这颗姿态倾斜的蓝色球体直到1781年才被威廉·赫歇尔发现。
+

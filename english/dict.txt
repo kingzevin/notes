@@ -8838,3 +8838,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The tools will corrode with rust if never used.
     这些工具如长期不用会长铁锈而损坏。
 
+prliminary
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    word 'prliminary' not found, do you mean?
+
+    preliminary
+    n. 准备；预赛；初步措施 | adj. 初步的...
+

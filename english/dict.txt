@@ -9002,3 +9002,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.While all the planets orbiting the sun closer than this tilted blue giant have been known to humans since ancient times , Uranus wasn 't spotted until William Herschel saw it in the 1781.
     虽然自古以来，人类就认识了所有比它更靠近行太阳运行的行星，但这颗姿态倾斜的蓝色球体直到1781年才被威廉·赫歇尔发现。
 
+proprietary
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [prə'praɪət(ə)rɪ]    美: [prə'praɪətɛri]
+
+     n. 所有权；所有人
+     adj. 所有的；专利的；私人拥有的
+    

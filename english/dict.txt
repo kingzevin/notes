@@ -9023,3 +9023,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Imperious in manner, he could be quite impersonal in his dealings with those whom he thought might impede his progress.
     他虽然样子傲慢，但是和那些他认为会阻碍他前进的人打交道时，他可以相当客观。
 
+encompass
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪn'kʌmpəs; en-]    美: [ɪn'kʌmpəs]
+
+     vt. 包含；包围，环绕；完成
+    
+
+  1.This can potentially encompass thousands of schemas and tables and millions of columns from differing databases and files.
+    这可能包含数千个模式和表，以及数百万个来自不同数据库和文件的列。
+  2.As well as providing graduates with the " soft skills " employers want , "the arts and humanities encompass those things that make life worth living ", he said.
+    他说，艺术和人文不仅使毕业生具备雇主所需要的“软技能”，而且“包含那些使生活值得一过的东西”。
+  3.Just as individuals have their ownstories, so do organizations ; these stories encompass the history and values ofthat organization and describe how they get things done.
+    与个人一样，组织也有自己的故事；这些故事包含着它们自己的历史与价值观，描绘着它们是如何做事的。
+

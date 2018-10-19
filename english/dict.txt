@@ -9095,3 +9095,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.I grow hardly a half acre of corn in narrow strips , with clover between the strips, on land that is almost level.
     在一些狭长地带，我艰难地种了半公顷玉米，在这之间一块几乎平坦的地上种了三叶草。
 
+hedge
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [hedʒ]    美: [hɛdʒ]
+
+     v. 用树篱笆围住；避免作正面答复
+     n. 对冲，套期保值；树篱；障碍
+     n. (Hedge)人名；(英)赫奇
+    
+
+  1.Along the river bank there is a hedge.
+    沿河岸有一排树篱芭。
+  2.We need to trim away the rough edges on that hedge.
+    我们需要把这树篱不平整的边缘剪掉。
+

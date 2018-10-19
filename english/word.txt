@@ -566,3 +566,5 @@ encompass
 
 coalesce
 
+apathy
+

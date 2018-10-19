@@ -9175,3 +9175,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3."That he is patronised by YOU , " replied Willoughby, " is certainly in his favour; but as for the esteem of the others , it is a reproach in itself.
     “他能受到你的垂爱，”咸洛比回答说，“当然是很体面的。但是别人对他的器重，却实在是一种责备。
 
+unanimous
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [juː'nænɪməs]    美: [jʊ'nænəməs]
+
+     adj. 全体一致的；意见一致的；无异议的
+    
+
+  1.So we have a unanimous vote for that candidate regardless of how they finished in the Iowa caucuses.
+    因此不管这位侯选人在爱奥华州的表现如何，我们都会一致支持这位侯选人。
+  2.If jurors cannot reach a unanimous verdict on their first vote , they must hear the views of the presiding judge , after which they may decide by simple majority.
+    如果陪审员们在第一次投票时无法达成全体一致，他们必须听取主任法官的意见，这之后他们可以通过简单多数作出决定。
+  3.One study has concluded that in almost half of non- unanimous cases , the justices ’ votes do not accord with what one would predict based on their personal political views.
+    一项研究得出结论认为，在将近一半的非一致裁决中，大法官的投票与人们根据他们的个人政治观点所作的预期不符。
+

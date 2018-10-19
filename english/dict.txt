@@ -9137,3 +9137,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Besides the mammoths , some other animals pasture in this valley as well.
     除了猛犸象，还有一些其他动物在山谷牧场里。
 
+ecstatsy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    word 'ecstatsy' not found, do you mean?
+
+    ecstasy
+    n. 狂喜；入迷；忘形
+    Ecstacy
+    n. （多用于参加舞会的）狂喜迷幻药
+

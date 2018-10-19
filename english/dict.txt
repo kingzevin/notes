@@ -9121,3 +9121,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.That 's one of the longest dialogues that Jesus has with another person , not his disciple , in the synoptic Gospels.
     这是耶稣和别人，而非和,符类福音里他的门徒，之间进行的最长的对话之一。
 
+pasture
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['pɑːstʃə]    美: ['pæstʃɚ]
+
+     n. 草地；牧场；牧草
+     vt. 放牧；吃草
+     n. (Pasture)人名；(英)帕斯彻；(法)帕斯蒂尔
+    
+
+  1.They turned out cows to pasture.
+    他们放牛去吃草。
+  2.The farmer laid the big field up for pasture.
+    农场主把这块大田留作牧场。
+  3.Besides the mammoths , some other animals pasture in this valley as well.
+    除了猛犸象，还有一些其他动物在山谷牧场里。
+

@@ -564,3 +564,5 @@ impede
 
 encompass
 
+coalesce
+

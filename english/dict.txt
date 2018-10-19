@@ -9037,3 +9037,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Just as individuals have their ownstories, so do organizations ; these stories encompass the history and values ofthat organization and describe how they get things done.
     与个人一样，组织也有自己的故事；这些故事包含着它们自己的历史与价值观，描绘着它们是如何做事的。
 
+coalesce
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,kəʊə'les]    美: [,koə'lɛs]
+
+     vi. 合并；结合；联合
+     vt. 使…联合；使…合并
+    
+
+  1.Operations to split and to coalesce chunks take time.
+    用于分割和合并块的操作需要花费时间。
+  2.Additionally , support requires the adoption of one or more policies controlling whether and how to ever coalesce small chunks.
+    此外，这种支持需要采用一种或多种策略控制是否及如何合并小块。
+  3.By modelling the behaviour of stars in clusters , the Bonn team finds that they are ideal environments for black holes to coalesce.
+    通过对星团中的恒星行为进行研究，波恩团队发现这些星团为黑洞合并提供了理想的环境。
+

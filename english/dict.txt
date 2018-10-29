@@ -9261,3 +9261,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Some 150 monks live at the temple , and visiting monks from across China and abroad come to study and meditate at the purported fountainhead of Zen Buddhism.
     寺庙中约住着150位僧人，来自中国各地和海外的访问僧侣会来此学习和冥想，因为这里才是禅宗佛教的源头。
 
+heterogeneity
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [,hɛtərədʒə'niəti]    
+
+     n. [生物] 异质性；[化学] 不均匀性；[化学] 多相性
+    
+
+  1.In addition , it introduces support for knowledge search and offers unification layers to hide the heterogeneity of data , technology and metadata.
+    此外，它引入了对知识搜索的支持，并提供统一的层，从而隐藏数据的异质性、技术和元数据。
+  2.Where there are competing powers , as in a capitalist economy, there is more chance of heterogeneity than when there is a single regulator with power over all the competitors.
+    在存在相互竞争势力的地方，例如在资本主义市场下，出现异质性的机会要大于只有单一的监管机构，其势力凌驾于所有竞争者之上的情况。
+  3.The fact that there is such heterogeneity in the Asian world suggests that individual country factors predominate over factors that distinguish Asia as a whole from the other continents.
+    事实上，亚洲国家之间存在的非均匀性表明，单一国家因素决定著把亚洲作为一个整体区别于其他几个洲的因素。
+

@@ -9297,3 +9297,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
      vi. 进行变换
      n. 转置阵
     
+interim
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['ɪnt(ə)rɪm]    美: ['ɪntərɪm]
+
+     adj. 临时的，暂时的；中间的；间歇的
+     n. 过渡时期，中间时期；暂定
+    
+
+  1.Please give me an interim receipt.
+    请给我一张临时的收据。
+  2.These customizations can be just about anything you need , but in this case we will focus on installing interim fixes into the virtual machine instance.
+    这些定制可以是您所需的任何内容，但是本例中，我们将主要关注将临时补丁安装到虚拟机实例中。
+  3.In fact you can also define interim levels of maturity : what is the next major maturity goal , defining roadmaps to attain each of these goals with clear business value.
+    实际上，您还可以定义临时的成熟度级别：下一个主要成熟度目标是什么，定义路线图以实现这些目标（具有明确的商业价值）。
+

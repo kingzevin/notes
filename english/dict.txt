@@ -9312,3 +9312,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In fact you can also define interim levels of maturity : what is the next major maturity goal , defining roadmaps to attain each of these goals with clear business value.
     实际上，您还可以定义临时的成熟度级别：下一个主要成熟度目标是什么，定义路线图以实现这些目标（具有明确的商业价值）。
 
+emcee
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [em'siː]    美: [ɛm'si]
+
+     vt. 主持；做司仪；介绍（演出的节目等）
+     n. 主持人；司仪
+     vi. 做主持人；担任司仪
+    
+
+  1.I enjoy acting as an emcee of many lectures and evenings.
+    我喜欢担任许多讲座和晚会的主持人。
+  2.Serving as the event’s emcee in Cannes will be Gold , who took home $ 12 million after winning poker ’s most prestigious tournament three years ago , defeating Paul Wasicka heads-up.
+    担任本次比赛主持的是吉米·戈尔德，三年前他击败另一位美国扑克选手保罗·沃斯卡，成功赢得了世界声望最高的扑克比赛1200万美元的冠军奖金。
+

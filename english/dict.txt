@@ -9374,3 +9374,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Would you like to read and criticize my new novel ?
     您愿意阅读并评论一下我的新小说吗?
 
+atop
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ə'tɒp]    美: [ə'tɑp]
+
+     prep. 在…的顶上
+     adv. 在顶上
+    
+
+  1.Some of these new standards provide a layer atop of base standards.
+    这些新标准的一些提供了基底标准的顶级层次。
+  2.Explanation : What would it be like to stand atop the tallest mountain on Earth ?
+    解说：站在地球上最高的山上极目远眺会看到怎么样的风景呢？
+  3.These depend upon the layer below , and all applications that use them depend on them, so , ideally , they are pretty stable by the time that applications are built atop them.
+    这些依赖于下面的层以及所有使用它们的应用程序，所以，理想情况下，在应用程序被建造在它们之上之前，它们十分地稳定。
+

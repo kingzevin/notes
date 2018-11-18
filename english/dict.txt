@@ -9389,3 +9389,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.These depend upon the layer below , and all applications that use them depend on them, so , ideally , they are pretty stable by the time that applications are built atop them.
     这些依赖于下面的层以及所有使用它们的应用程序，所以，理想情况下，在应用程序被建造在它们之上之前，它们十分地稳定。
 
+impair
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [ɪm'peə]    美: [ɪm'pɛr]
+
+     vt. 损害；削弱；减少
+    
+
+  1.Never , ever build an environment where the loss of a solitary resource would impair the environment.
+    永远不要构建这样一个环境，即其中单个资源的丧失会损害整个环境。
+  2.They apprehend that every farther step forward on the road toward the socialization of enterprises will seriously impair the quantity and the quality of the products of every industry.
+    他们认识到，在向企业的社会主义化道路上每深入一步都将会严重地损害每个产业所生产的产品的数量和质量。
+  3.For example , it can impair orientation and sense of smell in young clownfish , making them more vulnerable to predators.
+    例如，它能削弱幼年小丑鱼的方向感和嗅觉，让它们更容易受到捕食者的攻击。
+

@@ -9358,3 +9358,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Alternatively , you might want to find and prune an application 's unnecessary files.
     或者，您可能希望找到并删除应用程序不需要的文件。
 
+novel
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['nɒv(ə)l]    美: [ˈnɑːvl]
+
+     adj. 新奇的；异常的
+     n. 小说
+     n. (Novel)人名；(法、西、英)诺韦尔
+    
+
+  1.How do you like the novel ?
+    你觉得那本小说怎样?
+  2.He identifies with the heroine of the novel.
+    他同情小说中的女主人公。
+  3.Would you like to read and criticize my new novel ?
+    您愿意阅读并评论一下我的新小说吗?
+

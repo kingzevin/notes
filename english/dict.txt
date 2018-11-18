@@ -9403,3 +9403,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.For example , it can impair orientation and sense of smell in young clownfish , making them more vulnerable to predators.
     例如，它能削弱幼年小丑鱼的方向感和嗅觉，让它们更容易受到捕食者的攻击。
 
+reconcile
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['rek(ə)nsaɪl]    美: ['rɛkənsaɪl]
+
+     vt. 使一致；使和解；调停，调解；使顺从
+    
+
+  1.How do we reconcile that ?
+    我们如何协调这些？
+  2.How do you reconcile this choice with liberalism ?
+    你如何调和这个选择与自由主义？
+  3.The teacher in charge of our class had to reconcile disputes among the students.
+    我们的班主任必须调解学生中的纠纷。
+

@@ -9341,3 +9341,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He lay there , moaning on the asphalt ; a man almost killed by a phantom.
     他躺在那里，在柏油路上呻吟；一个差点被幽灵杀死的男人。
 
+prune
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [pruːn]    美: [prun]
+
+     vi. 删除；减少
+     vt. 修剪；删除；剪去
+     n. 深紫红色；傻瓜；李子干
+     n. (Prune)人名；(罗)普鲁内
+    
+
+  1.This gives you the chance to prune dead code from your source tree , which is always a worthwhile activity.
+    这也为您提供了从源代码树中删除无用代码的机会，这样做总是值得的。
+  2.One additional service not discussed so far is the ability to archive and prune old instances that may no longer be required.
+    到目前为止尚未讨论的另一个服务是存档和删除可能不再需要的旧实例的功能。
+  3.Alternatively , you might want to find and prune an application 's unnecessary files.
+    或者，您可能希望找到并删除应用程序不需要的文件。
+

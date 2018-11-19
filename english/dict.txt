@@ -9431,3 +9431,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The excellent attendance rate at this session enabled the Commission to reach a quorum and to pass important changes to its rules of procedure as part of the reform process.
     本次会议极好的出席率使委员会能达到法定人数和作为改革进程的一部分通过其议事规则的重要修改。
 
+parliament
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['pɑːləm(ə)nt]    美: ['pɑrləmənt]
+
+     n. 议会，国会
+    
+
+  1.Parliament tossed the new law out.
+    国会否决了新法令。
+  2.The government succeeded in carrying its plan through Parliament.
+    政府成功地使计划在国会中获得通过。
+  3.The government collided with Parliament over its industrial plans.
+    政府在工业规划上与议会发生冲突。
+

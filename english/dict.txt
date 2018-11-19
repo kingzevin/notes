@@ -9459,3 +9459,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The traffic banked up at the intersection.
     车辆在交叉路口拥塞起来。
 
+phony
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['fəʊnɪ]    美: ['foni]
+
+     adj. 假的，欺骗的
+     n. 假冒者；赝品
+    
+
+  1.No one could phony a list like that.
+    没有人能够假造像这样的一份清单。
+  2.Those who needed help the most — and would have gotten free tutoring if allowed to fail , rather than given a phony grade — got it the least.
+    那些最需要帮助的人——如果允许失败的话，与其被给假的分数，可能更需要得到免费的辅导——得到最少。
+  3.I always hate phony people like that.
+    我一直都很讨厌像他那样的骗子。
+

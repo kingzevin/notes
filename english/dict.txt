@@ -9417,3 +9417,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The teacher in charge of our class had to reconcile disputes among the students.
     我们的班主任必须调解学生中的纠纷。
 
+quorum
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['kwɔːrəm]    美: ['kwɔrəm]
+
+     n. 法定人数
+    
+
+  1.Well , it looks like we have a quorum !
+    嗯，看起来我们法定人数够了！
+  2.Once their initial vote was cast , they disappeared and prevented the group from reaching a quorum on unrelated and much less controversial issues.
+    一旦他们投出选票后，他们将会消失，因而在决议无关的和争议较少的问题时无法达到法定人数。
+  3.The excellent attendance rate at this session enabled the Commission to reach a quorum and to pass important changes to its rules of procedure as part of the reform process.
+    本次会议极好的出席率使委员会能达到法定人数和作为改革进程的一部分通过其议事规则的重要修改。
+

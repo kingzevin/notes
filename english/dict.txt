@@ -9504,3 +9504,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In order to bring risks under control , you must have a sense of what risks you face and when you expect to mitigate them.
     为了使风险在掌控之下，您必须有高度的意识来判断您所面临的风险以及您期望什么时候可以减轻它。
 
+outset
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['aʊtset]    美: ['aʊtsɛt]
+
+     n. 开始；开端
+    
+
+  1.At the outset of his career he was full of optimism but not now.
+    一开始他对事业充满了信心，但现在不再是这样了。
+  2.In any case , as I said at the outset , a full discussion of memory allocation is beyond the scope of one column.
+    不管怎样，就像我开始所说的那样，有关内存分配的详细内容已经超出本专栏讨论的范围。
+  3.David advised him over and over not to produce it without an overall market research . the boss's ability was very outstanding at the outset of his career.
+    戴维一再建议，如果没有全面的市场调查就不要生产它。老板的能力在它事业开端的时候很突出，但现在他没有一盎司的常识。
+

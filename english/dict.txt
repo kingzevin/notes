@@ -9518,3 +9518,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.David advised him over and over not to produce it without an overall market research . the boss's ability was very outstanding at the outset of his career.
     戴维一再建议，如果没有全面的市场调查就不要生产它。老板的能力在它事业开端的时候很突出，但现在他没有一盎司的常识。
 
+quadratic
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [kwɒ'drætɪk]    美: [kwɑ'drætɪk]
+
+     adj. [数] 二次的
+     n. 二次方程式
+    
+
+  1.Both vegetables and quadratic polynomials are made more interesting with the Mandelbrot set. The formula explains the repeating complexity of broccoli heads like this one.
+    有了曼德尔勃特集合，蔬菜和二次多项式都变得有趣多了。这个方程式表现了类似图中的花椰菜菜籽的重复的复杂性。
+  2.Both vegetables and quadratic polynomials are made more interesting with the Mandelbrot set.
+    有了曼德尔勃特集合，蔬菜和二次多项式都变得有趣多了。
+  3.The quadratic equation may have instilled horror in many of us.
+    对很多人来说，二次方程是很恐怖的。
+

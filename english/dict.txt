@@ -9547,3 +9547,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you have been to Beijing *, you've most likely come across this street scene : a bunch of people crowded around a street vendor , picking out skewers from a bubbling hot red broth.
     如果你曾经去过北京，你在大街上很可能遇到过这样的景象：一群人拥挤在一个街头小贩周围，正从一个滚烫的红色肉汤里挑选着串肉扦。
 
+preamble
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [priː'æmb(ə)l; 'priː-]    美: ['priæmbl]
+
+     n. 序文；电报报头；先兆
+     vi. 作序文
+    
+
+  1.What do all the Tea Partiers waving their copies of the sacred document imagine was meant by “ to promote the general welfare ” in its Preamble ?
+    在那些挥舞着宪法的茶叶党成员眼里，宪法序文中所说的“增进全民福利”是什么意思？
+  2.In a Dojo class you can declare a preamble , a constructor , and a postscript , but in the majority of cases you will only need to declare a constructor.
+    在一个Dojo类中，可以声明一个preamble、一个constructor和一个postscript，但是在大多数情况下，您只需要声明一个构造函数。
+  3.[ The statement ], " Our food products are safe ," offered without preamble or explanation , will make people wonder why you are making the statement.
+    “我们的食物产品是安全的”，这句话既没有前言也没有解释，只会使人们感到困惑（你为何做出这一声明）。
+

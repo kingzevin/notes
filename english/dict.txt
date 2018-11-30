@@ -9562,3 +9562,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.[ The statement ], " Our food products are safe ," offered without preamble or explanation , will make people wonder why you are making the statement.
     “我们的食物产品是安全的”，这句话既没有前言也没有解释，只会使人们感到困惑（你为何做出这一声明）。
 
+plugin
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [plʌgɪn]    美: [plʌgɪn]
+
+     n. 插件；相关插件
+     n. (Plugin)人名；(俄)普卢金
+    
+
+  1.If you do not have the schema plugin , you need to install it.
+    如果您没有该模式插件，那么需要安装它。
+  2.We will also bundle it all up in a plugin to show one way of integrating code generation into your development process.
+    我们还会将它们都绑定到一个插件中，从而展示一种将生成的代码集成到开发过程的方法。
+  3.Important : If you have made any manual changes to your plugin file , do NOT regenerate the file because it will overwrite your custom code.
+    重要：如果您对插件文件做过任何手动更改，则不要重新生成该文件，因为它会改写您的自定义代码。
+

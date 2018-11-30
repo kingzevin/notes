@@ -638,3 +638,5 @@ vendor
 
 preamble
 
+plugin
+

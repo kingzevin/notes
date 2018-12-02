@@ -9577,3 +9577,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Important : If you have made any manual changes to your plugin file , do NOT regenerate the file because it will overwrite your custom code.
     重要：如果您对插件文件做过任何手动更改，则不要重新生成该文件，因为它会改写您的自定义代码。
 
+notorious
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [nə(ʊ)'tɔːrɪəs]    美: [no'tɔrɪəs]
+
+     adj. 声名狼藉的，臭名昭著的
+    
+
+  1.The lawyer has defended some of the most notorious criminals.
+    这名法官已为一些最臭名昭著的罪犯当过辩护律师。
+  2.The celebrations were notorious enough that followers of Cybele were banished from Rome.
+    臭名昭著的庆祝活动，以至于信徒之母的是从罗马放逐。
+  3.He also compared the treatment of prisoners with that at the notorious Abu Ghraib prison in Iraq.
+    同时他将对囚犯的治疗与伊拉克臭名昭著的阿布格莱布监狱相提并论。
+

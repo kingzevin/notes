@@ -9662,3 +9662,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Even when we streamline our test cases to only those that " should pass ," we can fall into this trap.
     即使当我们将我们的测试用例流线处理为那些只“应该通过”的内容时，我们也可能落入该圈套。
 
+culprit
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['kʌlprɪt]    美: ['kʌlprɪt]
+
+     n. 犯人，罪犯；被控犯罪的人
+    
+
+  1.' To Hell for life ' -- that is a foolish penalty : the culprit chooses the duration of his punishment.
+    “在地狱里度过一生”--那是一种愚蠢的惩罚：罪犯选择他惩罚的期限。
+  2.Study authors say lack of acceptance from friends and family is the likely culprit.
+    研究作者称，缺乏来自朋友与家庭的认可很可能是罪魁祸首。
+

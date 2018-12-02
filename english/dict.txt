@@ -9591,3 +9591,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He also compared the treatment of prisoners with that at the notorious Abu Ghraib prison in Iraq.
     同时他将对囚犯的治疗与伊拉克臭名昭著的阿布格莱布监狱相提并论。
 
+fedility
+Querying... █▒▒▒▒▒▒▒▒▒                        
+    word 'fedility' not found, do you mean?
+
+    fidelity
+    n. 保真度；忠诚；精确；尽责
+    futility
+    n. 无用；徒劳；无价值
+

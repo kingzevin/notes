@@ -9614,3 +9614,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.We will support those revolutions with fidelity to our ideals , with the power of our example , and with an unwavering belief that all human beings deserve to live with freedom and dignity.
     我们将支持那些革命，同时保持对我们的理念的忠诚，以我们的榜样做为力量，并坚定不移地相信所有人类都理应过上自由和有尊严的生活。
 
+post-mortem
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [pəʊs(t)ˈmɔːtəm]    美: [ˌpoʊst ˈmɔrtəm]
+
+     adj. 验尸的；死后的
+     adv. 死后，在死后
+     n. 验尸
+     vt. 对……验尸
+    
+
+  1.Fixing performance problems within the application should also result in some type of post-mortem process to document and distribute the knowledge gained from these tasks.
+    解决应用程序中的性能问题还将导致某种类型的事后分析过程（即记录并传播从这些任务中学到的知识）。
+  2.Ananalysis in 2005 of post- mortem remains from 43 prisoners sentenced todeath by electrocution found the most common visible injuries to behead and leg burns where the electrodes were attached.
+    2005年一份针对验尸报告做的研究显示在43名被电死的罪犯中，他们最明显的伤口是在头和腿被放置电极的地方。
+  3.Choosing an appropriate size for the buffer ensures that relevant messages are dumped , which can help when doing a post-mortem analysis of a program.
+    为缓冲区选择合适的大小以确保转储相关的消息，这在进行程序的事后检查分析时是很有帮助的。
+

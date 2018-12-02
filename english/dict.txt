@@ -9646,3 +9646,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Alas ! you only remind me of what I have lost.
     唉…你只是使我想起我所失去的一切。
 
+streamline
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['striːmlaɪn]    美: ['strimlaɪn]
+
+     vt. 把…做成流线型；使现代化；组织；使合理化；使简单化
+     n. 流线；流线型
+     adj. 流线型的
+    
+
+  1.Can you streamline this kind of airship ?
+    你能把这种飞艇设计成流线型吗?
+  2.This section introduces new features that will streamline project creation.
+    这部分将介绍流线型项目创建的新特性。
+  3.Even when we streamline our test cases to only those that " should pass ," we can fall into this trap.
+    即使当我们将我们的测试用例流线处理为那些只“应该通过”的内容时，我们也可能落入该圈套。
+

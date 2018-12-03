@@ -9674,3 +9674,16 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.Study authors say lack of acceptance from friends and family is the likely culprit.
     研究作者称，缺乏来自朋友与家庭的认可很可能是罪魁祸首。
 
+hinder
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['hɪndə]    美: ['hɪndɚ]
+
+     vi. 成为阻碍
+     vt. 阻碍；打扰
+     adj. 后面的
+     n. (Hinder)人名；(芬)欣德
+    
+
+  1.While this is generally true , the size and scope of the project may allow you to be successful with smaller projects even when your processes hinder more than assist your effort.
+    这通常是事实，不过对于小型项目，即使流程打扰您的时候比帮助您的时候还多，但是由于项目的大小和范围，您也可以获得成功。
+

@@ -9704,3 +9704,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.They were the visual signature of dope.
     他们从视觉上展现了毒品的特征。
 
+of the order of
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+     大约；达到…的程度
+    
+
+  1.The Olympic timing system is a seemingly fail -safe, objective determination of the order of finish.
+    奥运会计时系统看上去是自动防故障装置，会自动决定完成比赛的顺序。
+  2.This test involves solving a dense system of N linear equations , where the number of floating-point operations is known ( of the order of N ^ 3 ).
+    这个测试要解包含N 个线性方程的密集方程组，其中浮点操作的个数是已知的（是N^3 级别）。
+  3.According to the WSXL specification , a state machine is an abstract visualization of interaction flows -- that is , of the order of interactions that would take place from one point to another.
+    根据WSXL规范，一个状态机就是交互流的一个抽象可视化―也即交互从一个点发生，再转到另一个点的顺序的抽象可视化。
+

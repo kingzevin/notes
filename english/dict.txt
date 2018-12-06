@@ -9716,3 +9716,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.According to the WSXL specification , a state machine is an abstract visualization of interaction flows -- that is , of the order of interactions that would take place from one point to another.
     根据WSXL规范，一个状态机就是交互流的一个抽象可视化―也即交互从一个点发生，再转到另一个点的顺序的抽象可视化。
 
+permutation
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [pɜːmjʊ'teɪʃ(ə)n]    美: ['pɝmjʊ'teʃən]
+
+     n. [数] 排列；[数] 置换
+    
+
+  1.Don't use ALL : One of the most common mistakes is to grant ALL -- access to all commands , access to all users , or any other permutation.
+    不要使用ALL：最常见的错误就是授予ALL权限——这意味着可以访问所有命令、访问所有用户，或者访问其它任何权限排列。
+  2.These dynamic and static models could be used to derive all the read methods too , if we went through every permutation that you enumerated in your analysis.
+    如果要一一提供您的分析中列举的每种排列，则也可以将这些动态和静态的模型用于派生所有的读取方法。
+  3.With each recursive step , cross products with one additional Permutation Group are formed.
+    伴随每个递归步骤，会形成带有一个额外置换群的向量积。
+

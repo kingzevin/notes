@@ -9730,3 +9730,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.With each recursive step , cross products with one additional Permutation Group are formed.
     伴随每个递归步骤，会形成带有一个额外置换群的向量积。
 
+pervasive
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [pə'veɪsɪv]    美: [pɚ'vesɪv]
+
+     adj. 普遍的；到处渗透的；流行的
+    
+
+  1.Gaps in health outcomes have multiple causes , but poverty is the most pervasive factor.
+    健康结果方面的差距有众多原因，但贫穷是最普遍的因素。
+  2.The fact that so many people have posted comments on this topic shows how pervasive and complicated it is.
+    事实上这么多人公开谈论这个话题，就已经表明这是多么普遍多么复杂的事情。
+  3.So what accounts for the pervasive gloom ?
+    那么，什么引起了普遍的悲观情绪？
+

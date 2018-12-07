@@ -9775,3 +9775,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But if you find these flaws you then, the solution is grind it out and weld overlay , take different weld and weld overlay so that you can avoid the leak that may occur.
     但是，如果你找到这些裂痕，解决方法就是将它磨碎焊接覆盖物，将不同的焊接，焊接上覆盖层，所以,你就能够避免可能发生的泄露。
 
+thrash
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [θræʃ]    美: [θræʃ]
+
+     vt. 打；使逆行
+     vi. 打谷；白忙；猛烈摆动
+     n. 打谷；逆风浪行进；踢水动作
+     n. (Thrash)人名；(英)思拉什
+    
+
+  1.Then , we ask a group of hooligans to go into the rooms and thrash the rooms.
+    之后，我们请一群小流氓冲进房间，在房间里乱敲乱打。
+  2.Without warning , they explode from the water with a thrash of their powerful tails and drag their victim - water buffalo , monkey , shark - under water.
+    它们会在毫无征兆的情况下，突然用其强有力的尾巴击打水面，然后将猎物–如水牛，猴子，鲨鱼等–拖入水底。
+  3.Creating too many threads in one JVM can cause the system to run out of memory or thrash due to excessive memory consumption.
+    在一个JVM里创建太多的线程可能会导致系统由于过度消耗内存而用完内存或“切换过度”。
+

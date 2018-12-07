@@ -9792,3 +9792,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Creating too many threads in one JVM can cause the system to run out of memory or thrash due to excessive memory consumption.
     在一个JVM里创建太多的线程可能会导致系统由于过度消耗内存而用完内存或“切换过度”。
 
+proactive
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [prəʊ'æktɪv]    美: [,pro'æktɪv]
+
+     adj. 前摄的（前一活动中的因素对后一活动造成影响的）；有前瞻性的，先行一步的；积极主动的
+    
+
+  1.They should work together with the other partners in countries so that they can be proactive rather than reactive to situations.
+    他们应当与国家的其他合作伙伴共同合作以便能够积极的而非被动的应对这些状况。
+  2.If you do this , you can be proactive in your tuning , with the objective of actually finding the problem before the user points it out to you.
+    如果您做到了这一点，那么您就可以积极主动地进行优化工作，其目标是在用户指出存在的问题之前找到它。
+  3.As a result we are in an era of " reactionary workflow " where we go all day simply reacting rather than being proactive about what matters most.
+    因此，我们生活在“反应的工作流”的时代，我们整天只是简单地对事物做出反应，而无法对那些最重要的事情具有前瞻性。
+

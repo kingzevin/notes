@@ -9760,3 +9760,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Does your current lease allow you to request that your tenant vacate within a certain period of time ?
     您当前的租契是否允许您对您的房客提出在某一段时间之内搬出的要求？
 
+overlay
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [əʊvə'leɪ]    美: ['ovəlɛi]
+
+     n. 覆盖图；覆盖物
+     vt. 在表面上铺一薄层，镀
+    
+
+  1.If the zoom is great enough , a label overlay appears on the course area revealing the name of the course.
+    如果缩放功能足够强大，那么在球场区域还会出现一个标签覆盖图，显示此球场的名称。
+  2.You can do this if you overlay all of the source models on one side, and leave the single federated model as the target on the other side.
+    如果你在一端覆盖所有源模型那么你就可以这么做，并且把单个联邦模型作为目标留在另外一端。
+  3.But if you find these flaws you then, the solution is grind it out and weld overlay , take different weld and weld overlay so that you can avoid the leak that may occur.
+    但是，如果你找到这些裂痕，解决方法就是将它磨碎焊接覆盖物，将不同的焊接，焊接上覆盖层，所以,你就能够避免可能发生的泄露。
+

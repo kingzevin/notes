@@ -9844,3 +9844,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The government collided with Parliament over its industrial plans.
     政府在工业规划上与议会发生冲突。
 
+flip
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [flɪp]    美: [flɪp]
+
+     vt. 掷；轻击
+     vi. 用指轻弹；蹦跳
+     adj. 无礼的；轻率的
+     n. 弹；筋斗
+    
+
+  1.You all flip it.
+    你们都把硬币抛起来。
+  2.Then flip pants over to iron the outside of that leg.
+    然后翻过裤子，熨刚才熨过的那条裤腿的外侧。
+  3.DAVE : I mean , we could flip a coin for it, but I would probably win again.
+    迪夫：我的意思是，我们可以掷硬币决定，但是我很可能会再赢一遍。
+

@@ -9941,3 +9941,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you are a male in a spatially -related job such as building or architecture , you need to understand that most women need a three-dimensional perspective if you are to be convincing.
     如果你是做与空间相关的工作（比如建筑或建筑学）的男性，如果你想要有说服力，就需要了解，大多数女性需要三维透视。
 
+drift
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [drɪft]    美: [drɪft]
+
+     n. 漂流，漂移；趋势；漂流物
+     vi. 漂流，漂移；漂泊
+     vt. 使…漂流；使…受风吹积
+    
+
+  1.The virus is really changing because of what we call antigenic drift and shift.
+    这种病毒的变化就是因为我们所说的抗原漂移或是抗原更换。
+  2.It is proposed that the drift of the continents was vectored by westward forces.
+    大陆的漂移被认为是由向西的力造成的。
+  3.You see the plane you have just left , drift into the clouds ( if there are any ), and the land is far away but approaching rapidly.
+    你看见你刚刚离开的飞机，漂移到云中(如果有云的话)，而地面还很遥远但是正在快速接近你当中。
+

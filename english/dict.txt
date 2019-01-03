@@ -9918,3 +9918,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.Whenever I looked on him his spirit seemed to be in prayer, a deep peace to pervade him within and without.
     每当我看到他时，我总见他聚精会神，专心致志，好像有一种深沉的宁静，永远笼罩在他的身心周围。
 
+spacially
+Querying... █▒▒▒▒▒▒▒▒▒                        
+    word 'spacially' not found, do you mean?
+
+    specially
+    adv. 特别地；专门地
+    spatially
+    adv. 空间地；存在于空间地
+

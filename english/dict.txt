@@ -9876,3 +9876,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.These depend upon the layer below , and all applications that use them depend on them, so , ideally , they are pretty stable by the time that applications are built atop them.
     这些依赖于下面的层以及所有使用它们的应用程序，所以，理想情况下，在应用程序被建造在它们之上之前，它们十分地稳定。
 
+synchrony
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['sɪŋkrənɪ]    美: ['sɪnkrəni]
+
+     n. 同步
+    
+
+  1.All right. I need to come back to synchrony and diachrony.
+    好，现在我们回到了语言的同步分析和历时分析上。
+  2.Synchrony heterogeneity : There's almost always a need to support both synchronous and asynchronous interactions between applications.
+    同步异构性：几乎始终需要同时支持应用程序之间的同步和异步交互。
+  3.While other animals ’ brain regions development in synchrony , in humans , the development of the PFC lags far behind that of other areas.
+    其他动物的大脑区域发育是同步的，而人类的PFC发育远远慢于大脑其他区域。
+

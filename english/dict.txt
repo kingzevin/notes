@@ -9927,3 +9927,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     spatially
     adv. 空间地；存在于空间地
 
+spatially
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['speɪʃli]    
+
+     adv. 空间地；存在于空间地
+    
+
+  1.You might say , I 'll leave that problem -- are souls spatially located or not --to be worked out by those who believe in it.
+    你可能会说。我将会留下一个问题——灵魂是否存在于空间——留给那些相信灵魂的人来解决。
+  2.Using their “ voices ” and “ ears , ” the two Lingodroids play a series of games that require the robots to navigate spatially by creating a shared language between them.
+    通过使用它们的“声音”和“耳朵”，两台会说话的机器人可以通过创建一套它们之间的语言以进行空间定位的方式来玩一系列游戏。
+  3.If you are a male in a spatially -related job such as building or architecture , you need to understand that most women need a three-dimensional perspective if you are to be convincing.
+    如果你是做与空间相关的工作（比如建筑或建筑学）的男性，如果你想要有说服力，就需要了解，大多数女性需要三维透视。
+

@@ -9890,3 +9890,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.While other animals ’ brain regions development in synchrony , in humans , the development of the PFC lags far behind that of other areas.
     其他动物的大脑区域发育是同步的，而人类的PFC发育远远慢于大脑其他区域。
 
+temporal
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['temp(ə)r(ə)l]    美: ['tɛmpərəl]
+
+     adj. 暂时的；当时的；现世的
+     n. 世间万物；暂存的事物
+     n. (Temporal)人名；(法)唐波拉尔
+    
+
+  1.For each tone in the tone file , build the tonal and temporal arrays for matching.
+    对于音调文件中的每个音调，构建音调和时间数组以供匹配。
+  2.If there are temporal dependencies or an " all or nothing " requirement for the individual objects then the solution becomes more complex.
+    如果有些独立对象有临时依赖项或“全有或全无”要求，那么解决方案就会变得更加复杂。
+  3." The results of [ this ] analysis extend our understanding of the temporal dimension of this relationship ," they wrote.
+    他们写道，“[这个]分析结果加深了我们对这种关系的时间尺度的理解。”
+

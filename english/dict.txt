@@ -9971,3 +9971,13 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.A first step in exploring anomalous data is just finding it.
     探索异常数据的第一步只是找到它。
 
+irreflexive
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,iri'fleksiv]    
+
+     adj. 不反射的
+    
+
+  1.The definition of relation , relations properties about to reflexive and irreflexive , symmetric and antisymmetric and transitive , and its application in computer science has been recited.
+    介绍了关系的定义、关系的自反性和反自反性、对称性和反对称性、传递性五条性质，及其在计算机领域中的应用。
+

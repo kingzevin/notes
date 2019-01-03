@@ -9957,3 +9957,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.You see the plane you have just left , drift into the clouds ( if there are any ), and the land is far away but approaching rapidly.
     你看见你刚刚离开的飞机，漂移到云中(如果有云的话)，而地面还很遥远但是正在快速接近你当中。
 
+anomalous
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ə'nɒm(ə)ləs]    美: [ə'nɑmələs]
+
+     adj. 异常的；不规则的；不恰当的
+    
+
+  1.I wish I could say that this is a single, anomalous group of students , but the trend is unmistakable.
+    我希望我可以说这只是异常的一组学生，然而趋势是显而易见的。
+  2.And even more specifically , we will expect both neighbors of an anomalous point to be either strongly higher or strongly lower than the candidate point.
+    更具体地说，我们认为一个异常点的两个相邻点比参考点或者特别高，或者特别低。
+  3.A first step in exploring anomalous data is just finding it.
+    探索异常数据的第一步只是找到它。
+

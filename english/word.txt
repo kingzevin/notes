@@ -686,3 +686,5 @@ synchrony
 
 temporal
 
+pervade
+

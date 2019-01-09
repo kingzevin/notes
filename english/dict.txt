@@ -10011,3 +10011,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But above all be grateful that no one will have to live down either your renown or your wealth.
     但是最应感谢的是，没有人必须靠着你的名誉或财产来生活。
 
+reconcile
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['rek(ə)nsaɪl]    美: ['rɛkənsaɪl]
+
+     vt. 使一致；使和解；调停，调解；使顺从
+    
+
+  1.How do we reconcile that ?
+    我们如何协调这些？
+  2.How do you reconcile this choice with liberalism ?
+    你如何调和这个选择与自由主义？
+  3.The teacher in charge of our class had to reconcile disputes among the students.
+    我们的班主任必须调解学生中的纠纷。
+

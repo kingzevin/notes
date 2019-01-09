@@ -9981,3 +9981,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   1.The definition of relation , relations properties about to reflexive and irreflexive , symmetric and antisymmetric and transitive , and its application in computer science has been recited.
     介绍了关系的定义、关系的自反性和反自反性、对称性和反对称性、传递性五条性质，及其在计算机领域中的应用。
 
+renowned
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [rɪ'naʊnd]    美: 
+
+     adj. 著名的；有声望的
+     v. 使有声誉（renown的过去分词）
+    
+
+  1.I am pleased to have the opportunity to come to Waseda to meet young friends and teachers of this renowned university.
+    有机会来到著名学府早稻田大学，同青年朋友和老师们相聚一堂，我感到十分高兴。
+  2.Statistics only capture one slice of the problem. But it is the renowned Harvard economist , Larry Katz , who offers the most compelling analogy.
+    统计数字只能显示一部分问题，但是著名的哈佛经济学家拉里·卡茨却做了一次最具说服力的类比。
+  3.Because this is a community that is renowned for its spirit of inclusion and opportunity for all.
+    因为这是一个以其包容精神和为所有人提供机会而著称的社区。
+

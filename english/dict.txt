@@ -10040,3 +10040,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This idiom is an example of a mapping operation combined with a reduction or folding operation, whereby an associative operator ( such as sum or max ) is applied pairwise to a sequence of values.
     该做法是与化简（reduce）或是折叠（fold）操作结合在一起的映射（map）操作的一个例子，某个关联的运算符（比如说sum或是max）凭此来成对地应用一系列的值。
 
+emulation
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [,emjʊ'leɪʃən]    美: [,ɛmjə'leʃən]
+
+     n. [计] 仿真；竞争；效法
+    
+
+  1.Hardware emulation does have its advantages.
+    硬件仿真也有自己的优点。
+  2.This emulation hides many of the details of working with SIMH but is an interesting historical peek at one use of the 1130.
+    虽然此仿真隐藏了许多使用SIMH的细节，但是它仍旧是一个1130使用上的有趣的历史性窥视。
+  3.In addition to emulating a processor , QEMU permits emulation of all necessary subsystems , such as networking and video hardware.
+    除了仿真处理器外，QEMU 还允许仿真所有必要的子系统，如连网硬件和视频硬件。
+

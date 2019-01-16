@@ -10120,3 +10120,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.By modelling the behaviour of stars in clusters , the Bonn team finds that they are ideal environments for black holes to coalesce.
     通过对星团中的恒星行为进行研究，波恩团队发现这些星团为黑洞合并提供了理想的环境。
 
+supremum
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [sə'priməm]    
+
+     n. [数] 上确界；最小上界
+    
+
+  1.The supremum axiom of the reals refers to subsets of the reals and is therefore a second-order logical statement.
+    实数集的上确界公理用到了实数集的子集，这是一种二阶逻辑的陈述。
+  2.According to the definite condition , The paper uses the theorem of supremum and infimum to study characteristic of mapping function and get its important law of the mapping.
+    运用上确界与下确界存在定理，在一定条件下，研究了连续函数的映射特点，得到一个连续函数所独有的映射规律。
+  3.In this paper, the writer demonstrates the stability of some special matrices , supplies a method to calculate the supremum and infimum , and analyses the condition to reach them with an example.
+    就特殊矩阵稳定性论证了几个重要定理，给出了特征值上下确界的求法，分析并论证达到上下确界的条件，结合实例给出了论证方法。
+

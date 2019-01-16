@@ -718,3 +718,5 @@ anomaly
 
 coalesce
 
+supremum
+

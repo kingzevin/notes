@@ -10070,3 +10070,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Flammable gas found in the relay indicates some internal fault such as overheating or arcing , whereas air found in the relay may only indicate low oil level or a leak.
     如果在继电器中发现可燃气体，这说明有内部故障，比如过热或者电弧作用；而继电器内的空气只说明油位低或者有漏油。
 
+tombstone
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['tuːmstəʊn]    美: ['tumston]
+
+     n. 墓碑；墓石
+     n. (Tombstone)人名；(英)图姆斯通
+    
+
+  1.And please leave a small tombstone near home.
+    然后在我家附近立一个小墓碑。
+  2.You told them about Boltzmann 's tombstone and so forth.
+    你们告诉他们关于波耳兹曼的墓碑等事情。
+  3.She now skipped irreverently from one grave to another ; until, coming to the broad , flat , armorial tombstone of a departed worthy - perhaps of Isaac Johnson himself - she began to dance upon it.
+    此时她正大不敬地从一个坟墓跳到另一个坟墓；终于来到一位逝去的大人物——说不定正是艾萨克，约翰逊本人——的宽大、平整、带纹章的墓石跟前，在那上面跳起舞来。
+

@@ -10148,3 +10148,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Next , scientists look at tandem repeats , or the repeat of two or more nucleotides , in roughly 13 to 15 regions of a DNA sample called loci.
     接下来，科学家对DNA样本中称为位点的13至15个区域的串联重复或两个以及多于两个核苷酸的重复进行观察。
 
+locus
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['ləʊkəs]    美: ['lokəs]
+
+     n. [数] 轨迹；地点，所在地
+    
+
+  1.India , too , is becoming an economic powerhouse and a major locus of manufacturing ; it will likely be the third largest economy in the world.
+    印度也将成为经济大国以及主要的制造业所在地；它将可能成为世界第三大经济体。
+  2.It will be the locus of our course.
+    这将是我们这门课的核心
+  3.They may attend classes for only a period a day , to work strictly on English skills , or attend for a full day and locus both on academics and English.
+    他们可能每天只有一节英语课，也可能有整整一天的课来学习英语和其它学科。 这种模式称之为：英语作为第二语言模式。
+

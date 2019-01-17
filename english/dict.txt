@@ -10222,3 +10222,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The traffic banked up at the intersection.
     车辆在交叉路口拥塞起来。
 
+defect
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['diːfekt; dɪ'fekt]    美: [‘dɪfɛkt]
+
+     n. 缺点，缺陷；不足之处
+     vi. 变节；叛变
+    
+
+  1.What type of defect is it ?
+    它是什么类型的缺陷？
+  2.It facilitates control and communication from defect report to resolution.
+    它促进了从缺陷报告到解决的控制与交流。
+  3.If we classify these users by project , then , from a project-by-project point of view , the defect database appears to be unique for each user and each project.
+    如果我们按照项目来分类这些用户，那么从一个个项目的观点来看，缺陷数据库对每个用户和每个项目看起来都是唯一的。
+

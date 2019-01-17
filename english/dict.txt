@@ -10246,3 +10246,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     discreet
     adj. 谨慎的；小心的
 
+discrete
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [dɪ'skriːt]    美: [dɪ'skrit]
+
+     adj. 离散的，不连续的
+     n. 分立元件；独立部件
+    
+
+  1.Whatever course you have set for development , that course possesses discrete processes.
+    不论您为开发设置的什么过程，该过程拥有离散的过程。
+  2.By organizing the solution into discrete levels , architects are able to focus on a single aspect of the solution while ignoring for the moment all remaining complexities.
+    通过将解决方案组织到离散的层次，架构师可以将精力集中在解决方案的单个方面而忽略所有剩余的复杂性。
+  3.Organizations can also decide to share environments within discrete and individual business units.
+    组织也可以决定在离散和单个业务单位中共享环境。
+

@@ -10176,3 +10176,21 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In Section 5 , we use the corank function of poset matroids to investigate the relationship between a poset matroid and its dual.
     在第5节，我们用偏序集拟阵的余秩函数来研究偏序集拟阵与其对偶之间的关系。
 
+rubber
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['rʌbə]    美: ['rʌbɚ]
+
+     n. 橡胶；橡皮；合成橡胶；按摩师；避孕套
+     adj. 橡胶制成的
+     vt. 涂橡胶于；用橡胶制造
+     vi. 扭转脖子看；好奇地引颈而望
+     n. (Rubber)人名；(西)鲁韦尔
+    
+
+  1.Rubber is an elastic material.
+    橡胶是一种弹性材料。
+  2.He sponged a wrong letter off with a rubber.
+    他用橡皮擦掉了一个错误的字母。
+  3.He rigged a rubber hose to the tap in the kitchen.
+    他将一条橡皮软管安装在厨房的水龙头上。
+

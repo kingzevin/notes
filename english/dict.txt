@@ -10162,3 +10162,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.They may attend classes for only a period a day , to work strictly on English skills , or attend for a full day and locus both on academics and English.
     他们可能每天只有一节英语课，也可能有整整一天的课来学习英语和其它学科。 这种模式称之为：英语作为第二语言模式。
 
+poset
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [pɔ:'set]    
+
+     n. 偏序集
+    
+
+  1.In Section 4 , we study the nullity functions of poset matroids.
+    在第4节研究了偏序集拟阵的零度函数。
+  2.A continuous poset has a countable basis iff the measurement topology of it is separable.
+    连续偏序集有可数基当且仅当其上的测度拓扑是可分的；
+  3.In Section 5 , we use the corank function of poset matroids to investigate the relationship between a poset matroid and its dual.
+    在第5节，我们用偏序集拟阵的余秩函数来研究偏序集拟阵与其对偶之间的关系。
+

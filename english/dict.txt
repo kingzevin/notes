@@ -10298,3 +10298,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It allowed Hebrew society and Judaism to strengthen for another crucial century —by which time the Babylonian king Nebuchadrezzar could banish the Hebrew people but not obliterate them or their faith.
     它使得希伯莱社会和犹太教在关键的一个世纪内不断强大。 在这重要的时间内，巴比伦王尼布甲尼最多撒流放希伯莱人，而无法消灭他们，抑或扼杀他们的信仰。
 
+isomorphism
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [,aɪsəʊ'mɔːfɪzəm]    美: [,aɪsə'mɔrfɪzm]
+
+     n. 类质同像，[物化] 类质同晶；同形
+    
+
+  1.According to Jason , the essential benefit of Process Isomorphism is the ability to use the process to represent service composition and vice-versa.
+    在Jason看来，流程同构的本质优点是能够使用流程来表示服务组合，以及使用服务组合表示流程。
+  2.Without process isomorphism , the process logic the BPM team comes up with won't correspond directly to the BPEL logic for the supporting composition.
+    要是没有流程同构，BPM团队得出的流程逻辑将不会直接对应于用于支撑组合的BPEL逻辑。
+  3.Only by taking an iterative approach where each iteration combines top -down and bottom - up design is an organization likely to achieve Process Isomorphism.
+    只有采用迭代的方式，在每个迭代中结合自顶向下和自底向上的设计，组织才有可能获得流程同构。
+

@@ -10275,3 +10275,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It allowed Hebrew society and Judaism to strengthen for another crucial century —by which time the Babylonian king Nebuchadrezzar could banish the Hebrew people but not obliterate them or their faith.
     它使得希伯莱社会和犹太教在关键的一个世纪内不断强大。 在这重要的时间内，巴比伦王尼布甲尼最多撒流放希伯莱人，而无法消灭他们，抑或扼杀他们的信仰。
 
+obliterat
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'obliterat' not found, do you mean?
+
+    obliterate
+    vt. 消灭；涂去；冲刷；忘掉
+    alliterate
+    vi. 押头韵；用头韵体作 | vt. 押头韵
+

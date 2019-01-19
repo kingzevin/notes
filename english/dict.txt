@@ -10312,3 +10312,21 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Only by taking an iterative approach where each iteration combines top -down and bottom - up design is an organization likely to achieve Process Isomorphism.
     只有采用迭代的方式，在每个迭代中结合自顶向下和自底向上的设计，组织才有可能获得流程同构。
 
+ace
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [eɪs]    美: [es]
+
+     n. 幺点；直接得分的发球；佼佼者；（俚）最好的朋友
+     adj. 一流的，突出的
+     vt. 以发球赢一分；击败
+     int. 太棒了；太好了
+     n. (Ace)人名；(英)埃斯
+    
+
+  1.Your materials will be kept in ACE files.
+    你的材料将被保留在ACE文件夹内。
+  2.But ACE stands by its studies , pointing out that they were conducted by independent researchers at the University of Wisconsin.
+    但ACE仍坚持这项研究的观点。指出，研究是由威斯康星大学的独立研究人员指导完成的。
+  3.ACE inhibitors work by inhibiting the conversion of angiotensin I to the potent vasoconstrictor , angiotensin II, thereby improving blood flow and blood pressure.
+    ACE抑制剂的工作，通过抑制血管紧张素I的转化可以强化血管，血管紧张素Ⅱ可改善血流和血压。
+

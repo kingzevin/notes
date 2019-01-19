@@ -10346,3 +10346,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Once they hit the edge of a cone , drops are propelled towards its base , the least curved region , because of the pressure difference caused by surface tension.
     一旦水滴流到了圆锥体的边缘，就会在锥体表面张力所形成的压力差的作用下流向它的底座，那里是曲线弧度最小的地方。
 
+interior
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪn'tɪɜːrɪə]    美: [ɪn'tɪrɪɚ]
+
+     n. 内部；本质
+     adj. 内部的；国内的；本质的
+    
+
+  1.What you beheld was the interior of a cloister.
+    你所看见的是一个修道院的内部。
+  2.The plane is 107 feet from nose to tail —as big as a commercial jet seating 100 passengers , but with computers and instrument bays occupying most of the interior space and only a few windows.
+    这架飞机从机头到机尾，全长107英尺，大小相当于一个可乘坐100名乘客的商业客机，但计算机和仪表舱占据了绝大部分内部空间，只有几个窗口。
+  3.This viewpoint is very challenging and interesting , and it hints that the life could spread not only in the interior of the solar system , but also in the other galaxies.
+    这一观点是非常富有挑战性和兴趣性的，暗示着生命体不仅可能在太阳系内部彼此传播，还有可能向太阳系外的星系进行传播。
+

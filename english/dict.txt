@@ -10330,3 +10330,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.ACE inhibitors work by inhibiting the conversion of angiotensin I to the potent vasoconstrictor , angiotensin II, thereby improving blood flow and blood pressure.
     ACE抑制剂的工作，通过抑制血管紧张素I的转化可以强化血管，血管紧张素Ⅱ可改善血流和血压。
 
+cone
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [kəʊn]    美: [kon]
+
+     n. 圆锥体，圆锥形；[植] 球果
+     vt. 使成锥形
+     n. (Cone)人名；(英)科恩；(罗)科内；(塞)措内
+    
+
+  1.The shock wave forms a cone of pressurized air molecules which move outward and rearward in all directions and extend to the ground.
+    这个冲击波形成了一个压缩气体分子的圆锥体，它朝向外和向后的各个方向一直延伸到地面。
+  2.Cutting thecone at various angles gives you various shapes of ellipse. Until theangle of your cut exceeds the angle of the side of the cone.
+    如果你从侧面不同角度切割圆锥，便会有不同样子的椭圆，除非，直到你的切割角度超过圆锥体侧边的角度。
+  3.Once they hit the edge of a cone , drops are propelled towards its base , the least curved region , because of the pressure difference caused by surface tension.
+    一旦水滴流到了圆锥体的边缘，就会在锥体表面张力所形成的压力差的作用下流向它的底座，那里是曲线弧度最小的地方。
+

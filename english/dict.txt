@@ -10379,3 +10379,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But more tough work faces the police to thoroughly eliminate all the gutter oil sold in the market.
     但是警方还面临着全面清除流向市场的所有地沟油的更为艰巨的任务。
 
+transit
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['trænsɪt; 'trɑːns-; -nz-]    美: ['træzɪt]
+
+     n. 运输；经过
+     vt. 运送
+     vi. 经过
+    
+
+  1.The shortage you claimed might have occurred in the course of transit , which is out of our control.
+    贵方所提出的货物短缺可能是在运输过程中发生的，这是我们所无法控制的。
+  2.Over on Maritime Community there was an article about Ship Spares In Transit and what the term means.
+    在海洋界，有一个条约是关于运输中的船用备件以及此条款的定义。
+

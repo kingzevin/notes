@@ -10408,3 +10408,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.To sum up , we are able to make some tentative plans about the future , all because the flexibility built into the iterative process allows us some deviation from the original plan.
     总之，我们能够制定一些未来的试验性计划，所有都是因为构建于迭代过程中的灵活性允许我们适当地偏离原来的计划。
 
+lengthy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['leŋθɪ; 'leŋkθɪ]    美: ['lɛŋθi]
+
+     adj. 漫长的，冗长的；啰唆的
+    
+
+  1.You can create short aliases to stand in for lengthy commands.
+    您可以创建简短的别名以代替冗长的命令。
+  2.Those operations are lengthy but more importantly , the customer can not access the databases during the database export and import.
+    那些操作是漫长的，但更是重要的，在数据库导出和导入过程中，客户不能访问数据库。
+  3.It was a rather lengthy piece of paper.
+    那确实是相当冗长的一张纸。
+

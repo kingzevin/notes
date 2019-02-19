@@ -10453,3 +10453,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Your requirements management plan is the right tool to manifest your rules about how you expect to document and treat requirements in your project.
     需求管理计划是一件合适的工具，它将表明您会以何种方式记录和处理工程中遇到的各种需求。
 
+dub
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [dʌb]    美: [dʌb]
+
+     vt. 配音；轻点；打击；授予称号
+     n. 笨蛋；鼓声
+     n. (Dub)人名；(英、俄、捷、匈)杜布；(法)迪布
+    
+
+  1.The Spaniards love to dub everything.
+    西班牙人喜欢为一切配音。
+  2.As an example , imagine that you have to dub an American film for a Spanish audience.
+    比方说，假设需要为西班牙观众对一部美国电影配音。
+  3.But the more likely scenario is what scientists dub the “ halo effect ”—that, like a pack of untrained puppies , we are mesmerized by beauty, blindly ascribing intelligent traits to go along with it.
+    但更有可能的推测是科学家们称之为的“光晕效应”，即在一群未经训练的小狗中，我们容易被其长相所吸引，盲目地认为聪明的特性归功于长相。
+

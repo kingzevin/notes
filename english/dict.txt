@@ -10519,3 +10519,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This heritage I am proud of, and those who study Chinese history and culture will concur that it is a source of pride for mankind.
     为这传统我感到骄傲，而任何人研究过中国的历史与文化，会同意那是人类足以为傲的一个源头。
 
+side-step
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['saidstep]    
+
+     vt. 横跨一步避开；回避
+     vi. 横跨一步；回避问题
+    
+
+  1.But until this occurs , alternatives are necessary to side -step this problem.
+    但在这个版本出现之前，需要采用替代方法来回避这个问题。
+  2.Aaron Erickson 's MetaLinq allows developers to side-step this by providing a way to convert expression trees into mutable representations and back again.
+    AaronErickson的MetaLinq，通过提供把表达式树转换为可变形式并可转换回来这样的一个方法，从而允许开发人员避开这个限制。
+  3.There are ways around this , but it ’s best to side-step the issue by applying the padding to the parent element instead of the child that gets a fixed - width.
+    对此也有权宜之计，不过最好是绕过这个问题，当子元素的宽度固定时，为父元素指定padding。
+

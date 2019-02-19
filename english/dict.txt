@@ -10422,3 +10422,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It was a rather lengthy piece of paper.
     那确实是相当冗长的一张纸。
 
+ubiquitously
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [jʊ'bɪkwitəsli]    
+
+     adv. 无所不在地
+    
+
+  1.We will focus on SOA solutions but the concept can be used ubiquitously.
+    我们将重点讨论SOA解决方案，但这个概念可以在很多地方使用。
+  2.You can see an example of the REST style as ubiquitously as the World Wide Web itself.
+    可以将万维网本身视为REST样式的例子。
+  3.An emerging computing paradigm where data and services reside in massively scalable data centers and can be ubiquitously accessed from any connected devices over the internet
+    一个以数据和服务存在于大规模的可延展的数据中心并且这些数据和服务能在任何连接在因特网上的设备随处访问的新兴计算形式
+

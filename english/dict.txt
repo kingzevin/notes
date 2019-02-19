@@ -10469,3 +10469,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But the more likely scenario is what scientists dub the “ halo effect ”—that, like a pack of untrained puppies , we are mesmerized by beauty, blindly ascribing intelligent traits to go along with it.
     但更有可能的推测是科学家们称之为的“光晕效应”，即在一群未经训练的小狗中，我们容易被其长相所吸引，盲目地认为聪明的特性归功于长相。
 
+supersede
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,suːpə'siːd; ,sjuː-]    美: [,supɚ'sid]
+
+     vt. 取代，代替；紧接着……而到来
+     vi. 推迟行动
+    
+
+  1.In the future , robots will supersede human beings for very heavy work.
+    今后，机器人必将取代人类的繁重劳动。
+  2.Will multiple versions of the same application run concurrently , or does a new version supersede an older version ?
+    同一应用程序的多个版本是否可以同时运行，或者新版本是否会取代旧版本？
+  3.Confusingly, the annual tax return does not supersede an existing monthly requirement to report and pay tax on non- taxed income if total earnings exceed a certain threshold.
+    复杂的是，这一新政策并不代替个人收入如果超过一定数额，那么就要每月报告并对非税收入缴税的已有政策。
+

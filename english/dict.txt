@@ -10505,3 +10505,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.When I look at my brother I see someone I have nothing in common with : he sees a half -assed writer who cares only for esoteric matters.
     当我看着弟弟时，我看到一个和我没有任何共同点的人：他看到的是一个不着调的作家，关心的都是些深奥的东西。
 
+concur
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [kən'kɜː]    美: [kən'kɝ]
+
+     vi. 同意；一致；互助
+    
+
+  1.This should concur with the need for SOA governance ; in fact design -time governance is needed to enforce standardized services.
+    这要跟SOA治理的需求保持一致；事实上，要想执行标准化的服务，就需要设计时的治理。
+  2.And so , a lot of people see this as a sort of … or create a scenario , an Orwellian scenario , a Big Brother type scenario but I don't concur.
+    所以，大多数人会把这个现象视为一种……或者说创作一幕剧情，一幕奥威尔式或是“老大哥”式的剧情，但是我并不同意这样的看法。
+  3.This heritage I am proud of, and those who study Chinese history and culture will concur that it is a source of pride for mankind.
+    为这传统我感到骄傲，而任何人研究过中国的历史与文化，会同意那是人类足以为傲的一个源头。
+

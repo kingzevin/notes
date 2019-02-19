@@ -10534,3 +10534,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.There are ways around this , but it ’s best to side-step the issue by applying the padding to the parent element instead of the child that gets a fixed - width.
     对此也有权宜之计，不过最好是绕过这个问题，当子元素的宽度固定时，为父元素指定padding。
 
+folklore
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['fəʊklɔː]    美: ['foklɔr]
+
+     n. 民俗学；民间传说；民间风俗
+    
+
+  1.Like the notion of evil itself , they have ancient origins and appear in folklore and literature across the world.
+    像邪恶本身的概念，他们历史悠久，并且在世界上所有民间传说和文艺作品中都有出现。
+  2.Today , my foremost concern should be to research the folklore of my home country so that I can finish the footnote to my report.
+    今天，我最主要关心的应该是研究祖国的民间传说，那样我就可以完成我的报告的脚注了。
+  3.On your journey , and this is also true of the study of folklore , you need a helper . That's part of fiction. You need another hero.
+    在你的旅途中，一些民间传说的研究也能证明，你一定需要一个帮手，当然这里面也有虚构成分，你需要英雄。
+

@@ -10484,3 +10484,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Confusingly, the annual tax return does not supersede an existing monthly requirement to report and pay tax on non- taxed income if total earnings exceed a certain threshold.
     复杂的是，这一新政策并不代替个人收入如果超过一定数额，那么就要每月报告并对非税收入缴税的已有政策。
 
+esoterik
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'esoterik' not found, do you mean?
+
+    esoteric
+    adj. 秘传的；限于圈内人的；难懂的
+    asterisk
+    n. 星号 | vt. 注上星号；用星号标出
+

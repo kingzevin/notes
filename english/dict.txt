@@ -10548,3 +10548,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.On your journey , and this is also true of the study of folklore , you need a helper . That's part of fiction. You need another hero.
     在你的旅途中，一些民间传说的研究也能证明，你一定需要一个帮手，当然这里面也有虚构成分，你需要英雄。
 
+quiescent
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [kwɪ'es(ə)nt; kwaɪ-]    美: [kwɪ'ɛsnt]
+
+     adj. 静止的；不活动的；沉寂的
+    
+
+  1.As a Database Administrator, you can use a new single- user mode that is an intermediary mode between quiescent mode and online mode.
+    数据库管理员可以使用新增的单用户模式，这是介于静止模式和联机模式之间的一种模式。
+  2.The queue is always in one of two states : the normal , or quiescent , state ( Figure 1 and Figure 3 ) or the intermediate state ( Figure 2 ).
+    队列总是处于两种状态之一：正常状态（或称静止状态，图1和图3）或中间状态（图2）。
+  3.It keeps checking the tail pointer and advancing it if necessary until the queue is in the quiescent state , at which point it can begin its own insertion.
+    如果有必要，它还会继续检查尾指针并向前移动指针，直到队列处于静止状态，这时它就可以开始自己的插入了。
+

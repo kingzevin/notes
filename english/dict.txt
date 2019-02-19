@@ -10436,3 +10436,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.An emerging computing paradigm where data and services reside in massively scalable data centers and can be ubiquitously accessed from any connected devices over the internet
     一个以数据和服务存在于大规模的可延展的数据中心并且这些数据和服务能在任何连接在因特网上的设备随处访问的新兴计算形式
 
+manifest
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['mænɪfest]    美: ['mænɪfɛst]
+
+     vt. 证明，表明；显示
+     vi. 显示，出现
+     n. 载货单，货单；旅客名单
+     adj. 显然的，明显的；明白的
+    
+
+  1.This change might manifest itself as an epiphany at some point during the project , or it might seep in as a gradual change.
+    这种更改可能在项目开发的过程中的某个时候突然出现，也有可能成为一点一点渐进的改变。
+  2.Because if you never ponder on those negative thoughts and never say those negative words , they can never manifest into your world.
+    因为如果你从不消极地思考，就永远不会说消极的话，它们就永远不会出现在你的世界里。
+  3.Your requirements management plan is the right tool to manifest your rules about how you expect to document and treat requirements in your project.
+    需求管理计划是一件合适的工具，它将表明您会以何种方式记录和处理工程中遇到的各种需求。
+

@@ -10576,3 +10576,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.An " anomaly " can also mean that a safety problem at a facility could have resulted in greater damage than it did or that radioactive material has been stolen or transported incorrectly.
     “异常”也可能意味着核设施的某个安全问题本可能造成更大的破坏，但结果并未造成严重后果；或是放射性材料被盗，或被不当运输。
 
+quiescent
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [kwɪ'es(ə)nt; kwaɪ-]    美: [kwɪ'ɛsnt]
+
+     adj. 静止的；不活动的；沉寂的
+    
+
+  1.As a Database Administrator, you can use a new single- user mode that is an intermediary mode between quiescent mode and online mode.
+    数据库管理员可以使用新增的单用户模式，这是介于静止模式和联机模式之间的一种模式。
+  2.The queue is always in one of two states : the normal , or quiescent , state ( Figure 1 and Figure 3 ) or the intermediate state ( Figure 2 ).
+    队列总是处于两种状态之一：正常状态（或称静止状态，图1和图3）或中间状态（图2）。
+  3.It keeps checking the tail pointer and advancing it if necessary until the queue is in the quiescent state , at which point it can begin its own insertion.
+    如果有必要，它还会继续检查尾指针并向前移动指针，直到队列处于静止状态，这时它就可以开始自己的插入了。
+

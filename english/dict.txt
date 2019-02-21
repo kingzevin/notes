@@ -10590,3 +10590,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It keeps checking the tail pointer and advancing it if necessary until the queue is in the quiescent state , at which point it can begin its own insertion.
     如果有必要，它还会继续检查尾指针并向前移动指针，直到队列处于静止状态，这时它就可以开始自己的插入了。
 
+pairwise
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['peə,waɪz]    
+
+     adj. 成对发生的
+     adv. 成对地；成双地
+    
+
+  1.we can aggregate subtrees of the " plain " type pairwise . But I would prefer if Spark allowed a more EBNF-style grammar expression like this
+    我们可以成对地聚集“plain“类型的子树。
+  2.Pairwise sequence divergences of all data sets indicated that the genetic divergences between the two phenotypes fall within intraspecific range.
+    所有数据的成对序列分歧值指出两表型间的遗传分歧都处于种内的范围。
+  3.This idiom is an example of a mapping operation combined with a reduction or folding operation, whereby an associative operator ( such as sum or max ) is applied pairwise to a sequence of values.
+    该做法是与化简（reduce）或是折叠（fold）操作结合在一起的映射（map）操作的一个例子，某个关联的运算符（比如说sum或是max）凭此来成对地应用一系列的值。
+

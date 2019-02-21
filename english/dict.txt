@@ -10662,3 +10662,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.For other items , retain the default settings.
     对于其他项，保持默认的设置。
 
+opaque
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ə(ʊ)'peɪk]    美: [o'pek]
+
+     adj. 不透明的；不传热的；迟钝的
+     n. 不透明物
+     vt. 使不透明；使不反光
+    
+
+  1.You can do that, but I find the syntax kind of opaque.
+    您可以这样做，但是我发现语法有些不透明。
+  2.A second laser can then be fired through the normally opaque sodium ; it passes through , but not much faster than a racehorse can run.
+    然后，通过通常不透明的钠发射第二束激光；光线虽能通过,但它运动的速度不会比一匹赛马更快。
+  3.China not only censors much more content , but has a deliberately opaque system in which no one can be sure who is censoring what , or on what grounds.
+    中国不仅审查过多的内容，而且有一个精密的不透明的系统，没有人确定谁在审查，审查什么，为什么审查。
+

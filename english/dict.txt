@@ -10618,3 +10618,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.Not a bad proposition if you ask me.
     如果你问我，这是个不错的提议。
 
+immune
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪ'mjuːn]    美: [ɪ'mjʊn]
+
+     adj. 免疫的；免于……的，免除的
+     n. 免疫者；免除者
+    
+
+  1.We are immune to advertising.
+    我们对广告是免疫的。
+  2.If stress affects immune responses , then it should also affect how well the body heals itself.
+    如果压力影响免疫反应，那它必将也会影响身体自我疗愈的能力。
+  3." If we knew what the key immune responses were to effective vaccines it would be easier to evaluate them ," he said.
+    “如果我们知道对有效的疫苗产生的关键免疫应答是什么，那么评估疫苗就更容易了，”他说。
+

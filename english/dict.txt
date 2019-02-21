@@ -10605,3 +10605,16 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This idiom is an example of a mapping operation combined with a reduction or folding operation, whereby an associative operator ( such as sum or max ) is applied pairwise to a sequence of values.
     该做法是与化简（reduce）或是折叠（fold）操作结合在一起的映射（map）操作的一个例子，某个关联的运算符（比如说sum或是max）凭此来成对地应用一系列的值。
 
+proposition
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [prɒpə'zɪʃ(ə)n]    美: [,prɑpə'zɪʃən]
+
+     n. [数] 命题；提议；主题；议题
+     vt. 向…提议；向…求欢
+    
+
+  1.The sentence , Beijing is the capital of China is a proposition.
+    ‘北京是中国的首都’，这个句子就是一个命题。
+  2.Not a bad proposition if you ask me.
+    如果你问我，这是个不错的提议。
+

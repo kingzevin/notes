@@ -790,3 +790,5 @@ proposition
 
 immune
 
+avatar
+

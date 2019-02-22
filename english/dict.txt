@@ -10721,3 +10721,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Quantitative easing is sometimes colloquially described as " printing money " although in reality the money is simply created by electronically adding a number to an account.
     量化宽松有时俗称为“印钞票”，但实际上钱的生成是通过电子方式，即在账户中简单地添加一个数字。
 
+counter-example
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英:     
+
+     反例
+    
+
+  1.A good counter- example is Atom , a format for exchanging Web feeds of information , defined in RFC 4287.
+    一个很好的反例是Atom，这是RFC4287中定义的一种Web信息提要交换格式。
+  2.For each example of a conflict apparently made easier by air power , there is a counter - example of a war which air power has only served to complicate and intensify.
+    对于每个新的冲突例子来说，如果其中有一个是由于空中力量而得到明显简化的，就会有一个相反的例子反应空中力量知识使的冲突复杂和深化的。
+  3.As a counter - example , a stateful service interface will tend to increase coupling between consumer and provider by associating a consumer with a particular provider instance.
+    举个相反的例子，有状态服务接口将倾向于通过将使用者与特定提供者实例关联来增加使用者和提供者间的耦合。
+

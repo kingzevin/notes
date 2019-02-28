@@ -10735,3 +10735,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.As a counter - example , a stateful service interface will tend to increase coupling between consumer and provider by associating a consumer with a particular provider instance.
     举个相反的例子，有状态服务接口将倾向于通过将使用者与特定提供者实例关联来增加使用者和提供者间的耦合。
 
+mog
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [mɒg]    美: [mɑg]
+
+     vi. 撤走
+     n. (Mog)人名；(东南亚国家华语)莫；(英)莫格(女子教名 Margaret 的昵称)
+    
+
+  1.Because MOG - O - MATIC scans your entire music collection , it knows what music you like.
+    由于MOG-O-MATIC搜索你全部的音乐收藏，所以它自然对你喜欢什么了如指掌。
+  2.This tool was also available in the first version of MOG but is 10 times as fast now , indexing 10, 000 songs an hour compared with 1 , 000 songs previously.
+    最初版本的MOG就包含这个工具，但现在速度提高到了原来的十倍，它可以在1小时内为10,000首歌建立索引，远远多于从前的1,000首。
+  3.MOG 's on- demand , music streaming app has a stripped-down and simplified UI compared to its normal website , and this new look is better suited for getting to the music quickly , in my opinion.
+    MOG（在线音乐网络博客）的要求，音乐流量应用相比较它的正常的网站来说有一个核心的简化用户界面，并且这个新的面目看起来更适合于快速的找到音乐，起码我是这样认为的。
+

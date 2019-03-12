@@ -10832,3 +10832,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3." Avatar " asks us to see that everything is connected , all human beings to each other, and us to the Earth.
     《阿凡达》让我们看到万物相互关联，人与人之间是这样，我们与地球的关系也是如此。
 
+opaque
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ə(ʊ)'peɪk]    美: [o'pek]
+
+     adj. 不透明的；不传热的；迟钝的
+     n. 不透明物
+     vt. 使不透明；使不反光
+    
+
+  1.You can do that, but I find the syntax kind of opaque.
+    您可以这样做，但是我发现语法有些不透明。
+  2.If you do not declare the transparency , it will be fully opaque.
+    如果你没有申报的透明度，这将是完全不透明。
+  3.At this point , it was opaque to light.
+    在这一点上，它是不透明的，以轻。
+

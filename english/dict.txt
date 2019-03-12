@@ -10848,3 +10848,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.At this point , it was opaque to light.
     在这一点上，它是不透明的，以轻。
 
+sentinel
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['sentɪn(ə)l]    美: ['sɛntɪnl]
+
+     n. 哨兵
+     vt. 守卫，放哨
+    
+
+  1.Is one of the goals of the Sentinel system.
+    解答频率的问题是“哨兵”系统的目标之一。
+  2.He joined the Sentinel for him to have revenge on the death of his tribe and family.
+    他加入了他的哨兵，以对他的部落和家庭的死亡复仇。
+  3.If a state name is too short or common a sentinel is likely to reject it.
+    如果一个国家的名义是太短或共同的一个哨兵很可能会拒绝它。
+

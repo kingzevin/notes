@@ -10863,3 +10863,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If a state name is too short or common a sentinel is likely to reject it.
     如果一个国家的名义是太短或共同的一个哨兵很可能会拒绝它。
 
+planetary
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['plænɪt(ə)rɪ]    美: ['plænətɛri]
+
+     adj. 行星的
+    
+
+  1.These disks are the remnants of planetary formation.
+    这些圆盘是行星形成的剩余物质。
+  2.This trend towards dealing with extraterrestrials as near equals , he believes , is encouraging progress for the human race , since it means we are coming out of our planetary cocoon.
+    把外星人当作平等物来处理的这种趋势，他认为，正鼓励着人类种族的进步，因为它意味着我们正走出我们的行星茧。
+  3.They report the findings in the journal Earth and Planetary Science Letters.
+    他们把这一发现发表在杂志《地球和行星科学通讯》上。
+

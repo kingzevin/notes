@@ -10921,3 +10921,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.We will then monitor our telemetry , as well as this forum , for any problem reports or issues.
     然后，我们将我们的遥测监控，以及这个论坛上，对任何问题的报告或问题。
 
+ensemble
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɒn'sɒmb(ə)l]    美: [ɑn'sɑmbl]
+
+     n. 全体；总效果；全套服装；全套家具；合奏组
+     adv. 同时
+    
+
+  1.We should consider the buildings as an ensemble.
+    我们应把那些建筑物视作一个整体。
+  2.How proud of you of your man here for the ensemble award?
+    比起全体演出者，你为你的男朋友感到有多骄傲呢？
+  3.The two buildings and the square create an urban ensemble.
+    这两幢建筑和广场创造了城市的整体效果。
+

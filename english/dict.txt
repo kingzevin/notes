@@ -10907,3 +10907,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.You should not remark on her appearance.
     你不应该评论她的外貌。
 
+telemetry
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [tɪ'lemɪtrɪ]    美: [tə'lɛmətri]
+
+     n. [自] 遥测技术；遥感勘测；自动测量记录传导
+    
+
+  1.The telemetry system is a data logger that records data over several days.
+    遥感勘测系统是一个一些天以来记录数据的数据樵夫。
+  2.All of the above and much more can be discovered with bio- medical telemetry.
+    所有上述的和更多的都能被生物医学遥感监测和发现。
+  3.We will then monitor our telemetry , as well as this forum , for any problem reports or issues.
+    然后，我们将我们的遥测监控，以及这个论坛上，对任何问题的报告或问题。
+

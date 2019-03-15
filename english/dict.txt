@@ -10891,3 +10891,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If for some reason you don't have or cannot adopt these values , then you should not worry about agility.
     如果因为某些原因您没有或者不能采用这些价值，那么您就不需要为敏捷而操心了。
 
+remark
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [rɪ'mɑːk]    美: [rɪ'mɑrk]
+
+     n. 注意；言辞
+     vt. 评论；觉察
+     vi. 谈论
+    
+
+  1.Does your remark refer to all of us ?
+    你的评论指的是我们所有的人吗? ?。
+  2.Does your remark refer to all of us ?
+    你的评论是针对我们所有的人吗?。
+  3.You should not remark on her appearance.
+    你不应该评论她的外貌。
+

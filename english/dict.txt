@@ -10950,3 +10950,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If for some reason you don't have or cannot adopt these values , then you should not worry about agility.
     如果因为某些原因您没有或者不能采用这些价值，那么您就不需要为敏捷而操心了。
 
+provision
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [prə'vɪʒ(ə)n]    美: [prə'vɪʒn]
+
+     n. 规定；条款；准备；[经] 供应品
+     vt. 供给…食物及必需品
+    
+
+  1.He is not after provision but after provider.
+    他不再追求供应品，而是在追求供应主！
+  2.Finally, the concrete implementation of this provision to some of its recommendations.
+    最后提出了具体贯彻执行这一规定的若干建议。
+  3.Green is in the provision of government.
+    这个绿化是在政府的规定里。
+

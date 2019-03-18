@@ -11041,3 +11041,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.We can conform the levelness of the machine by means of shim and screw jack.
     我们可能利用垫铁和螺丝千斤顶来调零件器的水平度。
 
+orthogonal
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɔː'θɒg(ə)n(ə)l]    美: [ɔr'θɑgənəl]
+
+     adj. [数] 正交的；直角的
+     n. 正交直线
+    
+
+  1.In this treatise , the authors present the general theory of orthogonal polynomials on the complex plane and several of its applications.
+    在这篇论文里，那些作者提出关于复杂的飞机和它的一些申请的正交多项式的一般的理论。
+  2.It is an open problem whether a orthogonal system is characterized by its difference distribution table. The problem is solved in this paper.
+    一个正交组是否可通过它的的差分分布表来刻画是一个至今未解决的问题。本文解决了这个问题。
+  3.Best extraction craft of Cinnamon oleoresin by microwave extraction technology was studied through single factor and orthogonal experiment.
+    应用微波提取技术，通过单因素和正交试验，选择提取肉桂油树脂的最佳工艺。
+

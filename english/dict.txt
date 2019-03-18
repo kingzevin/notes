@@ -11025,3 +11025,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The shop sells copper vessels of all shapes.
     这家商店出售各种形状的铜器皿。
 
+shim
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ʃɪm]    美: [ʃɪm]
+
+     vt. 用木片或夹铁填；夹铁
+     n. 填隙用木片；夹铁
+     n. (Shim)人名；(朝)沈
+    
+
+  1.We can adjust the levelness of the machine by means of shim and screw jack.
+    我们可以利用垫铁和螺丝千斤顶来调整机器的水平度。
+  2.For longer run applications or wider embossed images , the image , which is now a relief pattern , is copied from the shim and reproduced onto a custom embossing cylinder or drum.
+    不再运行的应用程序或更广泛的浮雕图像，图像，这是现在一个浮雕图案，是从垫片复制和转载到一个自定义的压花缸或桶。
+  3.We can conform the levelness of the machine by means of shim and screw jack.
+    我们可能利用垫铁和螺丝千斤顶来调零件器的水平度。
+

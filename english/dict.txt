@@ -10994,3 +10994,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Why What incentive is there for people to listen to you ?
     为什么人们倾听你讲演的动机是什么？
 
+colocation
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,kələu'keiʃən]    
+
+     n. 场地出租；主机代管
+    
+
+  1.I am looking to develop a new hosted control panel for my clients. I currently host off a reseller account but want to move to a colocation solution.
+    我期待一个新的托管开发为我的客户控制面板。目前我的主机了经销商的帐户，但要移动到一个托管解决方案。
+  2.You would backup a virtual machine , provision an instance from that image , and then , using anti- colocation , provision a second instance on a different physical node.
+    您要备份一台虚拟机，从该映像配给一个实例，然后使用反托管功能在另一个物理节点上配给第二个实例。
+  3.They have more flexible contracts and shorter agreements which allow them to move across to colocation and other hosting sites much more easily than the top end of town.
+    他们有更灵活的合同和较短的协议，允许他们比市镇里的高端企业更容易从一个托管节点转移到另一个托管节点。
+

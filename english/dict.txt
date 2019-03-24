@@ -11184,3 +11184,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.To interleave or simultaneously transmit two or more messages on a single channel.
     在一个通道上交替或同时传输两个或多个报文。 。
 
+coverage
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['kʌv(ə)rɪdʒ]    美: ['kʌvərɪdʒ]
+
+     n. 覆盖，覆盖范围；新闻报道；保险范围
+    
+
+  1.No coverage whatsoever!
+    没有任何覆盖！
+  2.I expect them to have 100% coverage in all of their application code.
+    我希望在他们所有的应用程序代码中有100%的覆盖率。
+  3.This means that there should not be any unnecessary overlap or gaps in the test coverage.
+    这意味着，在测试覆盖中，不应当有任何不必要的覆盖或缺口。
+

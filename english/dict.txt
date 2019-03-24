@@ -11144,3 +11144,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.One school thinks that , even in cases of negative equity , most homeowners will not default if they can afford the payments — not least because defaulting will wreck their credit records.
     一派认为，即使在负权益的情况下，如果他们可以负担还款，大部分房主将不会违约，至少不会因为违约破坏他们的信用记录。
 
+collapase
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    word 'collapase' not found, do you mean?
+
+    collapse
+    vi. 倒塌；瓦解；暴跌 | vt. 使倒塌，使...
+    cold case
+    [美俚]非常不好的境况；穷困；倒霉
+

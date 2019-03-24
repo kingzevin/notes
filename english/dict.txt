@@ -11169,3 +11169,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It is all an attitude , and one day the attitude will become a weird cramp , a pain , and then it will collapse.
     它完全是一种人生观，某天这种观念将不可思议地成为一种束缚，一种痛苦，然后这种观点会倒塌。
 
+interleave
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ɪntə'liːv]    美: [,ɪntɚ'liv]
+
+     vt. [计] 交错；插空白页于；插叙
+     n. [计] 交错
+    
+
+  1.The choice of parameters for a multiplex system using spectrum interleave technique and results of experiment are given also.
+    文中还给出利用频谱交错技术多路复用系统参数的选择与实验结果。
+  2.Based on the interleave method , a new class of binary pseudorandom sequences is constructed , which is called GMW Phase Controlled sequence (or GMW PC sequence).
+    基于交错方法构造出了一类新的伪随机序列，称为GMW相控序列。
+  3.To interleave or simultaneously transmit two or more messages on a single channel.
+    在一个通道上交替或同时传输两个或多个报文。 。
+

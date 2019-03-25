@@ -11198,3 +11198,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This means that there should not be any unnecessary overlap or gaps in the test coverage.
     这意味着，在测试覆盖中，不应当有任何不必要的覆盖或缺口。
 
+monotonic
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [mɒnə(ʊ)'tɒnɪk]    美: [,mɑnə'tɑnɪk]
+
+     adj. 单调的；无变化的；产生单音调的
+    
+
+  1.The rate monotonic priority scheduling scheme has the advantage of simple implementation.
+    单调的速度优先调度计划执行情况的简单的优势。
+  2.The uncertainty coefficient is an information measure for a feature subset , and it is monotonic , so it can be taken as the feature selection measure.
+    特征子集的不确定性系数是一种单调的特征子集信息度量，因此可以将它作为特征选择度量。
+  3.If this is the same server every time than it is relatively easy to guarantee read - your - writes and monotonic reads.
+    如果每次都是同一台服务器，那么就比较容易保证“读己之所写”一致性和单调一致性。
+

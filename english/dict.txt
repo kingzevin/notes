@@ -11212,3 +11212,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If this is the same server every time than it is relatively easy to guarantee read - your - writes and monotonic reads.
     如果每次都是同一台服务器，那么就比较容易保证“读己之所写”一致性和单调一致性。
 
+facilitate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [fə'sɪlɪteɪt]    美: [fə'sɪlə'tet]
+
+     vt. 促进；帮助；使容易
+    
+
+  1.We facilitate them to resist the enemy.
+    我们帮助他们与敌人对抗。
+  2.You could facilitate the process by sharing your knowledge.
+    运用你的知识你可以促进这一过程。
+  3.However , partitioning a system from only one perspective will not likely facilitate the allocation of all stakeholder needs.
+    然而，只从一个透视图来分割系统，可能将不会促进所有涉众要求的分配。
+

@@ -11242,3 +11242,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.After each spike , including a big one in the summer of 2009 when she appeared on the cover of Playboy , the interest tapers off.
     每一次停刊、包括2009年夏天一个大型的杂志——当时她出现在《花花公子》的封面上，人们的兴趣就会降低。
 
+intercept
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,ɪntə'sept]    美: [,ɪntɚ'sɛpt]
+
+     vt. 拦截；截断；窃听
+     n. 拦截；[数] 截距；截获的情报
+    
+
+  1.Then I intercept him.
+    然后我拦截他。
+  2.You are a warrior without intercept in that scenario.
+    此时你就是一个没有拦截的战士了。
+  3.Executing any form of network activity that will intercept data not intended for the Customer 's server.
+    执行任何形式的网络活动，将拦截的数据不打算为客户提供的服务器上。
+

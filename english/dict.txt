@@ -11257,3 +11257,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Executing any form of network activity that will intercept data not intended for the Customer 's server.
     执行任何形式的网络活动，将拦截的数据不打算为客户提供的服务器上。
 
+disclose
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [dɪs'kləʊz]    美: [dɪs'kloz]
+
+     vt. 公开；揭露
+    
+
+  1.Do not disclose your password to anyone.
+    不要向任何人透露你的密码。
+  2.When you pay off a blackmailer , she gets your money , but all you get is her word not to disclose.
+    当你付钱给勒索者时，她拿走你的钱，但你得到的只是她不去揭露的承诺。
+  3.The criminality of blackmail provides an incentive for the blackmailer not to disclose , but this incentive exists with equal force whether or not you pay her off.
+    勒索的犯罪判罚提供了勒索者不揭露的动机，但这个动机受你是否会付给她钱相同的影响。
+

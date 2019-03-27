@@ -11271,3 +11271,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The criminality of blackmail provides an incentive for the blackmailer not to disclose , but this incentive exists with equal force whether or not you pay her off.
     勒索的犯罪判罚提供了勒索者不揭露的动机，但这个动机受你是否会付给她钱相同的影响。
 
+tedious
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['tiːdɪəs]    美: ['tidɪəs]
+
+     adj. 沉闷的；冗长乏味的
+    
+
+  1.But too often the image they see is one of tedious study.
+    但是他们太经常看到的是一种单调乏味的学习景象。
+  2.The Concert was so tedious to Tom that he left before it was over.
+    对汤姆来说这个音乐会非常冗长乏味，还没结束他就走了。
+  3.While I appreciate the power and flexibility of SAX parsers , I have also found that they require lots of tedious coding to track where the parser is in the document.
+    在我欣赏SAX解析器的功能和灵活性的同时，我也发现它们需要进行大量冗长乏味的编码以跟踪解析器在文档中的位置。
+

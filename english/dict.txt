@@ -11300,3 +11300,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Because node structures go in only one direction , they know nothing about the sequence of nodes that precede them.
     由于节点结构只指向一个方向，所以它们完全不了解它们之前的节点的顺序。
 
+forego
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [fɔ:,ɡəu]    美: 
+
+     vt. 放弃；居先；在……之前
+    
+
+  1.Of course , that does not mean you should forego security !
+    当然，这并不意味着您应该放弃安全性！
+  2.Yet , where we forego this extra effort , we increase the possibility of script failure.
+    然而，当我们放弃这笔额外的努力，我们创造更大的可能性脚本失败。
+  3.They have people who over -consume health care , and pay too much for it, together with people who forego the most basic and essential care for financial and other reasons.
+    有些人过多地利用卫生保健并为此支付过多的费用，还有一些人出于经济及其它原因放弃了最基本和必要的医疗。
+

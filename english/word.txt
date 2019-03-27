@@ -884,3 +884,5 @@ tedious
 
 precede
 
+forego
+

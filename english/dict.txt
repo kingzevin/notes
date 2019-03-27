@@ -11285,3 +11285,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.While I appreciate the power and flexibility of SAX parsers , I have also found that they require lots of tedious coding to track where the parser is in the document.
     在我欣赏SAX解析器的功能和灵活性的同时，我也发现它们需要进行大量冗长乏味的编码以跟踪解析器在文档中的位置。
 
+precede
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [prɪ'siːd]    美: [prɪ'sid]
+
+     vt. 领先，在…之前；优于，高于
+     vi. 领先，在前面
+    
+
+  1.All you have to do is precede it by the operator " define :".
+    所有你必须做的是先于它的经营者“的定义：”。
+  2.Because nodes know nothing about the nodes that precede them , each node is itself the start of a list.
+    由于节点完全不了解它们之前的节点，所以每个节点本身都是一个列表的开始。
+  3.Because node structures go in only one direction , they know nothing about the sequence of nodes that precede them.
+    由于节点结构只指向一个方向，所以它们完全不了解它们之前的节点的顺序。
+

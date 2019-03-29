@@ -11343,3 +11343,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.We should also not overlook the role of the utilities.
     我们应该也不能忽视的作用，水电费。
 
+dichpher
+Querying... █▒▒▒▒▒▒▒▒▒                        
+    word 'dichpher' not found, do you mean?
+
+    decipher
+    n. 密电译文 | vt. 解释（过去式deciphere...
+    decypher
+    n. 密电译文 | vt. 解释（过去式deciphere...
+

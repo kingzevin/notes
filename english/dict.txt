@@ -11398,3 +11398,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.A quick dose of caffeine to perk you up.
     一剂咖啡因能让你振作起来。
 
+entropy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['entrəpɪ]    美: ['ɛntrəpi]
+
+     n. [热] 熵（热力学函数）
+    
+
+  1.So we can just explicitly calculate the entropy of mixing.
+    这样我们能更明确地,计算混合后的熵。
+  2.But then once you reach the locally maximum entropy you can get to , there’s no more arrow of time.
+    但然后一旦你到达这个宇宙的最大熵，你将不可能再前进，再没有时间之箭了。
+  3.How does entropy play into that concept of time ?
+    熵是如何对，时间的概念起作用的呢？
+

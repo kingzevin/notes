@@ -898,3 +898,5 @@ efficacious
 
 perk
 
+entropy
+

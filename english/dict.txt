@@ -11352,3 +11352,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     decypher
     n. 密电译文 | vt. 解释（过去式deciphere...
 
+decipher
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [dɪ'saɪfə]    美: [dɪ'saɪfɚ]
+
+     n. 密电译文
+     vt. 解释（过去式deciphered，过去分词deciphered，现在分词deciphering，第三人称单数deciphers，名词decipherer，形容词decipherable）；译解
+    
+
+  1.In some cases , people can decipher the information being represented but need a machine to use it properly.
+    在一些情况下，人们可以解释所表达的信息但是需要机器正确地使用它们。
+  2.Once you have learned to observe behavior , the next crucial step is to decipher and evaluate it, determining which behaviors reveal significant tells and which ones can be ignored.
+    当你学会观察行为之后，下一个关键的步骤是行为的译解和评估，以决定哪些行为显示出有意义的信息，哪些是可以忽略的。
+  3.How do we decipher the conclusions ?
+    我们如何解读这些结论呢？
+

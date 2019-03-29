@@ -11381,3 +11381,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Although biodegradation is regarded as an economical and efficacious purified method in the treatment of industry waste water and sewage, the high toxicity of nitrobenzene would limit its application.
     虽然生物降解对于工业和生活废水而言是一种经济、有效的净化方法，但在处理硝基苯废水时其高毒性限制了它的使用。
 
+perk
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [pɜːk]    美: [pɝk]
+
+     vi. 振作；昂首
+     vt. 使振作；打扮；竖起
+     n. 小费；额外收入
+     n. (Perk)人名；(德、俄、捷、土)佩尔克；(英)珀克
+    
+
+  1.Perk up. No problem. You 'll succeed.
+    振作起来，没问题你会成功的。
+  2.A cup of coffee will soon perk you up.
+    你喝一杯咖啡马上精神会振作起来。
+  3.A quick dose of caffeine to perk you up.
+    一剂咖啡因能让你振作起来。
+

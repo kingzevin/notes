@@ -11421,3 +11421,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     monolith
     n. 整块石料；庞然大物
 
+monolithic
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [mɒnə'lɪθɪk]    美: [,mɑnə'lɪθɪk]
+
+     adj. 整体的；巨石的，庞大的；完全统一的
+     n. 单块集成电路，单片电路
+    
+
+  1.You can build the help as one monolithic file , like a book , and have only one main topic that points to that file.
+    您可以将帮助作为一个整体文件来构建，像书一样，并且只有一个指向该文件的主要标题。
+  2.This monolithic environment for an application eliminated any concern about which clock to use -- because there was only one clock.
+    对于一个应用程序的这个单块集成电路环境消除了使用哪个时钟的问题——因为只有一个时钟。
+  3.Another implementation of the fabrication process simply deposits the entire seed layer in a single continuous step to provide a unitary , monolithic seed layer.
+    该制造过程的另一个实施例以单个连续的步骤简单地沉积整个种子层，以便提供单一的、单片种子层。
+

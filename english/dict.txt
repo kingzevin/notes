@@ -11464,3 +11464,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.There is no such thing as " ideal " back curvature.
     有没有这样的事，作为“理想”回曲率。
 
+puzzle
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['pʌz(ə)l]    美: ['pʌzl]
+
+     vt. 使…困惑；使…为难；苦思而得出
+     vi. 迷惑；冥思苦想
+     n. 谜；难题；迷惑
+    
+
+  1.Can you get the puzzle out?
+    你能猜得出这个谜吗？
+  2.I loved your puzzle.
+    我喜欢你的字谜。
+  3.Encounter monsters and obstacles , trying to stop you - so be careful , too ! Puzzle World is all the fun you could possibly have, suitable for the whole family. Jump in !
+    遇到怪物和障碍，尝试阻止你-如此也很小心！难题世界是你可以可能地有的所有乐趣，对于全部家庭是适当的。跳跃在！
+

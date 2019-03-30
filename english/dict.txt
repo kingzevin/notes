@@ -11450,3 +11450,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you have a gradient field then it should have this property.
     如果给定一个梯度场，那么它就应该满足这个性质。
 
+curvature
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['kɜːvətʃə]    美: ['kɝvətʃɚ]
+
+     n. 弯曲，[数] 曲率
+    
+
+  1.They accommodate by greatly changing the curvature of the cornea.
+    它们由大大地改变角膜曲率的方法来调节。
+  2.I ´ve shaped the hatch tops to the curvature of the hull , cut the hatches apart and temporarily taped them in place so you can see what they will look like.
+    我已经形成了孵化顶部向曲率的船体，降低舱口，除了录音和暂时他们在的地方，所以你可以看到什么，他们将这个样子。
+  3.There is no such thing as " ideal " back curvature.
+    有没有这样的事，作为“理想”回曲率。
+

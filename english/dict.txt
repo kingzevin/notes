@@ -11412,3 +11412,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.How does entropy play into that concept of time ?
     熵是如何对，时间的概念起作用的呢？
 
+monolithi
+Querying... █▒▒▒▒▒▒▒▒▒                        
+    word 'monolithi' not found, do you mean?
+
+    monolithic
+    adj. 整体的；巨石的，庞大的；完全统一的 ...
+    monolith
+    n. 整块石料；庞然大物
+

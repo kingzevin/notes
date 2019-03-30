@@ -11436,3 +11436,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Another implementation of the fabrication process simply deposits the entire seed layer in a single continuous step to provide a unitary , monolithic seed layer.
     该制造过程的另一个实施例以单个连续的步骤简单地沉积整个种子层，以便提供单一的、单片种子层。
 
+gradient
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['greɪdɪənt]    美: ['ɡredɪənt]
+
+     n. [数][物] 梯度；坡度；倾斜度
+    
+
+  1.Now it should be a gradient field.
+    那么它应该就是一个梯度场。
+  2.What is the gradient of this function ?
+    这个函数的梯度是什么？
+  3.If you have a gradient field then it should have this property.
+    如果给定一个梯度场，那么它就应该满足这个性质。
+

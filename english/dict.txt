@@ -11613,3 +11613,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Besides , a technique called “ over- provisioning ” provides more bandwidth for less money than any of the quality - of- service approaches currently being touted.
     此外，和正在使用的服务质量方法相比，一种称为“过度保障”的技术能以更少的花费来获得更多的带宽。
 
+purge
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [pɜːdʒ]    美: [pɝdʒ]
+
+     vi. 净化；通便
+     vt. 净化；清洗；通便
+     n. 净化；泻药
+    
+
+  1.The empty table is then ready to ingest new data until its next purge date.
+    然后，重新创建的空表又可以摄取新的数据，直到清洗日的到来。
+  2.I will do my best to document these purge trips every week , whether the stuff goes to the landfill , the recycling bin , the consignment shop or Goodwill.
+    每个星期，我都会尽力去记录这些净化的行程，不管这些物品最终是被送到了垃圾堆、回收站、托运站或是低价回收站。
+  3.The grand purge has begun , my children , and it started exactly here.
+    这宏大的清洗已经开始了，我的孩子们，它就在这里开始。
+

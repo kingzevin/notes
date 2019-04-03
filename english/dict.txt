@@ -11601,3 +11601,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.For membership in the euro means that these countries have to deflate their way back to competitiveness , with all the pain that implies.
     作为欧元成员国，这些国家必须通过通货紧缩而重新获得竞争能力，这就意味着要遭受所有的痛苦。
 
+over-provisioning
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    
+
+
+  1.Self- managing capabilities mean you avoid both over- provisioning and idle resources.
+    自我管理功能意味着可以避免过度供应和资源闲置。
+  2.To better support secure mobile code provision , MIDP 2.0 will also formally include an over-the-air ( OTA ) provisioning specification.
+    为了更好地支持安全移动代码保障，MIDP2.0还将正式包含无线下载（OTA）保障规范。
+  3.Besides , a technique called “ over- provisioning ” provides more bandwidth for less money than any of the quality - of- service approaches currently being touted.
+    此外，和正在使用的服务质量方法相比，一种称为“过度保障”的技术能以更少的花费来获得更多的带宽。
+

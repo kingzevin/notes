@@ -11629,3 +11629,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The grand purge has begun , my children , and it started exactly here.
     这宏大的清洗已经开始了，我的孩子们，它就在这里开始。
 
+bare-metal
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    word 'bare-metal' not found, do you mean?
+
+    bare metal
+    裸金属
+    back metal
+    裸金属
+

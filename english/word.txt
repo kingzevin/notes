@@ -926,3 +926,5 @@ interleave
 
 inflate
 
+deflate
+

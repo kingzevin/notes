@@ -11586,3 +11586,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In addition , some power seats have a lumbar adjustment that uses a small air pump to inflate a bag or bags on the lower back of the seat to serve as a pillow.
     此外，还有一些电动座椅具有腰部位置的调整功能，即在椅背的下部有空气泵充气的袋子，用以像枕头一样的调整腰部位置。
 
+deflate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [dɪ'fleɪt]    美: [dɪ'flet]
+
+     vt. 放气；使缩小；紧缩通货；打击；使泄气
+     vi. 缩小；物价下降
+    
+
+  1.If King Abdullah really wants to deflate the oil markets , he could try announcing an increase in output of a few million barrels a day.
+    如果国王阿卜杜拉真的想要给油市场放气，他能试着宣布在几一天百万桶的产量方面的一个增加。
+  2.A slower US economy — burdened by a lot of additional fiscal drag — may be associated with tighter policies in China and other emerging markets , which may deflate the commodity bubble.
+    美国经济增长较慢（背负着许多额外的财政拖累）可能跟中国和其它新兴市场的紧缩政策有关，而这点可能会缩小商品泡沫。
+  3.For membership in the euro means that these countries have to deflate their way back to competitiveness , with all the pain that implies.
+    作为欧元成员国，这些国家必须通过通货紧缩而重新获得竞争能力，这就意味着要遭受所有的痛苦。
+

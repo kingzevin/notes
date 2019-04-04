@@ -11653,3 +11653,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Because the main thread is solely responsible for multiplexing between all clients , we cannot afford to allow it to block.
     因为主线程单独负责所有客户机间的多路复用，因此我们不能让它阻塞。
 
+thumbnail
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['θʌmneɪl]    美: ['θʌmnel]
+
+     n. 拇指指甲；极小的东西；短文
+     adj. 极小的，极短的
+    
+
+  1.If you need to create a thumbnail quickly , then check out this site.
+    如果您需要创建一个缩略图很快，然后检查了这个网站。
+  2.If you then choose only the user option , you see a thumbnail window on user status appears.
+    如果您只选择用户选项，那么您会看到一个显示用户状态的缩略窗口。
+  3.This creates a thumbnail image only , however , and if your blog is NOT in the root folder of your site it may produce a broken link.
+    这样只会产生一个极小的图像，但是，如果你的博客不在你的站点的根文件夹上，这个可能会产生一个断掉的链接。
+

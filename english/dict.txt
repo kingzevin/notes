@@ -11668,3 +11668,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This creates a thumbnail image only , however , and if your blog is NOT in the root folder of your site it may produce a broken link.
     这样只会产生一个极小的图像，但是，如果你的博客不在你的站点的根文件夹上，这个可能会产生一个断掉的链接。
 
+arguably
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['ɑːɡjʊəblɪ]    美: ['ɑrɡjuəbli]
+
+     adv. 可论证地；可争辩地；正如可提出证据加以证明的那样地
+     [广义用法]可能，大概
+    
+
+  1.It is , arguably , one of the highest - quality Ford interiors to date , at least in looks.
+    这是，可以说，室内的一个最高质量的福特迄今为止，至少在外表。
+  2.Arguably people ' s moral concepts , legal awareness and the degree of civilization should be with the progress of society , the rich material and ascension , but how down ?
+    按理说人的道德观念、法律意识和文明程度应该随着社会的进步、物质的丰富而提升，怎么反而下滑了呢？
+  3.In this case , however , because the application is being built for a smartphone , GUI functionality is arguably more of a priority than portability.
+    然而，在这种情况下，由于应用程序是为智能手机构建的，那么按理说，GUI功能比可移植性更重要。
+

@@ -11683,3 +11683,13 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In this case , however , because the application is being built for a smartphone , GUI functionality is arguably more of a priority than portability.
     然而，在这种情况下，由于应用程序是为智能手机构建的，那么按理说，GUI功能比可移植性更重要。
 
+arguable
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['ɑːgjʊəb(ə)l]    美: ['ɑrɡjuəbl]
+
+     adj. 可论证的；可议的；可疑的
+    
+
+  1.It is, however , arguable that this burden is less than the performance gained by transferring about half as much data across the wire.
+    然而，这个负担是否比因通过数据线传送一半左右的数据而获得的性能小，还存在争议。
+

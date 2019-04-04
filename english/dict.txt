@@ -11792,3 +11792,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The result is seen as a rebuff to the European Court of Human Rights , which ruled six years ago the ban was illegal.
     其结果被视为是英国议会对欧洲人权法院的断然回绝，六年前，欧洲人权法庭裁定该禁令是非法的。
 
+predecessor
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['priːdɪsesə]    美: ['prɛdəsɛsɚ]
+
+     n. 前任，前辈
+    
+
+  1.You have done , your style very like your predecessor.
+    你已经做到了，你的作风很像你的前任。
+  2.We do not know what has happened to your predecessor.
+    我们不知道你的前任们发生了什么事情。
+  3.They blame him for the rotten economy when really, in his view , they should blame his predecessor.
+    他们因为经济疲软而抱怨他，而在奥巴马看来，这都是他的前任种下的恶果。
+

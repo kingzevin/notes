@@ -11722,3 +11722,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The apartment flag is gold lion rampant on a field of azure.
     公寓旗帜是一头在天蓝色背景下两腿站立的狮子。
 
+continuum
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [kən'tɪnjʊəm]    美: [kən'tɪnjuəm]
+
+     n. [数] 连续统；[经] 连续统一体；闭联集
+    
+
+  1.We realize that they are all fused in an undifferentiated continuum.
+    我们发现它们在一个无差别的连续统中溶合。
+  2.Some scholars think that it is more appropriate to think about jurisprudence as a continuum.
+    一些学者认为将法理学视作一个连续统一体是更为合适的。
+  3.This is because everything moves in a fluid continuum of completion and the layers of readiness dont always line up as they need to.
+    这是因为一切都处于易变的连续统一体之中，准备就绪的层面并不总是按它们需要的程度排在一起。
+

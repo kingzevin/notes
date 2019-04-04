@@ -11638,3 +11638,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     back metal
     裸金属
 
+multiplexing
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['mʌltə,plɛks]    
+
+     n. 多路技术
+     v. 多重发讯（multiplex的ing形式）
+    
+
+  1.Time division multiplexing requires senders to take turns transmitting across the shared medium.
+    时分多路技术要求发送者通过共享介质轮流传输信息。
+  2.It controls the multiplexing of connections to agents by dispatching incoming connections and transactions to agents.
+    它通过将入站的连接和事务分配给代理，而控制连接到代理的多路复用。
+  3.Because the main thread is solely responsible for multiplexing between all clients , we cannot afford to allow it to block.
+    因为主线程单独负责所有客户机间的多路复用，因此我们不能让它阻塞。
+

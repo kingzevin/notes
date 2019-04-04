@@ -11835,3 +11835,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Why What incentive is there for people to listen to you ?
     为什么人们倾听你讲演的动机是什么？
 
+elaborate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ɪ'læb(ə)rət]    美: [ɪ'læbəret]
+
+     adj. 精心制作的；详尽的；煞费苦心的
+     vt. 精心制作；详细阐述；从简单成分合成（复杂有机物）
+     vi. 详细描述；变复杂
+    
+
+  1.There is no elaborate arrangement about his meals , no luxury in clothes , and no display of furniture.
+    他的膳食没有精心制作的安排，也没有华丽的衣裳，家里也没有陈列家具。
+  2.They go through the elaborate ceremony so that, in their words , " Illimani gives them water through the year ".
+    他们通过这个精心设计的仪式以像他们说得那样，保证“伊伊马尼供给他们整年的水”。
+  3.Can you elaborate on that?
+    您能详细阐述一下吗？
+

@@ -12034,3 +12034,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.What will hinder the establish of friendship ?
     有什么会阻碍友谊的建立呢?。
 
+priori
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [praɪ'ɔ:raɪ]    美: [praɪ'ɔraɪ]
+
+     adj. 先验的；优先的（等于a priori）
+     adv. 先验地（等于a priori）
+     n. (Priori)人名；(意)普廖里
+    
+
+  1.So a priori , this was not necessarily true.
+    所以先验的并不一定是正确的。
+  2.Bayesian is one kind of method of posteriori probability obtained from priori probability according to new information.
+    贝叶斯方式是依据新的信息从先验概率得到后验概率的一种方式。
+  3.The initial model derives from priori informations or traditional interpretation results.
+    初始模型来自于先验信息或传统的解释成果。
+

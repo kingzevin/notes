@@ -12227,3 +12227,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But out of every other pattern I have ever come across in my trading career this is by far the most accurate and most profitable.
     但在我交易生涯中曾经碰到的别的模式来看，这是迄今为止最精确的和最有利可图的。
 
+closure
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['kləʊʒə]    美: ['kloʒɚ]
+
+     n. 关闭；终止，结束
+     vt. 使终止
+    
+
+  1.How can I rewrite this so that Closure Compile renames my function ?
+    我如何重写这个这样关闭编译重命名我的函数吗?。
+  2.And when Life offers us an ending , we have to go through the process of closure.
+    当生命为我们提供了一个结局，我们必须要经过的过程中关闭。
+  3.The trigger of the strike was the closure of yet another factory.
+    触发这次罢工的原因是另一家工厂的关闭。
+

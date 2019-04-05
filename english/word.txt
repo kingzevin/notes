@@ -996,3 +996,5 @@ readiness
 
 grapple
 
+adversarial
+

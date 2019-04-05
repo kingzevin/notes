@@ -12097,3 +12097,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It can then try to start a grapple as a free action without provoking attacks of opportunity.
     然后它能够尝试一次擒抱，作为一个不挑起机会攻击的自由动作。
 
+adversarial
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,ædvə'seərɪəl]    美: [,ædvɚ'sɛrɪəl]
+
+     adj. 对抗的；对手的，敌手的
+    
+
+  1.In many projects , this traditional approach results in costly and adversarial negotiations about how to price changes and additional work.
+    在多数计画，这传统的方法有关该如何定价格造成昂贵和敌手的谈判变化和另外的工作。
+  2.He warns against the emergence of a " structurally adversarial relationship " between China and the United States and its regional friends.
+    他对中国与美国及其在该地区的盟友之间的“结构性对抗关系”浮出水面发出警告。
+  3.The reverence for the adversarial approach spills over into all areas of life.
+    在生活的方方面面人们都热衷于使用这种对抗方式。
+

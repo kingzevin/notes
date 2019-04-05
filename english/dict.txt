@@ -11895,3 +11895,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The first one is Quest mode where you have to go from novice to professional.
     第一个是你必须从新手去到专业人士的探索方式。
 
+fallacy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['fæləsɪ]    美: ['fæləsi]
+
+     n. 谬论，谬误
+    
+
+  1.This is a form of the fallacy of arguing from authority.
+    这也是另一种形式的谬误的争论，从权威。
+  2.Whether or not this is truly an example of the straw man fallacy , I found it refreshing to see a student applying logical reasoning learned in another of his courses to the problem at hand.
+    无论这是否是一个稻草人谬误的真实的例子，我发现这是多么让人感到愉快的看到一位学生将他所学到的逻辑分析方法应用到实际问题之中。
+  3.And I think the real fallacy is they ’re basing the need for all this that people are dying in the streets , you know , without medical care.
+    而且我认为真正的谬论在于他们把所有这些计划的必要性建立在人们正在街上无助的死去，你知道，得不到医疗保障。
+

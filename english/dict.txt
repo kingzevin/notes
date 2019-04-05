@@ -12197,3 +12197,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But because Ieyasu's military machine was no longer needed to subjugate warring clans and keep the foreigners in check , the army was allowed to dwindle and its costs with it.
     但因为德川家康的军械不再需要用来镇压好战的氏族和保持对外国人的审查，军队允许减少它的使用以及减少它的花费。
 
+premise
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['premɪs]    美: [ˈpremɪs]
+
+     vt. 引出，预先提出；作为…的前提
+     n. 前提；上述各项；房屋连地基
+     vi. 作出前提
+    
+
+  1.Why should I agree with you on that premise ?
+    我为什么必须同意你的那个前提？
+  2.But we leave them out in the identification of the premise and conclusion.
+    但是我们去掉了它们,在识别前提和论点的时候。
+  3.Premise that can only save one , the other drowning.
+    前提是只能救一个，另一个就要淹死。
+

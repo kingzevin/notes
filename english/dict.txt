@@ -12050,3 +12050,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The initial model derives from priori informations or traditional interpretation results.
     初始模型来自于先验信息或传统的解释成果。
 
+tailor
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['teɪlə]    美: ['telɚ]
+
+     vt. 剪裁；使合适
+     n. 裁缝
+     vi. 做裁缝
+     n. (Tailor)人名；(英)泰勒
+    
+
+  1.Tailor : Tighter than your skin ?
+    裁缝：比你的皮肤还紧？
+  2.Tailor : How do you like your overcoat , sir ?
+    裁缝：您觉得大衣怎么样，先生？
+  3.Therefore , tailor shops should be the most personalized , most of grade consumption occasions.
+    所以说，裁缝店才应该是最个性化，最品位化的消费场合。
+

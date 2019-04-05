@@ -11984,3 +11984,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.PricewaterhouseCoopers (PwC), a consulting and accounting firm , has conducted a biennial survey of economic crime for the past ten years.
     普华永道，一家咨询会计公司，进行了两年一次的对过去十年里经济犯罪的调查。
 
+rendezvous
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: ['rɒndɪvuː; -deɪvuː]    美: ['rɑndevʊ]
+
+     n. 约会；约会地点；集结地
+     vi. 会合；约会
+     vt. 在指定地点与…相会
+    
+
+  1.With no rendezvous.
+    没有约会。
+  2.She wondered where they were going to rendezvous afterwards.
+    她想知道之后他们要去哪里约会。
+  3.The ships are sailing from Mediterranean ports in Turkey and Europe to a rendezvous point near Cyprus.
+    航行的船只从土耳其和欧洲地中海附近的一个港口塞浦路斯会合点。
+

@@ -12153,3 +12153,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It can also generate much disruption and discord.
     它也能够引起很多破坏和纷争。
 
+remedy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['remɪdɪ]    美: ['rɛmədi]
+
+     vt. 补救；治疗；纠正
+     n. 补救；治疗；赔偿
+    
+
+  1.Sit down with yourself , as you would with any other , and have a good chat about how to remedy it.
+    请坐下来好好跟自己谈谈，就像你跟其他人谈话那样，谈谈如何去补救这种情况。
+  2.The two groups are chosen at random , so the remedy should be the only systematic difference between them.
+    这两个组是随机抽取的，所以他们在系统中的唯一区别就在是否接受治疗。
+  3.Let me remedy it.
+    让我来纠正一下。
+

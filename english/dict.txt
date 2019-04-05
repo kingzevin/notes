@@ -12081,3 +12081,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He answered all the questions with a readiness that startled everyone present.
     他敏捷地回答了所有问题，使在座的每个人为之震惊。
 
+grapple
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['græp(ə)l]    美: ['græpl]
+
+     vi. 抓住；格斗；抓斗机
+     vt. 抓住；与…格斗
+     n. 抓住；格斗
+    
+
+  1.It can then attempt to start a grapple as a free action without provoking an attack of opportunity.
+    它能够再尝试开始一场战斗作为一个自由动作，而不用消耗一次攻击机会。
+  2.But investors continue to grapple with bad news in the credit markets.
+    但是投资者依然在受着信用市场上的坏消息影响。
+  3.It can then try to start a grapple as a free action without provoking attacks of opportunity.
+    然后它能够尝试一次擒抱，作为一个不挑起机会攻击的自由动作。
+

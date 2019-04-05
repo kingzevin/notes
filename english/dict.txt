@@ -12125,3 +12125,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He may be more oblivious of their needs and their desires but impresses them more.
     他可能更不在意她们的需求和渴望，但却更令她们印象深刻。
 
+heterogeneity
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [,hɛtərədʒə'niəti]    
+
+     n. [生物] 异质性；[化学] 不均匀性；[化学] 多相性
+    
+
+  1.However , this is by itself another issue , firstly due to the heterogeneity of factory resources.
+    不过，这是自己的另一个问题，首先是由于异质性工厂资源。
+  2.In addition , it introduces support for knowledge search and offers unification layers to hide the heterogeneity of data , technology and metadata.
+    此外，它引入了对知识搜索的支持，并提供统一的层，从而隐藏数据的异质性、技术和元数据。
+  3.According to the heterogeneity of money demand in the firm and family level , this paper modifies the money demand function in order to analyze the determinations of money demand elasticity.
+    文章从企业和家庭层面的货币需求异质性，对传统货币需求函数进行修正，分析货币需求收入弹性和利率弹性的决定因素。
+

@@ -12503,3 +12503,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Like many artists of their generation , English brothers Jake and Dinos Chapman allude to an incredible amount historical reference in their work.
     像许多艺术家的创造，英语的兄弟杰克和查普曼提到了难以置信的大量的历史中提到他们的工作。
 
+funnel
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['fʌn(ə)l]    美: ['fʌnl]
+
+     n. 漏斗；烟囱
+     vt. 通过漏斗或烟囱等；使成漏斗形
+     vi. 通过漏斗等；成漏斗形
+    
+
+  1.Is that a funnel on his head ?
+    那在他的头上是一个漏斗吗?。
+  2.Go through funnel.
+    穿过烟囱通道。
+  3.Other causes to look for are insufficient drying or funnel flow inside the drying hopper —when material at the center flows quickly while material near the wall stagnates.
+    其它原因就是看看是否干燥不够或者在干燥料斗中存在漏斗流动---中心材料流动得快，而料斗壁附近的料静止不动。
+

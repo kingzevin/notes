@@ -12433,3 +12433,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But it was mysterious to me that the super- angels would quibble about valuations.
     但是对我来说不可理解的是，超级天使会对估值很非常计较挑剔。
 
+onerous
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['əʊn(ə)rəs; 'ɒn-]    美: ['ɑnərəs]
+
+     adj. 繁重的；麻烦的；负有义务的；负有法律责任的
+    
+
+  1.Cleaning them and maintaining them can be an onerous task because each material requires a different type of care.
+    清洗和维护他们可以成为他们繁重的任务，因为每个材料需要不同类型的照顾。
+  2.These mappings will be implemented in the chosen middleware but should not be so onerous as to introduce major performance issues.
+    这些映射将在所选的中间件中实现，但不应该像引入主要性能问题那样麻烦。
+  3.Typically , the numbers turn green ( apparently improve ) until the team figures out how to escape such an onerous task.
+    一般直到团队找出如何逃脱这种繁重工作时，数字才变为绿色（表面上改进）。
+

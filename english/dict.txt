@@ -12579,3 +12579,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Can you give me a ballpark figure ?
     你能给我一个大概的数字么？
 
+corollary
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [kə'rɒlərɪ]    美: ['kɔrəlɛri]
+
+     n. 推论；必然的结果
+    
+
+  1.One corollary of this general principle is that services should not be stateful.
+    此总体原则的一个推论就是，服务不应为有状态型的。
+  2.There's only one way to do things : the right way. Corollary : If you need a stone wall , hire an Italian mason.
+    做事情只有一种方式：正确的方式。推论：如果你需要一睹石头墙，那就要雇佣一个意大利泥瓦匠。
+  3.The corollary to this is the idea that with appropriate education , indoctrination , social conditioning or what have you , people can be made to behave in almost any way imaginable.
+    对此进行推论就是，以适当的教育、灌输、社会条件作用以及你所能拥有的条件，便可把人塑造成几乎可按任何可想象到的方式行事。
+

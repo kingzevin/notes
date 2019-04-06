@@ -12387,3 +12387,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you have this quality in your relationship already , perhaps you can foster it so you can hold onto it.
     如果在这段关系中你已经具备了这种能力，也许你可以培养它，因此掌握它。
 
+banner
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['bænə]    美: ['bænɚ]
+
+     n. 横幅图片的广告模式
+     n. 旗帜，横幅,标语
+     n. 人名(英、德、罗)班纳
+    
+
+  1.We should rally under the banner of socialism.
+    我们应当在社会主义的旗帜下团结起来。
+  2.We are paying you to have the banner on your screen.
+    我们正在付你在你的屏幕上有旗帜。
+  3.You would need to create some dynamic graphics on the banner other then the text I provide.
+    您将需要创建其他的旗帜上的文字，然后我提供一些动态图形。
+

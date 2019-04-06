@@ -12273,3 +12273,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Those people should accuse of using living animals like chickens or rabbits fledge boa.
     用活的动物，例如小鸡或者兔子来喂养蟒蛇的人应该被谴责。
 
+gradient
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['greɪdɪənt]    美: ['ɡredɪənt]
+
+     n. [数][物] 梯度；坡度；倾斜度
+    
+
+  1.Now it should be a gradient field.
+    那么它应该就是一个梯度场。
+  2.What is the gradient of this function ?
+    这个函数的梯度是什么？
+  3.If you have a gradient field then it should have this property.
+    如果给定一个梯度场，那么它就应该满足这个性质。
+

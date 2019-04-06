@@ -12461,3 +12461,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.His polite manners bespeak him (to be ) a gentleman.
     他礼貌的举止显示他是一位绅士。
 
+bespoke
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [bɪ'spəʊk]    美: [bɪ'spok]
+
+     adj. 定做的；预定的
+     vt. 预约，显示出
+    
+
+  1.Even with modifications , the phones will still be far cheaper than bespoke devices.
+    即使在改进之后，智能手机还是远比定做的装备便宜。
+  2.The obesity rates were based on a bespoke indicator akin to the body - mass index that is used to gauge ( roughly ) whether a person is too rotund.
+    肥胖率的计算按预定的指标为基础上进行，预定指标类似于用来衡量（大约）一个人是否太圆的身体-质量指数。
+  3.So that those who find themselves within that space may feel it has been made bespoke for them.
+    因此，那些发现自己处在这个空间中的人会感觉到，这是为了他们而定制的。
+

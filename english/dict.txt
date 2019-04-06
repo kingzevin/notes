@@ -12287,3 +12287,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you have a gradient field then it should have this property.
     如果给定一个梯度场，那么它就应该满足这个性质。
 
+cirrus
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['sɪrəs]    美: ['sɪrəs]
+
+     n. 藤蔓；[动] 触毛；[植] 卷须
+    
+
+  1.From then on , without backer , the cirrus had to creep on ground and struggle for life.
+    从此，藤蔓再无依恃，只能匍匐在地上苦苦挣扎求生。
+  2.These clouds show what Cirrus floccus clouds might look like an hour or so after they form.
+    这云形成之后约一个小时，看起来会像是卷云系的絮状云。
+  3.It will use radar , balloons and aircraft to look at the role of another sort of high- altitude cloud : cirrus clouds , which get spun off the tops of storms.
+    该工程将使用雷达、热气球与大气层飞行器来研究另一种高端云的作用，其名为卷云-它是在暴风雨出现时从其顶端意外形成的。
+

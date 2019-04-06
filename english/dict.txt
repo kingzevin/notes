@@ -12242,3 +12242,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The trigger of the strike was the closure of yet another factory.
     触发这次罢工的原因是另一家工厂的关闭。
 
+relay
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['riːleɪ]    美: [rɪ'le]
+
+     vi. 转播；接替
+     n. [电] 继电器；接替，接替人员；驿马
+     vt. 转播；使接替；分程传递
+    
+
+  1.Only one relay is closed at any time.
+    在某一时间，仅有一个继电器是闭合的。
+  2.This in turn drives an output relay that switches 115V AC , that will turn on a light.
+    这反过来驱动另外1个输出继电器，开关115伏交流，这将打开一盏灯。
+  3.Often in ac circuit by air damping model time relay , it is to use the principle of air through orifices throttling to obtain delay action.
+    在交流电路中常采用空气阻尼型时间继电器，它是利用空气通过小孔节流的原理来获得延时动作的。
+

@@ -12342,3 +12342,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.She is such a nice woman that nobody is at odds with her.
     她是那么好的一个女人，以至于没人和她有矛盾。
 
+assemblage
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ə'semblɪdʒ]    美: [ə'sɛmblɪdʒ]
+
+     n. 装配；集合；聚集；集会；集合物；聚集的物或人
+    
+
+  1.You can increase model precision through the specification and assemblage of model constraints.
+    您可以通过模型约束的规范和集合来增加模型的精确度。
+  2.Today this discipline is called econometrics , but then the field was just an assemblage of general concepts , too new to have a textbook or even a name.
+    今天这门学科叫做经济计量学，但是在当年，这个领域只是一些基本概念的集合而已，由于太新了，所以没有课本，甚至连名称也没有。
+  3.In this paper , the assemblage of the traffic sign plate is presented.
+    本文提出了交通标志板面装配化这一概念。
+

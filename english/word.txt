@@ -1114,3 +1114,5 @@ recoup
 
 bane
 
+exacerbate
+

@@ -12664,3 +12664,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Goodall wondered , " Is it not possible that these ( chimpanzee ) performances are stimulated by feelings akin to wonder and awe ?
     古多尔在想：这是不可能的，这些黑猩猩表演是由类似的感受惊奇和敬畏刺激？
 
+pervasive
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [pə'veɪsɪv]    美: [pɚ'vesɪv]
+
+     adj. 普遍的；到处渗透的；流行的
+    
+
+  1.Gaps in health outcomes have multiple causes , but poverty is the most pervasive factor.
+    健康结果方面的差距有众多原因，但贫穷是最普遍的因素。
+  2.It is coupling action between seepage and stress makes the failure mechanism of rock very complex. The investigations on this problem have pervasive theoretical meaning and practical value.
+    渗流与应力耦合作用使得岩石的破裂机制十分复杂，这一问题的研究具有更普遍的理论意义和更接近实际的应用价值。
+

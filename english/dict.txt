@@ -12907,3 +12907,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Since these systems last for 20 years , you should more than recoup your purchase and installation costs.
     由于这些系统的最后20年，你应该多收回您的购买和安装成本。
 
+bane
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'bane' not found, do you mean?
+
+    罢了
+    
+

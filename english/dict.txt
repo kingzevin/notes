@@ -12801,3 +12801,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
 
      n. 异议，反对；缺陷，缺点；妨碍；拒绝的理由
     
+endeavour
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪn'devə; en-]    美: [ɪndɛvəʳ]
+
+     n. 尽力，竭力
+     vt. 竭力做到，试图或力图（做某事）
+     vi. 竭力；企图
+    
+
+  1.We should wish China well in this endeavour.
+    我们应当希望中国这次的努力富有成效。
+  2.We may endeavour to determine the nature of these sources in another way.
+    我们会努力，以确定的性质，这些来源的另一种途径。
+  3.While it is certainly inconvenient for the crew to be down to one bathroom – the Russians have a working bathroom and there is a toilet on Endeavour.
+    然而全体成员去往一间浴室当然是不方便的——俄国人有一间正常运转的浴室并且在奋进号上有一个厕所。
+

@@ -12733,3 +12733,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It can , in exorbitant dosages , cause testicular atrophy.
     它可以在剂量过高，造成睪丸萎缩。
 
+hallmark
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['hɔːlmɑːk]    美: ['hɔlmɑrk]
+
+     n. 特点；品质证明
+     vt. 给…盖上品质证明印记；使具有…标志
+     n. (Hallmark)人名；(英)霍尔马克
+    
+
+  1.Sleep disruption is already a hallmark of depression.
+    睡眠崩解已经是抑郁的一个特点。
+  2.“ You lose control. It ’s the hallmark of addiction , ” he said.
+    他说：“你无法控制自己，这是上瘾的特点。”
+  3.The Business Analyst identifies business requirements and processes across geographies , as global uniformity is the hallmark of this approach.
+    业务分析人员可以识别跨区域的需求和流程，因为全球统一是这种方法的特点。
+

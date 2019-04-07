@@ -12676,3 +12676,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.It is coupling action between seepage and stress makes the failure mechanism of rock very complex. The investigations on this problem have pervasive theoretical meaning and practical value.
     渗流与应力耦合作用使得岩石的破裂机制十分复杂，这一问题的研究具有更普遍的理论意义和更接近实际的应用价值。
 
+mundane
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['mʌndeɪn; mʌn'deɪn]    美: [mʌn'den]
+
+     adj. 世俗的，平凡的；世界的，宇宙的
+    
+
+  1.More mundane work ah ?
+    多平凡的工作啊？
+  2.How do these events – and reactions - show up in the field of Mundane Astrology ?
+    如何做这些活动-和反应-显示了在该领域的世俗占星术呢？
+  3.The tasks that lasers perform range from the mundane to the esoteric , but they usually have a common element , they are difficult or impossible with any other tool.
+    激光器是能完成从平凡到神秘的多种任务，但这些任务通常都有一个共同点：它们很难或不可能用其它工具来完成。
+

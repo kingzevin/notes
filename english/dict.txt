@@ -12690,3 +12690,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The tasks that lasers perform range from the mundane to the esoteric , but they usually have a common element , they are difficult or impossible with any other tool.
     激光器是能完成从平凡到神秘的多种任务，但这些任务通常都有一个共同点：它们很难或不可能用其它工具来完成。
 
+insult
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪn'sʌlt]    美: [ɪn'sʌlt]
+
+     vt. 侮辱；辱骂；损害
+     n. 侮辱；凌辱；无礼
+    
+
+  1.I do not see why he should insult me.
+    我不明白他为什么要侮辱我。
+  2.She has no right to insult us like that.
+    她没有任何权利像那样辱骂我们。
+  3.I do not see why he should insult me by saying that.
+    我不明白他为什么要说那些话来侮辱我。
+

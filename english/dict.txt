@@ -12942,3 +12942,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In recent months , European customs officers have complained of a tidal wave of contraband cigarettes arriving from the Russian enclave of Kaliningrad.
     最近的几个月，欧盟海关的官员抱怨来自于俄罗斯飞地加里宁格勒的走私如潮水般涌入。
 
+post hoc
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+     （拉）因此；事后比较；因果颠倒
+    
+
+  1.The data are collected through Discourse Completion Task ( DCT ) and a post hoc interview questionnaire.
+    数据的收集采用了语篇补全测试问卷（DCT）和单项选择问卷相结合的方法。
+  2.Like post hoc, slippery slope can be a tricky fallacy to identify , since sometimes a chain of events really can be predicted to follow from a certain action.
+    正如原因错误，一滑到底式的谬误很难被识别，有时候某一行为引起的一系列的事件的确是可以预见的。
+  3.Inside effluxion of time of post hoc, the HengYang begins to be multifarious and Fuji Kang contact.
+    此后的一段时间内，衡阳开始频繁与富士康接触。
+

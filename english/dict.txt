@@ -13292,3 +13292,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.And together they exemplify the two sorts of novelty that exist, in differing proportions , in any successful invention : discovery and recombination.
     同样，他们一起例证了两种不同程度地存在于任何成功的发明中的创新点：发现和组合。
 
+multifaceted
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [mʌltɪ'fæsɪtɪd]    美: [,mʌltɪ'fæsɪtɪd]
+
+     adj. 多层面的
+    
+
+  1.This month , I suggest a multifaceted approach to dealing with the less predictable defects in your code.
+    本月，我将为您推荐一种多层面的方法，来处理代码中那些不易预料的缺陷。
+  2.Indeed , in RUP , an iteration is not necessarily a sequence of activities ; it can be a multifaceted combination of activities , including some that may be done in parallel.
+    事实上，在RUP 中，一次迭代不一定是一个活动序列；它可以是一个活动的多方面组合，包括一些可能并行完成的活动。
+  3.What is needed is a multifaceted approach working on a number of options at the same time , say the report 's authors.
+    这份报告的作者说，现在所需要的是一个全方位出击的方法，它能同时在数个方面起到作用。
+

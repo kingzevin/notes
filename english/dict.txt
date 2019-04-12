@@ -13348,3 +13348,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Explosive welding is a recency welding technology . In this paper, research and development of explosive welding technology have been reviewed and prospected.
     爆炸焊接是一种崭新的焊接技术，对这种特殊的焊接技术的研究和发展进行了回顾和展望。
 
+vanilla
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [və'nɪlə]    美: [və'nɪlə]
+
+     n. 香子兰，香草
+     adj. 香草味的
+    
+
+  1.I want one chocolate , and one vanilla.
+    我要一个巧克力的，一个香草的。
+  2.I like vanilla best.
+    我最爱香草类的。
+  3.What flavor would you like ? Chocolate or vanilla ?
+    你要哪种味道的？巧克力还是香草？
+

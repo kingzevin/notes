@@ -13334,3 +13334,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.To analyze the mutuality factor of post stroke depression.
     分析卒中后抑郁症相关因素；
 
+recency
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['ri:sənsi]    
+
+     n. 新近；崭新
+    
+
+  1.A temporal - contextual theory of the recency effect is discussed.
+    讨论了新近效应的一种时间-背景的理论。
+  2.Evidence that casts doubt on primary - memory account of recency effects in recall is reviewed.
+    列举各种实验证据否定了新近效应的最常见解释，即初级记忆的解释。
+  3.Explosive welding is a recency welding technology . In this paper, research and development of explosive welding technology have been reviewed and prospected.
+    爆炸焊接是一种崭新的焊接技术，对这种特殊的焊接技术的研究和发展进行了回顾和展望。
+

@@ -13320,3 +13320,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Second , the frequency , intensity , and unpredictability of our crises will only increase due to the interconnectedness and interdependence of our world.
     第二种情景，由于我们的世界相互连接相互依赖，危机爆发的频率、强度和不可预测性只会增加。
 
+mutuality
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['mjuːtʃʊ'ælətɪ]    美: [ˌmjuːtʃuˈæləti]
+
+     n. 相互关系，相关；亲密
+    
+
+  1.By the whole Enlightenment tradition , but not only that : by older traditions of care , solidarity , mutuality , of respect for human life and compassion for human suffering.
+    这得益于整个启蒙运动的传统，不仅如此，还有那些更古老的传统：关爱、团结、亲密、对人类生命的尊重以及对人类苦难的怜悯。
+  2.It is studied to applications of ontology mutuality technology in emergency domain by organizing ontology knowledge , description and constructing emergency coordination model.
+    本文主要研究本体相关技术在应急领域本体知识组织、描述和应急协同模型构建中的应用。
+  3.To analyze the mutuality factor of post stroke depression.
+    分析卒中后抑郁症相关因素；
+

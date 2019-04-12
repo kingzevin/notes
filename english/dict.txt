@@ -13053,3 +13053,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     poudre
     vt. 仔细考虑；衡量 | vi. 考虑；沉思
 
+ponder
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['pɒndə]    美: ['pɑndɚ]
+
+     vt. 仔细考虑；衡量
+     vi. 考虑；沉思
+     n. (Ponder)人名；(英)庞德
+    
+
+  1.I like the sufficient ponder time.
+    我喜欢充足的沉思时间。
+  2.In one of the tests , half of the participants were asked to ponder on the information they were given and then decide which among similar products to buy.
+    在一个试验中，一半的参与者被要求对他们所得到的信息进行仔细考虑，然后在那些相似的产品中做出购买决定。
+  3.This theory is largely discounted by the majority of Egyptologists , but some do believe it is a point to ponder.
+    这个理论很大程度上被多数埃及古物学者不认可，但是一些人确实相信它是沉思的点。
+

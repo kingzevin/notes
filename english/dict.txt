@@ -13115,3 +13115,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He showed singular wisdom in dealing with the matter.
     他处理这一事件时展现了非凡的智慧。
 
+intact
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪn'tækt]    美: [ɪn'tækt]
+
+     adj. 完整的；原封不动的；未受损伤的
+    
+
+  1.However , today we can only stay intact.
+    然而我们只能原封不动的呆在今天。
+  2.In the urban space that we depended on for existence , different time and pictures of the space interweave together, form an intact , continuous urban image.
+    在我们赖以生存的城市空间中，不同时间与空间的图像交织在一起构成一个完整的、连续的城市形象。
+  3.No matter you need a single decelerating machinery , or need an intact transmission scheme , our application engineer will serve for you at any time or any place.
+    不论您是需要一个单独的减速机械，还是需要一个完整的传动方案，我们的应用工程师都会随时随地为您服务。
+

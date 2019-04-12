@@ -13100,3 +13100,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.These conditions have been the touchstone for several reform endeavors which will be discussed in more detail below.
     这些条件已经成为一些改革试图的试金石，我们将在下面做更具体的讨论。
 
+singular
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['sɪŋgjʊlə]    美: ['sɪŋɡjəlɚ]
+
+     adj. 单数的；单一的；非凡的；异常的
+     n. 单数
+    
+
+  1.What is the ending in the singular ?
+    这个词的单数词尾是怎样的？
+  2.During my time I never knew any one to entertain so singular a fancy as that the universe ( or this world if you will have it so ) ever had a beginning at all.
+    在我那个时代没有人会有如此异常的想法，宇宙（或者这个世界，如果你们同意这种说法）曾经有一个开端。
+  3.He showed singular wisdom in dealing with the matter.
+    他处理这一事件时展现了非凡的智慧。
+

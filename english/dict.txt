@@ -13363,3 +13363,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.What flavor would you like ? Chocolate or vanilla ?
     你要哪种味道的？巧克力还是香草？
 
+oblivious
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ə'blɪvɪəs]    美: [ə'blɪvɪəs]
+
+     adj. 遗忘的；健忘的；不注意的；不知道的
+    
+
+  1.He seemed totally oblivious of my presence.
+    他似乎全然忘却了我的存在。
+  2.Grandfather sat by the fireplace , oblivious of everything around him.
+    祖父坐在壁炉边，那些被忘却的事困扰着他。
+  3.He may be more oblivious of their needs and their desires but impresses them more.
+    他可能更不在意她们的需求和渴望，但却更令她们印象深刻。
+

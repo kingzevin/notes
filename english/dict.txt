@@ -13434,3 +13434,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This data can now be used to determine the percentage of outliers for each page and troubleshoot potential bottlenecks.
     现在您可以使用该数据来决定每一页面和故障排除潜在瓶颈的百分比。
 
+pertinent
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['pɜːtɪnənt]    美: ['pɝtnənt]
+
+     adj. 相关的，相干的；中肯的；切题的
+    
+
+  1.If we decide to work with you , we will send you all the pertinent information.
+    如果我们决定与您合作，我们将向您发送所有相关信息。
+  2.Therefore , if after reading this book you still have questions and concerns , I suggest that you study the references in the back of this book , as well as any other pertinent information you can find.
+    因此，如果读了本书之后你仍有问题以及关心的事项，我建议你研读书后的参考资料以及你能找到的其他相关信息。
+  3.More directly pertinent to the gold price is the rising premium in Tokyo for gold bars now up to $ 2 , whereas there is usually no premium.
+    与金价更加相关的是东京金条不断上涨的保险费，现在已经达到了2美金，而以前通常是没有的。
+

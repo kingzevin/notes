@@ -13419,3 +13419,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The team is also fending off the ravenous English tabloids , hungering for whatever Beckham tidbit they can find.
     球队还在努力挡开那些贪婪的英国小报，他们饥渴地想要找到任何和贝克汉姆有关的珍闻。
 
+troubleshoot
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['trʌblʃuːt]    美: ['trʌblʃut]
+
+     vt. 寻找故障；故障排解
+     vi. 充当故障检修员
+    
+
+  1.You can also limit the search scope by task , such as Plan , Install , Use , Troubleshoot , and Download.
+    还可以按照任务限制搜索范围，例如“规划”、“安装”、“使用”、“故障诊断”和“下载”。
+  2.A new set of debugging messages is available to help you troubleshoot pipe and pipeline development.
+    增加了一组新的调试消息，帮助开发人员排除管道和管道序列的故障。
+  3.This data can now be used to determine the percentage of outliers for each page and troubleshoot potential bottlenecks.
+    现在您可以使用该数据来决定每一页面和故障排除潜在瓶颈的百分比。
+

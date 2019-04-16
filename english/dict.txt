@@ -13505,3 +13505,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Here your focus is verifying that the application does what it should and the right data is moving between the grid application and on- premise storage.
     在此，你要关注的是，验证应用程序是否正确运行，正确的数据是否在网格应用程序和基础存储之间进行移动。
 
+premise
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['premɪs]    美: [ˈpremɪs]
+
+     vt. 引出，预先提出；作为…的前提
+     n. 前提；上述各项；房屋连地基
+     vi. 作出前提
+    
+
+  1.Why should I agree with you on that premise ?
+    我为什么必须同意你的那个前提？
+  2.But we leave them out in the identification of the premise and conclusion.
+    但是我们去掉了它们,在识别前提和论点的时候。
+  3.Premise that can only save one , the other drowning.
+    前提是只能救一个，另一个就要淹死。
+

@@ -13521,3 +13521,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Premise that can only save one , the other drowning.
     前提是只能救一个，另一个就要淹死。
 
+sophisticated
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [sə'fɪstɪkeɪtɪd]    美: [sə'fɪstɪketɪd]
+
+     adj. 复杂的；精致的；久经世故的；富有经验的
+     v. 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）
+    
+
+  1.This process ought to be highly sophisticated.
+    这个过程应该是非常复杂的。
+  2.So there are more sophisticated approaches , some of them are mechanical.
+    那么这里还有更复杂的方法，有的人是无意识的。
+  3.Yes. You can create some fairly sophisticated sites without having to do any complex programming. If I can do it , anyone can.
+    是的，你能够创建一些相当复杂的站点而不要做任何复杂的编程。如果我能做到它，任何人都能。
+

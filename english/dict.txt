@@ -13448,3 +13448,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.More directly pertinent to the gold price is the rising premium in Tokyo for gold bars now up to $ 2 , whereas there is usually no premium.
     与金价更加相关的是东京金条不断上涨的保险费，现在已经达到了2美金，而以前通常是没有的。
 
+extrapolate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪk'stræpəleɪt; ek-]    美: [ɪk'stræpə'let]
+
+     vt. 外推；推断
+     vi. 外推；进行推断
+    
+
+  1.Okay , and we are trying to take what we have found and ask , if you see a few how do you extrapolate to the many ?
+    好吧，我们正在努力记录我们已经发现的行星，请问，如果你看到一些行星，你怎么推断出有许多？
+  2.Instead , you need to convene a meeting involving representatives from each discipline , try to figure out who did what , and then extrapolate the solution to problem from there ...
+    相反，您需要召集一个有来自每个规程的代表参加的会议，试图弄清谁是做什么的，然后从那里开始推断对问题的解决方案...
+  3.Try not to extrapolate too much from your own experience.
+    不要从你自己的切身体验推断太多东西。
+

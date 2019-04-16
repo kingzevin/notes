@@ -13491,3 +13491,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The centrepiece of a massive international campaign , this website immerses visitors in the dangerous and cryptic world of The Da Vinci Code.
     一个大规模的国际运动的核心，本网站沉浸在达芬奇密码的危险和神秘的世界游客。
 
+on-premise
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英:     
+
+     adj. 预置的
+    
+
+  1.Because customers want on- premise , and the customer is always right.
+    因为用户想要本地服务，而用户永远是对的。
+  2.The simplest means to that , of course , is federation to an on- premise directory store.
+    要实现这点最简单方法当然就是联合本地的目录存储库。
+  3.Here your focus is verifying that the application does what it should and the right data is moving between the grid application and on- premise storage.
+    在此，你要关注的是，验证应用程序是否正确运行，正确的数据是否在网格应用程序和基础存储之间进行移动。
+

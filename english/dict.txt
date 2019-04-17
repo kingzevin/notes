@@ -13601,3 +13601,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.What was your first car , and did you thrash it ?
     你的第一车是什么牌子的，你有没有打过它？
 
+off-the-shelf
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英:     美: ['ɔfðə'ʃɛlf]
+
+     adj. 现成的；常备的；成品的
+     adv. 现成地；无需作重大修改地
+    
+
+  1.As off-the-shelf legal vehicles with no operating businesses of their own , they can sue without fear of a countersuit.
+    作为自己没有任何运营业务的现成法律实体，他们可以放心提起诉讼而不用担心反诉。
+  2.With a replace strategy , enterprises purchase off-the- shelf applications and customize them to meet their business needs.
+    通过替换策略，企业购买成品应用程序并对它们进行定制，以满足业务需求。
+  3.ISVs and developers can use this framework to write their own custom adapters that solve specific integration cases not provided by off-the- shelf application and technology adapters.
+    ISV和开发人员可以使用这种框架编写自定义适配器，以便处理没有提供现成的应用程序和技术适配器的特定集成情况。
+

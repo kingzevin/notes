@@ -13616,3 +13616,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.ISVs and developers can use this framework to write their own custom adapters that solve specific integration cases not provided by off-the- shelf application and technology adapters.
     ISV和开发人员可以使用这种框架编写自定义适配器，以便处理没有提供现成的应用程序和技术适配器的特定集成情况。
 
+estate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪ'steɪt; e-]    美: [ɪ'stet]
+
+     n. 房地产；财产；身份
+    
+
+  1.I entrusted my estate to him.
+    我将财产委托他代管。
+  2.This document spells out who gets what from your estate.
+    这个文件阐述了谁会从你的财产中拿到多少份额。
+  3.I do not hope this website is do for estate business , it should be done for the user.
+    我不希望这个网站是为房地产商而做，它应该是为用户而做的。
+

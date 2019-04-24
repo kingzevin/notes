@@ -13733,3 +13733,21 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In situations with a large number of columns — particularly if some are large VARCHAR or BLOB fields — this behavior can be a significant problem in terms of memory usage and performance.
     在具有为数众多的列的情况下—尤其是当有些字段是巨大的VARCHAR或BLOB字段时 — 就内存使用和性能而言这种行为很有问题。
 
+fleet
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [fliːt]    美: [flit]
+
+     adj. 快速的，敏捷的
+     n. 舰队；港湾；小河
+     vi. 飞逝；疾驰；掠过
+     vt. 消磨
+     n. (Fleet)人名；(英)弗利特
+    
+
+  1.If necessary we are on call throughout the whole Universe , and have millions of ships in our fleet at our disposal.
+    如果必要的话，我们在整个宇宙随时待命，在我们的舰队中有数百万的飞船听候我们的调遣。
+  2.The boat we are on is the best sailor in the fleet.
+    在这只舰队中，我们坐的那条船上的水手是最好的。
+  3.If the result of such an inquiry is a bloodbath in Fleet Street and Scotland Yard , so be it.
+    如果这项调查的结果是一场舰队街和苏格兰场的大屠杀，那也只好顺其自然。
+

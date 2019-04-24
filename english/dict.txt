@@ -13717,3 +13717,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Say excuse me immediately if you burp , fart , cough , yawn or sneeze.
     如果你说对不起立即打嗝，放屁，咳嗽或打喷嚏，打哈欠。
 
+blob
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [blɒb]    美: [blɑb]
+
+     n. 一滴；一抹；难以名状的一团
+     vt. 弄脏；把…做错
+     vi. 得零分；弄错
+    
+
+  1.The BLOB domain can be used when the message is treated as opaque , not parsed , and simply routed.
+    当将消息视为不透明的、不进行解析或者只是进行路由时，可以使用BLOB域。
+  2.And although internally the XML is stored in a hierarchical ( tree ) format , logically in the database table it appears to be stored in a single column ( like a CLOB or BLOB ).
+    另外，尽管XML在内部存储为层次化（树）格式，但是它看起来像是存储在数据库表的单一列中（就像CLOB或BLOB）。
+  3.In situations with a large number of columns — particularly if some are large VARCHAR or BLOB fields — this behavior can be a significant problem in terms of memory usage and performance.
+    在具有为数众多的列的情况下—尤其是当有些字段是巨大的VARCHAR或BLOB字段时 — 就内存使用和性能而言这种行为很有问题。
+

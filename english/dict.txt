@@ -13918,3 +13918,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     recline on
     信赖；依赖
 
+reliance on
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+     依靠；信赖
+    
+
+  1.Reliance on his promise is useless.
+    信赖他的允诺是没有用的。
+  2.Reliance on something in the future ; hope.
+    期待，期望对某事未来的信赖；希望。
+  3.Repeating this for all the boxes produces a family of lightweight methods , related by their reliance on people , communication , and frequent delivery of running code.
+    重复这些所有的格子，产生一个轻量级的方法的家族，根据他们对人们的信心，沟通，和发布运行代码的频率。
+

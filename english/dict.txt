@@ -13930,3 +13930,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Repeating this for all the boxes produces a family of lightweight methods , related by their reliance on people , communication , and frequent delivery of running code.
     重复这些所有的格子，产生一个轻量级的方法的家族，根据他们对人们的信心，沟通，和发布运行代码的频率。
 
+hinder
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [ˈhɪndə(r)]    美: ['hɪndɚ]
+
+     vi. 成为阻碍
+     vt. 阻碍；打扰
+     adj. 后面的
+     n. (Hinder)人名；(芬)欣德
+    
+
+  1.It can both help and hinder the relationship.
+    它既能帮助和阻碍的关系。
+  2.It will alert the user and hinder him from connecting to a server that lacks a certificate , issued by some CA , for the domain it claims to be representing.
+    浏览器会通知用户并阻碍他连接到一个缺乏由某证书认证机构（CA）颁发的证书的服务器，因为它拥有所代表域名的权利。
+  3.What will hinder the establish of friendship ?
+    有什么会阻碍友谊的建立呢?。
+

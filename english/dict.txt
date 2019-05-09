@@ -13947,3 +13947,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.What will hinder the establish of friendship ?
     有什么会阻碍友谊的建立呢?。
 
+compel
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [kəm'pel]    美: [kəm'pɛl]
+
+     vt. 强迫，迫使；强使发生
+     n. (Compel)人名；(法)孔佩尔
+    
+
+  1.We cannot compel you to do it, but we think you should.
+    我们不能强迫你做这件事，可是我们认为你应该做。
+  2.We cannot compel you to do it , but we think you should.
+    我们不能强迫你做，但我们认为你应该做。
+  3.I should assign you your share of labour , and compel you to accomplish it.
+    我要把属于你的那一份劳动分配给你，并且强迫你完成它。
+

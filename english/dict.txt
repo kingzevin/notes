@@ -13992,3 +13992,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Some of the ballots will exceed 50 pages , which will surely daunt even the minority of voters who can read.
     一些选票上仅是说明就有50多页，这也势必让能够读懂它的少数选民倍感压力。
 
+optical
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['ɒptɪk(ə)l]    美: ['ɑptɪkl]
+
+     adj. 光学的；眼睛的，视觉的
+    
+
+  1.If you have any optical needs , kindly please let us know.
+    如果您有任何光学的需要，恳请请让我们知道。
+  2.That means when the two stars finally get around to merging , they could be far away from the galaxy of their birth -- good news , as it happens , for optical confirmation.
+    这意味着当双星最后融合时，它们将离它们诞生的星系很远——如果这真的发生了，引力波就能在光学上得到确认，这真是个好消息。
+  3.The key development lies in the ability of the sphere , an optical device , not only to remain invisible itself but to slow light.
+    研究的关键在于光纤球的功能开发，这种光学设备不仅要保持自身的隐形，还要能使光线减速。
+

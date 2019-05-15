@@ -14035,3 +14035,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The entrepreneur is proprietor of heterogeneous human capital in the dynamic economy , who realizes the latent profits by exerting the imaginative power and creative power.
     企业家是动态经济中异质型人力资本的所有者，并通过发挥其想象力和创造力，实现潜在获利机会的人。
 
+symptom
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: ['sɪm(p)təm]    美: ['sɪmptəm]
+
+     n. [临床] 症状；征兆
+    
+
+  1.What symptom did I see in you ?
+    我在你身上看到了什么症状？
+  2.Be the symptom of leukaemia ?
+    是不是白血病的症状?。
+  3.What symptom do nephrosis and uremia have each ?
+    肾病和尿毒症各有什么症状？
+

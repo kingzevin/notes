@@ -14077,3 +14077,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.You should certainly use these in preference to the more verbose traditional means of accomplishing the same thing.
     你当然应该优先使用这些，而不是传统的冗长的方式，来完成相同的任务。
 
+trademark
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['treɪdmɑːk]    美: ['tred'mɑrk]
+
+     n. 商标
+     标志
+    
+
+  1.It can be a name , trademark , logo , or other symbol.
+    它可以是一个名称，商标，标识语，或是符号。
+  2.Do you have any special requirement ? For example , will you use my trademark or yours ?
+    你有什么特殊要求吗？比如说，这个商标是用我的还是你提供呢？
+  3.However , because of the test of " mistake " in trademark infringement , not all the trademarks are under equal protection.
+    但并非所有的商标都享有同等的保护，原因在于商标侵权理论的“误认”标准。
+

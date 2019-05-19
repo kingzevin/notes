@@ -1284,3 +1284,5 @@ verbose
 
 trademark
 
+caveat
+

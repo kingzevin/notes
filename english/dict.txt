@@ -14120,3 +14120,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.During this phase organizations delineate additional SOA capabilities , agree on policies for service reuse across lines of business , establish processes to guarantee service levels , and so forth.
     在此阶段，组织描绘出了附加的SOA能力，对跨业务线的服务复用的策略达成一致，建立过程以保证服务水平，等等。
 
+trampoline
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: ['træmpəliːn]    美: ['træmpəlin]
+
+     n. 蹦床；弹簧垫
+    
+
+  1.Why don't you take his trampoline ?
+    你为什么不拿他的弹簧垫？
+  2.Get an indoor trampoline and jump gently on it for 15 minutes.
+    那就搞一张室内蹦床在上面轻轻地跳上15分钟。
+  3.There is nothing stopping you from getting on the phone with a friend right now and arranging a coffee date, or looking online for a modestly priced exercise trampoline.
+    生活中没有什么可以阻止你现在立刻打电话约你的朋友出去喝杯咖啡，或上网去订购一张价格适中的锻炼用蹦床的。
+

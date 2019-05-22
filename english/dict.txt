@@ -14106,3 +14106,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.One big caveat , though – all of these require you to be mindful and reflect if you really expect to get a lot out of them.
     但是有一个大的警告——如果你真的希望能够从中受益的话，它需要你变得小心谨慎并且能够深思熟虑。
 
+delineate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [dɪ'lɪnɪeɪt]    美: [dɪ'lɪnɪet]
+
+     vt. 描绘；描写；画…的轮廓
+    
+
+  1.You can use semicolons to delineate multiple filter patterns within a filter option.
+    您可以使用分号来描绘一个筛选选项中的多个筛选模式。
+  2.Step five , drawing paper painting petals rotate to the right direction , then do not draw contours directly delineate petals.
+    步骤五、绘图纸画花瓣旋转到正确的方向，那么就不要画轮廓直接描绘的花瓣。
+  3.During this phase organizations delineate additional SOA capabilities , agree on policies for service reuse across lines of business , establish processes to guarantee service levels , and so forth.
+    在此阶段，组织描绘出了附加的SOA能力，对跨业务线的服务复用的策略达成一致，建立过程以保证服务水平，等等。
+

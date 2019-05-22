@@ -14148,3 +14148,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.These are geared towards helping you experiment with developing more effective search applications and finding your way through the ever- growing information space that surrounds us all.
     这些工具的目标是帮助您进行试验，以便开发出更有效的搜索应用程序，并对我们周围日益增长的信息空间，找到合适的搜索方式。
 
+resort
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [rɪ'zɔːt]    美: [rɪ'zɔrt]
+
+     n. 凭借，手段；度假胜地；常去之地
+     vi. 求助，诉诸；常去；采取某手段或方法
+    
+
+  1.In this luxury resort , you can live like a king.
+    在这个奢华的度假胜地，你可以像国王一样生活。
+  2.Kevin and I went to a fantastic resort for our honeymoon.
+    凯文和我到一个超棒的度假胜地去度蜜月。
+  3.Would I change this for the sun , sand and sea breeze of any seaside resort ? Not on your nellie!
+    我会拿这个来换取任何一个海滨度假胜地的阳光、沙滩和海风吗？绝对不会。
+

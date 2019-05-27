@@ -14243,3 +14243,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.They use dead elm saplings from nearby woods as stakes , start most of their plants from seeds in reusable pots and trade seedlings with other gardeners.
     他们从附近的树林里收集一些已经枯萎的榆树苗作为树桩，用可反复使用的花盆来栽种，还与其他的种植者交换树苗。
 
+mislead
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [mɪs'liːd]    美: ['mɪs'lid]
+
+     vt. 误导；带错
+    
+
+  1.If so , I am afraid that you have been mislead.
+    如果是这样的话，恐怕你已经被误导了。
+  2.This change in form is not an attempt to mislead investors.
+    这一变化在形式上而不是企图误导投资者。
+  3.If so , would it be moral to try to mislead the murderer without actually lying ?
+    如果是，那么没有实际说谎但误导了杀人者，这会是道德的吗？
+

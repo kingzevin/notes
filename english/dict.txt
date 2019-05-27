@@ -14257,3 +14257,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If so , would it be moral to try to mislead the murderer without actually lying ?
     如果是，那么没有实际说谎但误导了杀人者，这会是道德的吗？
 
+axiom
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['æksɪəm]    美: ['æksɪəm]
+
+     n. [数] 公理；格言；自明之理
+    
+
+  1.Axiom 1 : If a property is positive , then its negation is not positive.
+    公理1：一个性质是肯定的当且仅当它的否定是否定的。
+  2.This is one of the reasons why some mathematicians dislike the axiom of choice.
+    这是一些数学家不喜欢选择公理的理由之一。
+  3.This axiom seems to be completely missing , or at least grossly underemphasized , by the process evangelists and literature, but it is usually very observable in successful software projects.
+    这个公理在过程里似乎完全被忽略了，或者至少是不受重视的，但是它在成功的软件项目中通常是非常引人注目的。
+

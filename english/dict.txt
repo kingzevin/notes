@@ -14271,3 +14271,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This axiom seems to be completely missing , or at least grossly underemphasized , by the process evangelists and literature, but it is usually very observable in successful software projects.
     这个公理在过程里似乎完全被忽略了，或者至少是不受重视的，但是它在成功的软件项目中通常是非常引人注目的。
 
+outage
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['aʊtɪdʒ]    美: ['aʊtɪdʒ]
+
+     n. （电力等）停止供应期，断供期；设备停开期
+    
+
+  1.For example when the engine outage or the defeated starting appears , it will cause the fluctuation of the chain tension.
+    例如在发动机停机或者起动失败时出现的发动机倒转也会导致链条张力的波动。
+  2.During the outage , a reboot is all you need , and if you want to roll back to the earlier instance ( now the standby ), it's only a reboot away.
+    在运行中断期间，只需要进行一次重启；如果需要回滚到之前的实例（现在是备用实例），也只需进行一次重启。
+  3.Returning to the issue of complexity , the more complex this infrastructure and the greater the dependency between data centers ( or cells ), the greater the likelihood of an outage.
+    回到复杂性的问题，此基础设施越复杂，数据中心（或计算单元）之间的依赖关系越强，出现停机的可能性越大。
+

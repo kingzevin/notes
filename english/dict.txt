@@ -15099,3 +15099,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     diary
     n. 日志，日记；日记簿
 
+dismay
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [dɪs'meɪ]    美: [dɪs'me]
+
+     n. 沮丧，灰心；惊慌
+     vt. 使沮丧；使惊慌
+    
+
+  1.To my dismay , no one was there.
+    但是让我沮丧的是，一个人也没有。
+  2.He sees with dismay much the same limitations among his readers in China.
+    他，很沮丧地发现他的读者在中国都面临着同样的限制。
+  3.The teacher groaned with dismay.
+    那老师因惊慌而呻吟。
+

@@ -14737,3 +14737,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.There was much discussion as to what the battle should be called, hi the end it was named the Battle of the Cowshed , since that was where the ambush had been sprung.
     大家对如何给这场战斗命名的问题发生了不小的争论，最终被命名为“牛棚大战”，因为伏击是从那里发起的。
 
+ambush
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['æmbʊʃ]    美: ['æmbʊʃ]
+
+     n. 埋伏，伏击；伏兵
+     vt. 埋伏，伏击
+     vi. 埋伏
+    
+
+  1.An ambush , I pick it and count on this.
+    有埋伏，我选择并且指望这个了。
+  2.If we go in after them , they can ambush us easily.
+    只要我们跟进去，他们就能轻易地打我们一个埋伏。
+  3.If your attack is going well , you have walked into an ambush.
+    如果你的攻击情势很好，你可能正走进一个埋伏圈。
+

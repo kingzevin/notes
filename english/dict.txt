@@ -14829,3 +14829,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Female beetles of this species dig tunnels under a dung pat, where males mate with them.
     该物种的雌蜣螂会在粪块下打洞，在那里等待雄蜣螂前来与它们交配。
 
+pasture
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['pɑːstʃə]    美: ['pæstʃɚ]
+
+     n. 草地；牧场；牧草
+     vt. 放牧；吃草
+     n. (Pasture)人名；(英)帕斯彻；(法)帕斯蒂尔
+    
+
+  1.We have put our cattle out to pasture.
+    我们已经把牛放到牧场上吃草去了。
+  2.Besides the mammoths , some other animals pasture in this valley as well.
+    除了猛犸象，还有一些其他动物在山谷牧场里。
+  3.Goatherd , driving his flock from their pasture at eventide , found some Wild Goats mingled among them , and shut them up together with his own for the night.
+    黄昏时分，牧羊人赶着他的羊群放牧归来时，发现有几只野山羊也夹杂在其中。他把它们和自己的羊关在一起，过了一夜。
+

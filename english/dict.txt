@@ -14709,3 +14709,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This year , and in years to come, we have a solemn responsibility to do it right.
     今年以及随后几年，我们有一项庄严的责任，那就是正确实行这项改革。
 
+unanimous
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [juː'nænɪməs]    美: [jʊ'nænəməs]
+
+     adj. 全体一致的；意见一致的；无异议的
+    
+
+  1.We all staff have the unanimous idea.
+    我们全体职员有一致的意见。
+  2.Her father and I are unanimous in this.
+    对此她父亲和我看法是一致的。
+  3.If jurors cannot reach a unanimous verdict on their first vote , they must hear the views of the presiding judge , after which they may decide by simple majority.
+    如果陪审员们在第一次投票时无法达成全体一致，他们必须听取主任法官的意见，这之后他们可以通过简单多数作出决定。
+

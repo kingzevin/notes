@@ -14591,3 +14591,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.I tremble at the thought.
     我一想到这个就发抖。
 
+prophecy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['prɒfɪsɪ]    美: ['prɑfəsi]
+
+     n. 预言；预言书；预言能力
+    
+
+  1.This is the prophecy of peace . And the time is here now. AHO.
+    这是和平的预言。尔这个时刻就在这里，就是现在。AHO。
+  2.This is the prophecy of peace. And the time is here , now. AHO.
+    这是和平的预言。而这个时刻就在这里，就是现在。AHO。
+  3.History has confirmed the accuracy of every detail of that prophecy.
+    历史已经证实了那个预言每个细节的正确性。
+

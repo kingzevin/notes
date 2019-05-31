@@ -14633,3 +14633,21 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Now move the hand to and fro and around but not up and down.
     然后把手前后左右以及旋转摆动，但不要上下摆动。
 
+rear
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [rɪə]    美: [rɪr]
+
+     vt. 培养；树立；栽种
+     vi. 暴跳；高耸
+     adv. 向后；在后面
+     adj. 后方的；后面的；背面的
+     n. 后面；屁股；后方部队
+    
+
+  1.She followed them in the rear.
+    她在后面跟着他们。
+  2.People gaped at them as they raced by and out the rear door.
+    在他们裂开的人们当他们被和出自后面的门比赛之时。
+  3.We were one of the rear teams, and I think we were about 1km behind the lead teams.
+    我们是后面车组的成员，我想我们与前面车组的间距大约有1公里。
+

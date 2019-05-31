@@ -14695,3 +14695,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The cooldown for this ability might be longer than the Charge ability , but it will also apply a stun effect so you can make sure the target will still be there when you land.
     这个技能的冷却时间可能会比冲锋要长一些，但是它同样会提供一个昏迷效果所以你可以确定当你落地时目标仍然会呆在那里。
 
+solemn
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: ['sɒləm]    美: ['sɑləm]
+
+     adj. 庄严的，严肃的；隆重的，郑重的
+    
+
+  1.And this all solemn silentness !
+    和所有这些庄严的寂静！
+  2.So on this solemn day , at this sacred hour , once more we pause.
+    在这庄严的日子，在这个神圣的时刻，让我们再一次停顿一下。
+  3.This year , and in years to come, we have a solemn responsibility to do it right.
+    今年以及随后几年，我们有一项庄严的责任，那就是正确实行这项改革。
+

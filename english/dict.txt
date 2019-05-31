@@ -14315,3 +14315,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The very books in which philosophers bid us scorn fame , they inscribe their names.
     正是在教导我们藐视名声的书籍上，哲人们题下了自己的大名。
 
+fortnight
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['fɔːtnaɪt]    美: ['fɔrtnaɪt]
+
+     n. 两星期
+    
+
+  1.I saw him a fortnight ago.
+    我在两个星期前见过他。
+  2.They came once every six months and lasted a fortnight.
+    她每六个月来经一次，每次为时两星期。
+  3.They struggled for a fortnight to bury our bodies and the evidence of the atrocity.
+    他们为了埋葬我们的尸体，掩盖这次暴行的证据而“奋斗”了两个星期。
+

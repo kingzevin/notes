@@ -1392,3 +1392,5 @@ knoll
 
 windmill
 
+dynamo
+

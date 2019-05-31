@@ -15074,3 +15074,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Go into any courtroom and there will preside an independent judge, beholden to no government power.
     走进任何一所法庭，你都能看到主持人是一位不依附政府权力的独立的法官。
 
+salute
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [sə'l(j)uːt]    美: [sə'lut]
+
+     n. 致敬，欢迎；敬礼
+     vt. 行礼致敬，欢迎
+     vi. 致意，打招呼；行礼
+    
+
+  1.You should learn to salute properly.
+    你该学会正确地打招呼。
+  2.For that , I salute you.
+    由此，我向你致敬！
+  3.Salute to you !
+    向你们致敬！
+

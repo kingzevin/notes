@@ -14963,3 +14963,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.She wanted to scream , but all that would come out was this faint bleat.
     她想尖叫，但最终只是发出了这么微弱的呻吟。
 
+set forth
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+     陈述，提出；出发；陈列；宣布
+    
+
+  1.He set forth their aims in a speech.
+    他在一次演说中提出了他们的目标。
+  2.With these three simple tools , you can work through any and all trials set forth on this journey.
+    藉由这三个简单的工具，你能解决任何在这一次旅程上提出的所有的试验。
+  3.In addition , as an application example of the test network architecture set forth above, this paper also introduces the Distance Practicality Experiment Platform in detail.
+    另外，作为所提出的测试网体系结构的一个应用实例，本文还对远程实物实验平台进行了详细的介绍。
+

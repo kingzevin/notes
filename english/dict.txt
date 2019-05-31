@@ -15175,3 +15175,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It flies quick and sly , and you’ll have to work hard to catch it , but if you do , a fabulous fortune will open up for you.
     它快速而狡猾的飞行，你只有努力工作才能抓住它，如果你抓住了它，一份神话般的财富将在你的面前展现。
 
+tactics
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['tæktɪks]    美: ['tæktɪks]
+
+     n. 策略；战术；用兵学
+    
+
+  1.I cannot approve these tactics.
+    我不能赞成这些策略。
+  2.But such tactics are among them.
+    而这种战术正是其中之一。
+  3.All these questions involve policy and tactics.
+    这些问题，都涉及政策和策略。
+

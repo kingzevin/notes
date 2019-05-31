@@ -14920,3 +14920,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.What is the purpose of this test ? What valuable information or statistics can I procure and use to treat my patients ?
     这项检测的目的是什么？我能获得什么有价值的信息和统计数据来用于治疗我的患者？
 
+dispute
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [dɪ'spjuːt; 'dɪspjuːt]    美: ['dɪs'pjʊt]
+
+     vt. 辩论；怀疑；阻止；抗拒
+     vi. 争论
+     n. 辩论；争吵
+    
+
+  1.This dispute is not yet over.
+    这次争论还未结束。
+  2.There the righteous might dispute with him ; so should I be delivered for ever from my judge.
+    在他那里，正直人可以与他辩论。这样，我必永远脱离那审判我的。
+  3.In dispute.
+    在争论中。
+

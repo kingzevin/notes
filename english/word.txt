@@ -1336,3 +1336,5 @@ distort
 
 savage
 
+devour
+

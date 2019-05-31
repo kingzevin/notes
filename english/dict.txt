@@ -14285,3 +14285,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Returning to the issue of complexity , the more complex this infrastructure and the greater the dependency between data centers ( or cells ), the greater the likelihood of an outage.
     回到复杂性的问题，此基础设施越复杂，数据中心（或计算单元）之间的依赖关系越强，出现停机的可能性越大。
 
+rebellion
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [rɪ'beljən]    美: [rɪ'bɛljən]
+
+     n. 叛乱；反抗；谋反；不服从
+    
+
+  1.You will embrace this rebellion.
+    你会抱着这次的叛乱。
+  2.In their rebellion , they do not want His rules.
+    他们叛乱，他们不希望自己的规则。
+  3.Rebellion is about control. We assert our control by choosing when ( or whether ) to do the task.
+    反抗与控制有关。坚持自己有关何时（或是否）完成任务的选择。
+

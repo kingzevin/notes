@@ -14975,3 +14975,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In addition , as an application example of the test network architecture set forth above, this paper also introduces the Distance Practicality Experiment Platform in detail.
     另外，作为所提出的测试网体系结构的一个应用实例，本文还对远程实物实验平台进行了详细的介绍。
 
+elouence
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'elouence' not found, do you mean?
+
+    eloquence
+    n. 口才；雄辩；雄辩术；[口]修辞
+    effluence
+    n. 流出；流出物；发射物
+

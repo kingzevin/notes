@@ -14680,3 +14680,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.First , it was a protest against the sentimentality and extravagance of romanticism.
     首先，它主张反对浪漫主义的多愁善感和奢侈铺张。
 
+stun
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [stʌn]    美: [stʌn]
+
+     vt. 使震惊；打昏；给以深刻的印象
+     n. 昏迷；打昏；惊倒；令人惊叹的事物
+    
+
+  1.In this stage , Talug will resist all stuns — including the stun associated with the Flame Mines.
+    在此阶段，塔鲁格会抵抗所有的昏迷效果—包括烈焰矿井产生的昏迷。
+  2.Blessing of Protection : This spell can no longer be cast on others when stunned. It can only be cast on self ( to break the stun ) under those circumstances.
+    保护祝福：这个法术不再能在昏迷时对其他人施放。在这些状况下它仅能对自己施放（解除昏迷）。
+  3.The cooldown for this ability might be longer than the Charge ability , but it will also apply a stun effect so you can make sure the target will still be there when you land.
+    这个技能的冷却时间可能会比冲锋要长一些，但是它同样会提供一个昏迷效果所以你可以确定当你落地时目标仍然会呆在那里。
+

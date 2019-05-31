@@ -1366,3 +1366,5 @@ comrade
 
 sentimentality
 
+stun
+

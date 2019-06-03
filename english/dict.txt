@@ -15219,3 +15219,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.So I never grudge my love.
     所以，我从不吝惜我的爱。
 
+crowbar
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['krəʊbɑː]    美: ['krobɑr]
+
+     n. 撬棍；铁橇；起货钩
+    
+
+  1.We can use a crowbar to apply leverage.
+    我们可以用铁橇来应用杠杆原理。
+  2.They cover him quickly as the crowbar clangs to the ground.
+    他们迅速掩盖了洞口，撬棍当啷一声，落在了地上。
+  3.CAUTION : Do not use any sharp tools such as a crowbar or screwdriver on the rubber during installation. Sharp instruments can damage the flange face and cause possible leakage.
+    警告：在安装期间，不要采用任何尖锐的工具，如：撬棍或螺丝刀等。尖锐的工具可能会损伤法兰面，从而可能导致泄露。
+

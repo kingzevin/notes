@@ -15264,3 +15264,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The cute little problems present themselves at each step and yet you never hesitate and you find yourself on some other boulder you picked out for no special reason at all, just like Zen.
     那聪明的小问题本身在每一步当中显现然，而你从未犹豫，并发现你自己已在其它的另一块岩石上，你的选取全然没有任何特别原因，直像<禅>。
 
+quarry
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['kwɒrɪ]    美: ['kwɔri]
+
+     n. 采石场；猎物；来源
+     vi. 费力地找
+     vt. 挖出；努力挖掘
+     n. (Quarry)人名；(英)夸里
+    
+
+  1.Finally , we ended up in an abandoned quarry.
+    最后，我们到了一个废弃的采石场。
+  2.Once per turn as a minor action , you can designate the nearest enemy to you that you can see as your quarry.
+    每回合一次，你可以用一个次微动作指定一名你可以看到且距离你最近的敌人为你的猎物。
+  3.Attacking the buffalo from every direction , the pride works together to topple its quarry.
+    狮群从各个方向攻击这头水牛，一起合力掀翻它们的猎物。
+

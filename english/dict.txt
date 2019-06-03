@@ -15233,3 +15233,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.CAUTION : Do not use any sharp tools such as a crowbar or screwdriver on the rubber during installation. Sharp instruments can damage the flange face and cause possible leakage.
     警告：在安装期间，不要采用任何尖锐的工具，如：撬棍或螺丝刀等。尖锐的工具可能会损伤法兰面，从而可能导致泄露。
 
+pick
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [pɪk]    美: [pɪk]
+
+     vi. 挑选；采摘；挖
+     vt. 拾取；精选；采摘；掘
+     n. 选择；鹤嘴锄；挖；掩护
+     n. (Pick)人名；(英、法、德、捷、匈、瑞典)皮克
+    
+
+  1.How do you pick one library over another ?
+    您怎么选择这个库，而不选另一个？
+  2.You should not pick any of the flowers in the park.
+    你不应该采摘这个公园里的任何一朵花。
+  3.Why do you pick her to be your girl friend ?
+    你为什么会选择她做你的女朋友？
+

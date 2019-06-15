@@ -15312,3 +15312,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.To verify our system , we must set up the application under test in the lab , perturb it with events , and detect when it fails to handle an event properly.
     为了验证我们的系统，我们必须在实验室设置在测的应用程序，利用事件进行干扰，并且当不能适当处理事件时进行监测。
 
+amalagamation
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████ amalgamation
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [əmælgə'meɪʃ(ə)n]    美: [ə,mælgə'meʃən]
+
+     n. 融合，混合；合并，联合；[冶] 混汞法，汞齐化法
+    
+
+  1.Ethnic amalgamation ethnic assimilation and ethnic fusion of culture are three kinds of different phenomena in ethnic relation.
+    民族融合、民族同化和民族文化融合是民族关系中存在的三种不同的现象。
+  2.Also because portal is an amalgamation of all of the backend systems it uses, problems will normally cause a round of finger pointing within the organization.
+    而且还因为门户是其所用全部后台系统的一个联合，所以这些问题通常会在组织内引发一连串的相互指责。
+  3.This shift includes an amalgamation of light and dark again in earth's field.
+    这一变迁包括在地球的能量场中再次融合光明与黑暗。
+

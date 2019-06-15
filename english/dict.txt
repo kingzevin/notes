@@ -15298,3 +15298,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.For us they toiled in sweatshops and settled the West ; endured the lash of the whip and plowed the hard earth.
     对我们来说，他们在西方的工厂里穿着粗麻布衣，承受着鞭打的摧残耕耘着坚硬的土地。
 
+perturb
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [pə'tɜːb]    美: [pɚ'tɝb]
+
+     vt. 扰乱；使…混乱；使…心绪不宁
+    
+
+  1.They perturb good social order with their lie and propaganda.
+    他们以谎言和宣传扰乱良好的社会秩序。
+  2.And these greenhouse gases perturb the radiation balance of climate.
+    这些温室气体会扰乱气候的辐射平衡。
+  3.To verify our system , we must set up the application under test in the lab , perturb it with events , and detect when it fails to handle an event properly.
+    为了验证我们的系统，我们必须在实验室设置在测的应用程序，利用事件进行干扰，并且当不能适当处理事件时进行监测。
+

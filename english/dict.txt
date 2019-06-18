@@ -15538,3 +15538,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Generally a policeman is not entitled to arrest someone without a warrant if the person do not know or is not tell the reason for his arrest.
     一般说来，警察在没有逮捕令的情况下无权拘捕一个人，如果那个被捕的人不知道或没被告知为什么要逮捕他理由的话。
 
+dissertation
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [,dɪsə'teɪʃ(ə)n]    美: ['dɪsɚ'teʃən]
+
+     n. 论文，专题；学术演讲
+    
+
+  1.Is this you dissertation ?
+    这是你的论文吗？
+  2.I have not yet footnoted my dissertation.
+    我还没有给我的论文加上脚注。
+  3.You should present your dissertation by the end of next month.
+    你应该在下月底之前提交你的学术论文。
+

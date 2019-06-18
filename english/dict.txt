@@ -15401,3 +15401,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It just shows that , literally , all the information that’s being given , all the advice being solicited , and every question being answered is right there waiting for you.
     这只是从字面上表明了，所有正在给出的信息，所有正在征求的意见，所有正待解答的问题都在等待着你。
 
+unsolicited
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ʌnsə'lɪsɪtɪd]    美: ['ʌnsə'lɪsɪtɪd]
+
+     adj. 未经请求的；主动提供的
+    
+
+  1." I have had a lot of help , most of it unsolicited , from electrical engineers , " he said.
+    “我从电子工程师那里得到了很多帮助，大部分都是他们主动提供的。”他说。
+  2.Love control runs the gamut from unsolicited advice and opinions to criticism and unreasonable demands.
+    爱控制着全方位从未经请求的建议和意见到批评和不合理的需求。
+  3.It tracks the state of each network connection and determines whether the unsolicited incoming traffic should be allowed or dropped.
+    它追踪了每一次网络链接的状态，并决定未经请求的进站通讯申请是同意还是拒绝。
+

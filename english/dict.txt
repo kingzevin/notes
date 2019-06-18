@@ -15358,3 +15358,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Although it is now almost broken , but I still received the pen , because I think this pen is my patron saint of the exam.
     虽然它现在已经几乎坏掉了，但我还是收着这支笔，因为我认为这支笔是我考试的守护神。
 
+empirical
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [em'pɪrɪk(ə)l; ɪm-]    美: [ɪm'pɪrɪkl]
+
+     adj. 经验主义的，完全根据经验的；实证的
+    
+
+  1.This means that the empirical equations cannot be raised into an universal abstract form by themselves.
+    这意味着那些经验等式不能被它自己提升到一种普适的形式。
+  2.So it applies to macroscopic systems that are in equilibrium , and how to go from one equilibrium state to another equilibrium state , and it 's entirely empirical in its foundation.
+    因此，热力学研究的是平衡态的宏观系统，以及如何从，一个平衡态过渡到另一个平衡态，它完全是建立在经验的基础上的。
+  3.What they lacked , above all , was empirical weight.
+    他们缺乏最重要的是，是实证重量。
+

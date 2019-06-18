@@ -15415,3 +15415,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It tracks the state of each network connection and determines whether the unsolicited incoming traffic should be allowed or dropped.
     它追踪了每一次网络链接的状态，并决定未经请求的进站通讯申请是同意还是拒绝。
 
+compelling
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [kəm'pelɪŋ]    美: [kəm'pɛlɪŋ]
+
+     adj. 引人注目的；令人信服的；非常强烈的；不可抗拒的
+     v. 强迫；以强力获得（compel的ing形式）
+    
+
+  1.So , what compelling story can you tell others about your work ?
+    那么，引人注目的故事，你能告诉别人你的工作？
+  2.Compelling ideas , to be sure , but we ’d like to see evidence that any of this is possible.
+    这确实是引人注目的想法，但是我们想看看这些任何这些想法可行的证据。
+  3.But even with those tools , only you know whether or not you have the heart to execute on the opportunities we all recognize to launch a compelling new business.
+    但是即使有了这些工具，也只有当你知道你是否有心来实现这些我们都认为可以建立一个引人注目的新企业的机会。
+

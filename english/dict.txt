@@ -15372,3 +15372,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.What they lacked , above all , was empirical weight.
     他们缺乏最重要的是，是实证重量。
 
+mutually
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ˈmjuːtʃuəli]    美: ['mjutʃuəli]
+
+     adv. 互相地；互助
+    
+
+  1.I would choose not to do that on my teams , because I believe the practices are mutually reinforcing and work together so well that I give up something amazing if I leave one or more out.
+    对于我的团队，我不选择这样做，因为我认为实践会相互补充，一起使用效果好，所以如果我不选一个或多个实践，那么就会放弃一些令人惊奇的东西。
+  2.You should consider settings and options to be mutually exclusive. That is , you should not offer both settings and configuration options in your application.
+    你应该考虑到设置和选项是相互排斥的。也就是说，你不应该在你的应用程序中的同时提供设置和配置选项。
+  3.In this process , we help , to unite as one mutually.
+    在这个过程中，我们相互帮助，团结一致。
+

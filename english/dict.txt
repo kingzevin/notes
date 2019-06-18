@@ -15509,3 +15509,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The uneventful dignity of his life makes for a biography which it would be odd to be thrilled by and which it would be insensitive not to be stirred by.
     按字面意义译为“…对他的传记感到吃惊是很奇怪的，而不为之激动则是不敏感的”，意义不很明确，若按逆向翻译，则易于理解。他的一生是平凡的，但却是很庄严的。
 
+distant
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: ['dɪst(ə)nt]    美: ['dɪstənt]
+
+     adj. 遥远的；冷漠的；远隔的；不友好的，冷淡的
+    
+
+  1.How distant I am from everything !
+    我离万物，是多么遥远！
+  2.I do not float above you like some ethereal distant being.
+    我并不是像一些轻飘遥远的存在般，飘在你的上方。
+  3.But in her new home , in a distant unknown country , it would not be like that.
+    但是在她的新家里，在一个遥远陌生的国家里，事情就不会是那样了。
+

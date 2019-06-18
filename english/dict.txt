@@ -15581,3 +15581,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Looking back through history , how many of us remember leaders and prestigious people from the past ?
     回首历史，有多少我们记住领导人和声望的人从过去的？
 
+niche
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    word 'niche' not found, do you mean?
+
+    汽车
+    car | automobile | motor vehicle
+

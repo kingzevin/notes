@@ -15523,3 +15523,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But in her new home , in a distant unknown country , it would not be like that.
     但是在她的新家里，在一个遥远陌生的国家里，事情就不会是那样了。
 
+warrant
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: ['wɒr(ə)nt]    美: ['wɔrənt]
+
+     n. 根据；证明；正当理由；委任状
+     vt. 保证；担保；批准；辩解
+    
+
+  1.With the liability for warrant of defects of goods.
+    风险转移与货物的瑕疵担保责任。
+  2.Generally a policeman is not entitled to arrest someone without a warrant if the person do not know or be not tell the reason for his arrest.
+    一般说来，警察在没有逮捕令的情况下无权拘捕一个人，如果那个被捕的人不知道或没被告知为什么要逮捕他理由的话。
+  3.Generally a policeman is not entitled to arrest someone without a warrant if the person do not know or is not tell the reason for his arrest.
+    一般说来，警察在没有逮捕令的情况下无权拘捕一个人，如果那个被捕的人不知道或没被告知为什么要逮捕他理由的话。
+

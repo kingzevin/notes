@@ -15450,3 +15450,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
 
      adj. 均匀的；[数] 齐次的；同种的；同类的，同质的
     
+retrospect
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: ['retrəspekt]    美: ['rɛtrəspɛkt]
+
+     n. 回顾，追溯
+     vi. 回顾，追溯；回想
+     vt. 回顾；追忆
+    
+
+  1.In reading his memoirs , In retrospect , I discovered one of the reasons why.
+    回想一下，从阅读他的回忆录中，我发现了其中的原因之一。
+  2.In retrospect , what do you think of the cooperation between Poland and South China , especially with Guangzhou ?
+    回顾以前，您期待待波兰和华南地区有什么进一步的合作，尤其是与广州？
+  3.Through the retrospect that monetary policy and international relations of this period , people may have a widen vision today.
+    通过对这一时期货币政策和国际关系联系的回顾，应该可以拓宽今天人民的视野。
+

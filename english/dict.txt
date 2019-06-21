@@ -15686,3 +15686,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The librarians in different positions have different levels of burnout.
     不同岗位的图书馆员的倦怠程度有所区别；
 
+incentive
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ɪn'sentɪv]    美: [ɪn'sɛntɪv]
+
+     n. 动机；刺激
+     adj. 激励的；刺激的
+    
+
+  1.That should be all the incentive you need.
+    这应该是你所需要的全部激励。
+  2.Why What incentive is there for people to listen to you ?
+    为什么人们倾听你讲演的动机是什么？
+  3.If they have a direct incentive to do so they will think about it.
+    只有他们有了直接动机，他们才会思考这样做的意义。
+

@@ -1532,3 +1532,5 @@ meander
 
 receptive
 
+shabby
+

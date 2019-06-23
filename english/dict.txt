@@ -15909,3 +15909,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But the hunger for peace will occasionally trump the appetite for justice if forgiveness and amnesty are the only way to end wars or move societies from dictatorship to democracy.
     但是当宽恕和特赦是结束战争或者推动国家从独裁走向民主的唯一道路的时候，对和平的渴望偶尔会胜过对正义的偏好。
 
+beget
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [bɪ'get]    美: [bɪ'ɡɛt]
+
+     vt. 产生；招致；引起；当…的父亲
+    
+
+  1.Great love will beget great faith.
+    大的爱就产生大的信心。
+  2.If they’re wrong , they may set off a vicious new cycle , in which public spending cuts weaken the world economy and beget new private spending cuts.
+    如果他们错了，他们可能会启动新的一轮恶性循环，在这轮循环中，公共开支削减会削弱世界经济，引起新的私人开支削减。
+  3.Subsidies will beget more subsidies : Nicolas Sarkozy , France 's president , says that Europe will turn into an " industrial wasteland " if it too does not prop up its manufacturers.
+    补贴会招致更多的补贴：法国总统尼古拉?萨科齐就表示，欧洲如果不支持其制造业，将会变成一块”工业荒原”。
+

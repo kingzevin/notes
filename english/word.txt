@@ -1566,3 +1566,5 @@ judicious
 
 moderate
 
+slack
+

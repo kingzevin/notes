@@ -16072,3 +16072,21 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Fairness is not only good , but also moderate , which is another characteristic that the British approve of.
     公平这个词不仅好，而且还表示适度的，这是另外一种英国人非常赞同的特质。
 
+slack
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [slæk]    美: [slæk]
+
+     adj. 松弛的；萧条的；懈怠的；缓慢的；下流的；（尤指女子）性乱交的；（潮水）平缓的
+     n. （绳索的）松弛部分；富余部分；煤屑；懈怠
+     v. 懈怠；（使）绳索松弛；懒散地工作；（熟化）石灰
+     adv. 松散地
+     n. (Slack) （美）斯莱克（人名）
+    
+
+  1.This eliminates slack by making the spokes lie as flat as possible.
+    这消除了可能通过使松弛的辐条谎言一样平整。
+  2.The devil wants you to think your part does not matter , so you will slack off.
+    魔鬼想你认为你那个部分是无关重要的，那么你就会松懈下来了。
+  3.But these expectations are very likely to be disappointing : For the next year and a half , deflationary pressures will dominate in the mature economies as goods and labor markets remain very slack.
+    但这些预期很有可能令人失望：由于商品和劳工市场仍然极为萧条，因此在接下来的一年半时间里，通缩压力将在成熟经济体中成为主导。
+

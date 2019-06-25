@@ -16245,3 +16245,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.To pick an appropriate RUP variant as a baseline during tailoring work , a process architect must be cognizant of existing and future states of the organization 's enterprise architecture.
     为了在裁剪工作期间挑选一个合适的RUP变量作为基线，过程构架师必须了解组织的企业构架的现有的和未来状态。
 
+remedy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['remɪdɪ]    美: ['rɛmədi]
+
+     vt. 补救；治疗；纠正
+     n. 补救；治疗；赔偿
+    
+
+  1.Sit down with yourself , as you would with any other , and have a good chat about how to remedy it.
+    请坐下来好好跟自己谈谈，就像你跟其他人谈话那样，谈谈如何去补救这种情况。
+  2.The two groups are chosen at random , so the remedy should be the only systematic difference between them.
+    这两个组是随机抽取的，所以他们在系统中的唯一区别就在是否接受治疗。
+  3.But different lawyers disagree with how to remedy " not enough ".
+    但不同的法学家对如何弥补“不够”并不一致。
+

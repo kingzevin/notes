@@ -16222,3 +16222,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The one trait , however , that they all have in common is that their strength is " impossible to gauge , " and therefore should not, by any means , be underestimated.
     一个特点，然而，他们的共同点是，他们的实力是“不可能的衡量”，因此不应该以任何方式，予以低估。
 
+cogniznat
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'cogniznat' not found, do you mean?
+
+    cognizant
+    adj. 审理的；已认知的
+    cognisant
+    adj. 认知的（等于cognizant）
+

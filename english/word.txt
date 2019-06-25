@@ -1588,3 +1588,5 @@ gauge
 
 cogniznat
 
+cognizant
+

@@ -16207,3 +16207,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.You can appraise opportunities in a relaxed way , have time for judicious estimates and decisions.
     你可以在轻松的方式考核机会，时间估计和明智的决定。
 
+gauge
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [geɪdʒ]    美: [gedʒ]
+
+     n. 计量器；标准尺寸；容量规格
+     vt. 测量；估计；给…定规格
+    
+
+  1.Therefore , we should gauge the cost.
+    因此，必须要对代价进行衡量。
+  2.His response will help you gauge what you should say next.
+    他的反应可以帮你衡量你接下来应该说的话。
+  3.The one trait , however , that they all have in common is that their strength is " impossible to gauge , " and therefore should not, by any means , be underestimated.
+    一个特点，然而，他们的共同点是，他们的实力是“不可能的衡量”，因此不应该以任何方式，予以低估。
+

@@ -16136,3 +16136,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Your dream should mimic the story in your mind.
     而这个梦将会模仿出现在你脑中的故事。
 
+degradation
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [,degrə'deɪʃ(ə)n]    美: [,dɛɡrə'deʃən]
+
+     n. 退化；降格，降级；堕落
+    
+
+  1.What is land degradation ?
+    什么是土地退化？
+  2.One of the most important events in the degradation of civilization 3 , BC century.
+    一次最重要的文明退化事件发生在公元前3世纪的时候。
+  3.In this chapter we briefly review the structure , biosynthesis , degradation and regulation of collagen in tissues.
+    在本章中我们简要地叙述组织内胶原的结构，生物合成的、降解和调节。
+

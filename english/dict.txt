@@ -16343,3 +16343,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Yet he has shaped two prominent careers for himself, as an economist and a politician.
     但是他有两样卓越的职业，作为一名经济家和一名政治家。
 
+render
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['rendə]    美: ['rɛndɚ]
+
+     v. 致使；提供，回报；援助；提交，提出；作出（裁决）；放弃；表达；演奏；翻译；绘制；粉刷；熔化；从（动物身体）提取（蛋白质）；秘密偷渡
+     n. 底灰，底泥；交纳
+     n. (Render) （美、英、加）伦德尔（人名）
+    
+
+  1.This allows you to render a texture without any scaling.
+    这允许你不用任何缩放，就能渲染一个贴图。
+  2.The service we render to others is really the rent we pay for our room on this earth.
+    我们向别人提供的服务实在是为自己在这个世界上的住所付出的租金。
+  3.All objects will be drawn once without lighting , then lighting of all objects will be rendered together at the end of the render queue.
+    所有对象将无照明绘制一次，然后所有对象的照明将一起在渲染队列的末尾被渲染。
+

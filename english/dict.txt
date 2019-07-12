@@ -16317,3 +16317,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.All this caused the current excess.
     所有这些导致如今的过剩。
 
+stringent
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['strɪn(d)ʒ(ə)nt]    美: ['strɪndʒənt]
+
+     adj. 严格的；严厉的；紧缩的；短缺的
+    
+
+  1.Our metal hose and braid is offered in a variety of different alloys that meet or exceed even the most stringent service conditions that industry demands.
+    我们的金属软管和编织是在一个提供符合或超过即使是最严格的服务条件，不同的合金品种行业的需求。
+  2.In either case , though , the insistence that we be in the right place at the right time puts a very stringent constraint on our possible future actions.
+    不管在上述哪种情况下，我们都一定要在对的时间出现在对的地点，这就会很严格地限制自己未来可能做出的行为。
+

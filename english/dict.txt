@@ -16434,3 +16434,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He spent the second half of his career trying to poke holes in the theory and to subsume it in a unified theory that would restore certainty and determinism to physics.
     他在科学生涯的后一半时间试图给这个理论找漏洞，并想将其纳入到一个统一的能让物理重新恢复必然性和决定论。
 
+syntactic
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [sɪn'tæktɪk]    美: [sɪn'tæktɪk]
+
+     adj. 句法的；语法的；依据造句法的
+    
+
+  1.According to it , the semantic and syntactic features of a phrase can be transferred to another phrase at Deep Structure in a given context.
+    根据这一理论，在一定的语境中，短语的语义和句法特征在深层结构中可以从一个短语转移到另一个短语上去。
+  2.Traditionally , pure XML validation techniques only extend to syntactic validation -- that is , the presence or absence of elements and attributes , and their ordering.
+    传统上，纯XML验证技术只达到了对语法的验证--即元素和属性的存在或不存在，以及它们的顺序。
+  3.The prefix is strictly a syntactic convenience ; in general , it is not really a matter of XML language design but rather a matter of author or tool preference.
+    前缀完全是一种语法上的便利，一般而言实际上并不属于XML语言设计中的问题，仅仅是作者或者工具偏好的问题。
+

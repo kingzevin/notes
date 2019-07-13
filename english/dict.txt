@@ -16448,3 +16448,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The prefix is strictly a syntactic convenience ; in general , it is not really a matter of XML language design but rather a matter of author or tool preference.
     前缀完全是一种语法上的便利，一般而言实际上并不属于XML语言设计中的问题，仅仅是作者或者工具偏好的问题。
 
+resurface
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [riː'sɜːfɪs]    美: [,ri'sɝfɪs]
+
+     vi. 重新露面；浮上水面
+     vt. 重铺路面；为…铺设新表面
+    
+
+  1.At one time they resurface and blow the present things out of proportion.
+    有时候，当这些怨恨再次出现，会夸张地把现在的情况搞糟。
+  2.This was a downward spiral , because it meant buried ones had room to resurface.
+    这是个向下螺旋，因为它意味着曾被掩盖的记忆将浮出水面。
+  3.I knew little , however , about this cancer 's ability to resurface.
+    然而，我对于癌症重新出现的能力知道得很少。
+

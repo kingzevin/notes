@@ -16405,3 +16405,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It is not quite the Marshall Plan wanted by some , but it is the right start.
     这完全不是有些人渴望的“马歇尔计划”，而是一个正确的开端。
 
+supersede
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [,suːpə'siːd; ,sjuː-]    美: [,supɚ'sid]
+
+     vt. 取代，代替；紧接着……而到来
+     vi. 推迟行动
+    
+
+  1.But its policy rests upon the truth that the state is rightly trying to revive markets not to supersede them.
+    但是工党的政策是建立在这种事实上的，那就是政府确实是在拯救市场，而不是取代它们。
+  2.These treaties become the law of the land based on the supremacy clause of the Constitution ; they supersede any state law.
+    这些条约成为以最高法律《宪法》为依据的国家法律，他们取代了任何的州的法律。
+  3.Novel methods and simulators have grown up one by one in recent years , and will supersede traditional circuit simulators which can not catch up with the development of deep submicron technology.
+    近年来，各种新的电路仿真方法和仿真系统相继脱颖而出，并将取代那些传统的、已经无法适应深亚微米技术发展的电路仿真器。
+

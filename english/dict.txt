@@ -16478,3 +16478,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Helps you to regain your desirable figure !
     帮助您恢复您的理想的数字！
 
+eligible
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['elɪdʒɪb(ə)l]    美: ['ɛlɪdʒəbl]
+
+     adj. 合格的，合适的；符合条件的；有资格当选的
+     n. 合格者；适任者；有资格者
+    
+
+  1.If not , which ones are eligible ?
+    如果不是，哪个是符合条件的？
+  2.One caveat : You must be eligible to join.
+    一个警告：你必须有加入的资格。
+  3.It will not be eligible for recovery during server start up.
+    在服务器启动恢复期间它就不是合格的了。
+

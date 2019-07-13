@@ -16420,3 +16420,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Novel methods and simulators have grown up one by one in recent years , and will supersede traditional circuit simulators which can not catch up with the development of deep submicron technology.
     近年来，各种新的电路仿真方法和仿真系统相继脱颖而出，并将取代那些传统的、已经无法适应深亚微米技术发展的电路仿真器。
 
+subsume
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [səb'sjuːm]    美: [səb'sʊm]
+
+     vt. 把……归入；把……包括在内
+    
+
+  1.In the opportunity choosing mode , we subsume the business and tourism as the group for choosing.
+    在机遇型产业导向选择中，本文将商贸、旅游业纳入待选支柱产业群。
+  2.We can subsume spatiotemporal descriptions and descriptions in terms of properties in these formal spaces under the rubric of structural descriptions.
+    我们能够包容时空描述和根据属性的描述（在这些形式的空间中，基于“结构”的描述）。
+  3.He spent the second half of his career trying to poke holes in the theory and to subsume it in a unified theory that would restore certainty and determinism to physics.
+    他在科学生涯的后一半时间试图给这个理论找漏洞，并想将其纳入到一个统一的能让物理重新恢复必然性和决定论。
+

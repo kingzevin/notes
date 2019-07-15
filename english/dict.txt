@@ -16493,3 +16493,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It will not be eligible for recovery during server start up.
     在服务器启动恢复期间它就不是合格的了。
 
+handoff
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['hændɒf]    美: 
+
+     n. 手递手传球（美国橄榄球）；传送
+    
+
+  1.The results show that wireless network parameters and route update algorithms of mobility support protocols affect the handoff performance.
+    结果表明，切换性能受无线网络参数和移动支持协议的路径更新算法两个因素影响；
+  2.The analysis shows that bidirectional call - overflow scheme can lead to the lowest call blocking probability and the lowest handoff failure probability.
+    分析结果表明双向呼叫溢出方案能给用户带来最低的呼叫阻塞概率和切换失败概率。
+  3.Results show that the scheme not only decrease new call blocking probability and handoff call dropping probability , but also enhance data traffic performance.
+    仿真结果表明该方案不仅降低了新增呼叫阻塞率和切换掉话率，而且提升了数据业务的性能。
+

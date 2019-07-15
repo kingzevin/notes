@@ -16507,3 +16507,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Results show that the scheme not only decrease new call blocking probability and handoff call dropping probability , but also enhance data traffic performance.
     仿真结果表明该方案不仅降低了新增呼叫阻塞率和切换掉话率，而且提升了数据业务的性能。
 
+churn
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [tʃɜːn]    美: [tʃɝn]
+
+     vi. 搅拌；搅动
+     vt. 搅拌；搅动
+     n. 搅乳器
+    
+
+  1.How about an antique butter churn ?
+    一个古董黄油搅拌机怎么样？
+  2.To get butter you must churn milk in a quiet and cool place.
+    为了提取牛油，你必须在一个安静和凉爽的地方搅拌牛奶。
+  3.He needs machines to churn palm oil and chemicals into soap , stamp it into bars and package it in plastic.
+    他需要机器搅拌棕榈油和化工品放到肥皂里，做成条状，用塑料包装把它打包起来。
+

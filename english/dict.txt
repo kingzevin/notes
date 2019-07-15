@@ -16523,3 +16523,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He needs machines to churn palm oil and chemicals into soap , stamp it into bars and package it in plastic.
     他需要机器搅拌棕榈油和化工品放到肥皂里，做成条状，用塑料包装把它打包起来。
 
+transient
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['trænzɪənt]    美: [ˈtrænsiənt; ˈtrænʃənt; ˈtrænʒənt]
+
+     adj. 短暂的；路过的
+     n. 瞬变现象；过往旅客；候鸟
+    
+
+  1.I have loved a transient you.
+    我却爱了一个暂时的你。
+  2.Even in the transient time , I still hope to be with you.
+    即使是在转瞬即逝的时光里，仍然希望和你在一起。
+  3.It is transient in the sense that it exists only during the running of the process.
+    它仅在流程运行的过程中存在，从这个角度来讲，它是瞬态的。
+

@@ -1642,3 +1642,5 @@ rugged
 
 guesswork
 
+scruntinize
+

@@ -1676,3 +1676,5 @@ imbecile
 
 statutory
 
+spanner
+

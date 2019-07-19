@@ -16601,3 +16601,16 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Workers in Finland , France and Brazil have the most generous statutory allowance , getting 30 days of holiday every year.
     芬兰、法国和巴西的雇员有最丰厚的法定假期津贴，他们每年享有30天的假期。
 
+spanner
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: ['spænə]    美: ['spænɚ]
+
+     n. 扳手；螺丝扳手；测量器；用手掌量的人
+     n. (Spanner)人名；(德)施潘纳；(瑞典)斯潘纳；(英)斯潘纳
+    
+
+  1.I need a spanner to change the back wheel.
+    我要一个扳手来换掉后面的轮胎。
+  2.Were it true , such a scenario would certainly throw a spanner in the works and have a devastating effect on financial markets , but thus far the story has not gained much traction.
+    如这则报道是真的，则这种情况势必会给会谈工作抛出一个扳手，对金融市场造成破坏性的影响，但迄今为止，该报道并未赢得多大吸引力。
+

@@ -16587,3 +16587,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.An audience is never wrong . An individual member of it may be an imbecile , but a thousand imbeciles together in the dark - that is critical genius.
     观众是不可能错的，也许会有一个白痴观众，但是一千个白痴坐在黑暗中看电影--他们就都是顶级影评家。
 
+statutory
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: ['stætjʊt(ə)rɪ; -tʃʊ-]    美: [stætʃʊˌtɔrɪ]
+
+     adj. 法定的；法令的；可依法惩处的
+    
+
+  1.This guarantee does not affect your statutory rights.
+    这项保证不会影响你的法定权利。
+  2.Only the content of the statutory principle be realized , can it be carried out.
+    只有法定原则的内容得以实现，该原则才可能贯彻实施。
+  3.Workers in Finland , France and Brazil have the most generous statutory allowance , getting 30 days of holiday every year.
+    芬兰、法国和巴西的雇员有最丰厚的法定假期津贴，他们每年享有30天的假期。
+

@@ -16674,3 +16674,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.No doubt In the subterranean palace Gaetano told you of.
     一定会在盖太诺告诉你的那个地下宫殿里。
 
+slanting
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: ['slæntɪŋ]    
+
+     adj. 倾斜的
+     v. 使倾斜（slant的ing形式）
+    
+
+  1.The first nerve cells it passes through react only to simple stimuli , such as edges slanting at particular angles.
+    它所经过的第一个神经细胞仅对简单刺激有反应，像是以特定角度倾斜的边线。
+  2.Compressed air will then force the panels to rise up on their hinges, forming a slanting barrier to the incoming tide from the Adriatic Sea.
+    这些挡板在压缩空气力量的作用下会竖立起来，从而形成一个倾斜的屏障挡住来自亚得利亚海的洪水。
+  3.The movements of the Vimana are such that it can vertically ascend , vertically descend , move slanting forwards and backwards.
+    维曼那是这样地运动，因此它可以垂直地上升，垂直地下降，倾斜地前后运动。
+

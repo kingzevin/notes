@@ -16807,3 +16807,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Do not let the math jargon intimidate you.
     可别让这些数学术语把你吓倒。
 
+faint
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [feɪnt]    美: [fent]
+
+     adj. 模糊的；头晕的；虚弱的；[医] 衰弱的
+     vi. 昏倒；变得微弱；变得没气力
+     n. [中医] 昏厥，昏倒
+    
+
+  1.He strained to hear the faint sounds.
+    他勉强听到了那微弱的声音。
+  2.He gave her a faint smile of acknowledgment and she stared at him with frank invitation.
+    他给了她一个淡淡的认可的微笑，接着她带着直率的邀请盯着他。
+  3.Nabi acclaim for its fragrance , the bees have to share with this sweet , I like the faint fragrance.
+    彩蝶为它的芬芳喝彩，蜜蜂也来分享着这份馨香，我更喜欢这淡淡的清香。
+

@@ -16793,3 +16793,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3."The point of this is that we need recess from always doing something for someone else , " Cooper said in a telephone interview.
     库珀在一次电话采访中说：“我们总是在为他人效劳，可我们自己也需要放松和休息，这就是我这么做的关键所在。
 
+jargon
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: ['dʒɑːg(ə)n]    美: ['dʒɑrɡən]
+
+     n. 行话，术语；黄锆石
+    
+
+  1.She use so much jargon I can never understand her explanation.
+    她用的术语太多，我怎麽也听不懂她的讲解。
+  2.The context should not include the solution or any technical jargon.
+    上下文不应包括解决方案或任何技术行话。
+  3.Do not let the math jargon intimidate you.
+    可别让这些数学术语把你吓倒。
+

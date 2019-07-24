@@ -16893,3 +16893,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Rectify with the correct rate and rate code if confirm.
     如果确定则矫正正确的价格和价格代码。
 
+dart
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [dɑːt]    美: [dɑrt]
+
+     n. 飞镖；急驰，飞奔；一阵剧痛；（衣服的）褶；热带和亚热带鱼类
+     v. 急冲，飞奔；投掷，投射；把（目光）飞快扫向
+     n. (Dart) （美、英、加、澳、法）达特（人名）
+    
+
+  1.How do I get notified when something is added or removed from an observable list in Dart ?
+    我怎么得到通知时添加或删除从一个可观察到的列表在飞镖吗?。
+  2.This Field Operations Guide does not contain position descriptions for every type of specialist that could be assigned to a DART.
+    这个区域执行指导不包含关于被分配到灾难援助反应队的每个类型的专家位置描述。
+  3.Fix a stone , sharpened with a deadly edge, at the end of acarefully weighted stick, and you have a weapon - a dart , arrow or aspear - that could be lethal at a considerable distance.
+    把石头的尖部修理得锋利一些，再精心绑上一根木棍，现在你就拥有了一件武器。 一枝飞镖、箭头或长矛，在关键时刻它能起到致命的效果。
+

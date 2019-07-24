@@ -16909,3 +16909,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Fix a stone , sharpened with a deadly edge, at the end of acarefully weighted stick, and you have a weapon - a dart , arrow or aspear - that could be lethal at a considerable distance.
     把石头的尖部修理得锋利一些，再精心绑上一根木棍，现在你就拥有了一件武器。 一枝飞镖、箭头或长矛，在关键时刻它能起到致命的效果。
 
+toil
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [tɒɪl]    美: [tɔɪl]
+
+     v. 苦干，辛勤劳动；艰难地行走；（使）过度劳累；费力地做
+     n. 苦工；劳累；难事；网
+    
+
+  1.I have nothing to offer but blood, toil , tears and sweat.
+    我能奉献的无他，只有热血、辛劳、眼泪与汗水！
+  2.I have nothing to offer but blood , toil , tears , and sweat. We have before us an ordeal of the most.
+    我所能奉献的没有其他，只有热血，辛劳，眼泪和汗水。我们所面临的将是一场极为残酷的考验。
+  3.I say to the House as I said to Ministers who have joined this government , I have nothing to offer but blood , toil , sweat and tears.
+    正如我曾对参加本届政府的成员所说的那样，我要对下院说：“我没什么可以奉献，有的，只是热血、辛劳、眼泪和汗水。
+

@@ -16879,3 +16879,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The connexion is not a simple derivation.
     这种连接并不只是衍生性的。
 
+rectify
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['rektɪfaɪ]    美: ['rɛktɪfaɪ]
+
+     vt. 改正；精馏；整流
+    
+
+  1.It was your mistake that caused the problem , so you should be the one to rectify it.
+    是你的错误造成了这个问题，所以你应该是那个去纠正的人。
+  2.As they take action and rectify the circumstance , we leave their dwelling , as there is no longer a mirror for us to provide.
+    当他们采取行动来纠正这些情况，我们就会离开他们的住所，因为我们不再提供有一面镜子。
+  3.Rectify with the correct rate and rate code if confirm.
+    如果确定则矫正正确的价格和价格代码。
+

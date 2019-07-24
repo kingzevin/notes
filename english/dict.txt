@@ -16835,3 +16835,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Robbie : Yes , but the number is no longer in service So we only call for you.
     罗比：是的，但是号码也不再服务。所以我们只有你的电话。
 
+pledge
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [pledʒ]    美: [plɛdʒ]
+
+     n. 保证，誓言；抵押；抵押品，典当物
+     vt. 保证，许诺；用……抵押；举杯祝……健康
+     n. (Pledge)人名；(英)普莱奇
+    
+
+  1.This is our pledge !
+    这个是我们的誓言！
+  2.I pledge to you - we as a whole will reach the goal.
+    我向你们承诺--我们作为一个整体将会达成目标。
+  3.At this moment , in this election , we must pledge once more to march into the future.
+    在这一时刻，在这次选举中，我们必须再一次保证，向未来挺进。
+

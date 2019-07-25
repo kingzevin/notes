@@ -16999,3 +16999,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Still the company needed the Bush Administration to rescue GM and Chrysler because of fears that a failure of one or both of those companies could imperil their shared base of auto- part suppliers.
     然而，福特要求布什政府出手帮助通用和克莱斯勒，因为他怕一旦他们其中一个或两个倒闭会危及他们共同的汽车零部件供应商。
 
+shim
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ʃɪm]    美: [ʃɪm]
+
+     n. 楔子；垫片；填隙片
+     v. 用填隙片填入
+     n. (Shim) （美、加、英、俄、马）单（人名）
+    
+
+  1.Regardless of the thickness Toyota chooses for the shim , real and perceived friction will by necessity decrease to the detriment of pedal feel.
+    然而无论丰田选用的垫片厚度多少，真实摩擦量的减少必然会损害到踏板的触感。
+  2.For longer run applications or wider embossed images , the image , which is now a relief pattern , is copied from the shim and reproduced onto a custom embossing cylinder or drum.
+    不再运行的应用程序或更广泛的浮雕图像，图像，这是现在一个浮雕图案，是从垫片复制和转载到一个自定义的压花缸或桶。
+  3.The silver part is the shim stack.
+    银色的部分就是垫片层。
+

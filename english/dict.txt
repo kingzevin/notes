@@ -16955,3 +16955,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Elisabeth : So early ? Six o 'clock or thereabouts is high tea time.
     伊莉萨白：这么早?六点钟左右才是吃傍晚茶时间。
 
+confine
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [kən'faɪn]    美: [kən'faɪn]
+
+     v. 限制；禁闭；（因疾病、残疾）无法离开（床 、家、轮椅）；将 (自己或自己的活动) 局限于；（妇女）卧床分娩
+     n. （尤指某个地方限制行动自由的）边界；（尤指学科或活动领域的的）范围；限制
+    
+
+  1.But , then, I confine him to one room only.
+    但我却限定他只能呆在一个房间里。
+  2.It is a good rule to confine each paragraph to only one point or topic.
+    限制每个段落只针对一个要点或主题是一个很好的法则。
+  3.So far we have been able to confine our attention to the name and the sense.
+    到现在为止，我们已经能够将我们的注意限制于名字和感觉。
+

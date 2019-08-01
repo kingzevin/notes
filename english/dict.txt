@@ -17061,3 +17061,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.We the only woe is in wishes a life but without hope.
     我们唯一的悲哀是生活于愿望之中而没有希望。
 
+resolve
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [rɪ'zɒlv]    美: [rɪ'zɑlv]
+
+     vt. 决定；溶解；使…分解；决心要做…
+     vi. 解决；决心；分解
+     n. 坚决；决定要做的事
+    
+
+  1.How, resolve or harmonize this one contradiction.
+    如何化解或协调这一矛盾。
+  2.All you have to do is resolve not to be one of them.
+    所有您需要做的就是解决不其中之一。
+  3.This should resolve the problem.
+    就可以解决这个问题了。
+

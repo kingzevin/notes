@@ -17180,3 +17180,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Do you have any experience ?
     你有什么工作经验吗?。
 
+evaporate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [ɪ'væpəreɪt]    美: [ɪ'væpəret]
+
+     vt. 使……蒸发；使……脱水；使……消失
+     vi. 蒸发，挥发；消失，失踪
+    
+
+  1.If you're willing to give it up , and let yourself evaporate into the breeze , it can take you across , and you can reach your destination ," said the desert in its deep voice.
+    只要你愿意放弃现在的样子，让自己蒸发到微风中，微风就能带着你飞越过去，这样你才能到达目的地。」沙漠用它低沉的声音说道。
+  2.Some distil seawater by heating it up to evaporate part of it. They then condense the vapour— a process that requires electricity.
+    一些采取蒸馏海水的方法，通过将海水加热，蒸发出部分海水，之后将其浓缩，而这一方法需要电力。
+  3.But then, after a few more climbs , once to the top of the domed reservoir ( kids , don’t try this at home ), my fear seemed to evaporate in the warm midnight air — I had simply been out of practice.
+    爬过几次后，只要爬到半球形蓄水池顶（孩子们，别在家做这样的尝试），我的恐惧似乎就在午夜温暖的空气中蒸发了--原来，只是久不练习而已。
+

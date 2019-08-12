@@ -17150,3 +17150,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Where does light come from ? How does it diffuse ?
     光从哪里来？它是怎样传播的？
 
+manifesto
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [mænɪ'festəʊ]    美: [,mænɪ'fɛsto]
+
+     n. 宣言；声明；告示
+     vi. 发表宣言
+    
+
+  1.But this was not a grand manifesto.
+    这并不是一个华丽的宣言。
+  2.But the letter was not intended to be a manifesto.
+    但是也不能把这封信说成是一项宣言。
+  3.In 2002 … we were thinking : All these people want to push the Agile Manifesto , they want to join us … join what ?
+    在2002年……我们在想：所有这些人都想推行敏捷宣言，他们想加入我们的行列……加入什么呢？
+

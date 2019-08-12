@@ -1752,3 +1752,5 @@ evangelist
 
 diffuse
 
+manifesto
+

@@ -17134,3 +17134,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.No matter what kind of environment you have , The Evangelist insists that it can be improved by throwing away all of your tools and processes and replacing them with something else.
     无论你在用哪种编程环境，传教士总会坚持认为如果你把现有的工具和工序抛弃掉并换成其它的一些东西，会对你有很大的帮助。
 
+diffuse
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [dɪ'fjuːz]    美: [dɪ'fjus]
+
+     adj. 弥漫的；散开的
+     vt. 扩散；传播；漫射
+     vi. 传播；四散
+    
+
+  1.Diffuse this to those around you, and if possible , translate it so that it goes farther.
+    将此讯息传播出去，如果可能，将它翻译所以它可以被传播得更远。
+  2.The publication contributes to diffuse the knowledge of the subject.
+    该出版物有助于传播这门学科的知识。
+  3.Where does light come from ? How does it diffuse ?
+    光从哪里来？它是怎样传播的？
+

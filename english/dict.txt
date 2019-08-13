@@ -17286,3 +17286,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.For if the pure goal is never brought to the fore , there will never be any momentum developed for driving toward it.
     假如没有一个纯粹的理念在前面指引，就绝发展不出任何朝这个目标驱进的动力。
 
+de facto
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+     （法）实际上的
+    
+
+  1.Founders usually have a lot of de facto control after a series A , as long as things are going well.
+    创始人们在首轮私募之后通常有很多实际上的控制权，只要一切进行得顺利。
+  2.We add the year and month to the namespace as this is the de facto standard for versioning of namespaces.
+    我们将年份和月份添加到该命名空间，因为这种做法是命名空间版本控制的事实标准。
+  3.Since then , this framework evolved into the de facto standard for automated unit testing frameworks.
+    从那以后，该框架演化为针对自动化单元测试框架的实际标准。
+

@@ -17225,3 +17225,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The assumption in here" – he nods impatiently towards the House of Commons – " is that we tinker with this economic system , and then go back to 60 consecutive quarters of growth.
     可能出现的情况是（他匆匆朝经过的下院议员们点了点头）我们随意地修补了这个经济系统，然后重回到持续了60个季度的经济增长。
 
+boilerplate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['bɒɪləpleɪt]    美: ['bɔɪlɚplet]
+
+     n. 样板文件；引用
+    
+
+  1.The drawback is that it requires some boilerplate code to create new classes and manipulating objects around.
+    不足之处在于这需要一些样板文件代码来创建一些新类并需要四处操作对象。
+  2.For many interfaces , much of the functionality can be implemented with “ boilerplate ” code that will be valid for all classes that use the interface.
+    对于许多接口，大多数功能都可以用对于所有使用这个接口的类都有效的“样板”代码来实现。
+  3.But every once in a while, the use of a word like “ still ” or “ only ”, stuck in an other boilerplate sentence , will signal actual news.
+    但是，时不时的，像“依然”“仅仅”这样的词被放进另一个文件句子中时，就将会传递新的实质性的新闻信息。
+

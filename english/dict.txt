@@ -17312,3 +17312,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Finally , UML tools are often quite heavyweight and complex , and are often perceived as " bloatware " or " drawing tools " by " real " developers.
     最后，UML工具通常都是复杂而又重量级的，通常被“真正的”开发人员认为是“臃肿的软件”或者“绘图工具”。
 
+succinct
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [sək'sɪŋ(k)t]    美: [sək'sɪŋkt]
+
+     adj. 简洁的；简明的；紧身的
+    
+
+  1.Gives more general results on the gradualness of the median point of Lagranges median theorem and first median theorem for integrals and its succinct proof.
+    给出了拉格朗日微分中值定理和第一积分中值定理中值点的渐进性的更一般性的结果及其简洁证明。
+  2.EPF and RUP address this concern by separating a rich reference library of practices from a succinct description of how the team chooses to work in their specific project.
+    EPF和RUP通过将一个实践丰富的引用库，与这个团队是如何选择到他们特殊项目中工作的简洁描述分离来解决这个问题。
+  3.The move lay in its pure succinct phantom true purification my mind.
+    感动在于其纯净简练的影像真正的净化了我的心灵。
+

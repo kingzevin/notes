@@ -1774,3 +1774,5 @@ de facto
 
 bloatware
 
+succinct
+

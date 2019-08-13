@@ -17253,3 +17253,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.High-precision motion of robot manipulators depends not only on the position accuracy of each actuator , but also on the position synchronization of all actuators.
     高精度的机器人运动不仅需要每单个执行机构运动的位置的准确，而且需要所有执行机构的运动同步。
 
+actuate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['æktʃʊeɪt; -tjʊ-]    美: ['æktʃuet]
+
+     vt. 开动（机器等）；促使，驱使；激励（人等）
+    
+
+  1.
+    
+  2.The constant angular rate was applied to three axis of turntable at the same time to actuate dynamic error term of accelerometer.
+    在三轴转台的三个轴上同时施加恒定角速率，激励出加速度计动态误差项。
+  3.To achieve an in- focus and magnified image , the researchers actuate the hydraulics to change the curvatures of the lens and detector in a coordinated manner.
+    为了获取一个内焦距放大的图像，研究人员开动液压装置，改变透镜曲率，以协调方式改变检测器。
+

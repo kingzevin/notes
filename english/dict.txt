@@ -17239,3 +17239,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But every once in a while, the use of a word like “ still ” or “ only ”, stuck in an other boilerplate sentence , will signal actual news.
     但是，时不时的，像“依然”“仅仅”这样的词被放进另一个文件句子中时，就将会传递新的实质性的新闻信息。
 
+actuator
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['æktjʊeɪtə]    美: ['æktʃʊ,etɚ]
+
+     n. [自] 执行机构；激励者；促动器
+    
+
+  1.In the pipe system , the main function of the valve actuator to receive control signal.
+    在管道系统中主要起调节作用，阀门执行机构接收到控制信号。
+  2.Therefore , it has a fast response electric actuator and the executing agency of the thrust piston big and so on.
+    因此，它具有电动执行机构的快速响应性和活塞式执行机构的推力大等优点。
+  3.High-precision motion of robot manipulators depends not only on the position accuracy of each actuator , but also on the position synchronization of all actuators.
+    高精度的机器人运动不仅需要每单个执行机构运动的位置的准确，而且需要所有执行机构的运动同步。
+

@@ -17209,3 +17209,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3."[ If ] conditions on the ground change , then you must be agile and adjust , and I hope we all understand that ," he said.
     他说：“如果具体情况变了，那么你就必须灵活地调整策略，我希望我们都能明白这一点。”
 
+tinker
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['tɪŋkə]    美: ['tɪŋkɚ]
+
+     n. 补锅匠；（经验不足的）修补匠；焊锅；修补；吉普赛人；流浪者；小淘气；（美）小鲭鱼
+     v. （徒劳地或马虎地）小修补；笨手笨脚地做事；做焊锅匠；焊补
+     n. (Tinker) （美）廷克（人名）
+    
+
+  1.The base speed of Goblin Tinker in Robot form reduced from 270 to 250 for its heavy Mechanical Body.
+    机器人形状的地精修补匠的移动速度从270降到250（由于它那粗笨的机械身躯）。
+  2.That 's where the ship- builders and dramatists have the advantage over us others : they can dock their productions and tinker at them.
+    这就是背后的建设者和剧作家有超过别人的优势我们：它们可以停靠在他们的生产，修补。
+  3.The assumption in here" – he nods impatiently towards the House of Commons – " is that we tinker with this economic system , and then go back to 60 consecutive quarters of growth.
+    可能出现的情况是（他匆匆朝经过的下院议员们点了点头）我们随意地修补了这个经济系统，然后重回到持续了60个季度的经济增长。
+

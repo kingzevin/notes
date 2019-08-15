@@ -17632,3 +17632,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.All hexagonal pencils , however , seem to give your robot the energy it needs to walk.
     所有六角形铅笔，但是，似乎给了你的机器人的能源需要走。
 
+animate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['ænɪmeɪt]    美: ['ænɪmet]
+
+     vt. 使有生气；使活泼；鼓舞；推动
+     adj. 有生命的
+    
+
+  1.How do you animate characters in the computer ?
+    你怎样在电脑上给角色做动画？
+  2.You can animate almost any graphic image or text you put on the page.
+    你几乎可以将任何放在页面上的图片或者文本动画化。
+  3.You can also select portions of your images and just animate those parts.
+    您也可以选择部分，你的图像和动画刚才的那些部分。
+

@@ -17555,3 +17555,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.IT IS a sign of remarkable times that the prospect of $ 100 oil is greeted with relief rather than trepidation.
     这是一个不平凡时刻的象征：100美元的油价预期带给人们是更多的是安慰而不是颤抖。
 
+lobby
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: ['lɒbɪ]    美: ['lɑbi]
+
+     n. 大厅；休息室；会客室；游说议员的团体
+     vt. 对……进行游说
+     vi. 游说议员
+    
+
+  1.She introduced me into the lobby.
+    她把我引进了休息室。
+  2.Next we entered the lobby of a large hotel , where we asked for a coffee shop and a bathroom.
+    接着我们走进了一家大旅馆的大堂，在那里我们打听咖啡厅和洗手间在哪里。
+  3.But what if you could take a detour through a lobby that exhibits art , or down a lane that borders a green space ?
+    但是，你愿不愿意绕道穿过一个陈列着艺术品的大厅，或者行走在一条毗邻绿色空间的小巷子？
+

@@ -17603,3 +17603,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     palate
     n. 味觉；[解]上颚；趣味
 
+palette
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['pælɪt]    美: ['pælət]
+
+     n. 调色板；颜料
+     n. (Palette)人名；(法)帕莱特
+    
+
+  1.What could you do today to expand your " emotional palette "?
+    今天，你怎样才能扩大你的“情绪调色板”呢？
+  2.The color palette , texture query Reference , where you can pick and query of any color to your heart.
+    颜色，调色板，纹理查询参考大全，在这里您可以挑选和查询到你心中的任意颜色。
+  3.The plan is to create a new palette for each character.
+    该计划是建立一个新的调色板的每个字符。
+

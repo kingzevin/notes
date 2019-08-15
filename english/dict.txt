@@ -17511,3 +17511,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.We do not know what has happened to your predecessor.
     我们不知道你的前任们发生了什么事情。
 
+maneuver
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [mə'nʊvə]    美: [mə'nʊvɚ; mə'njʊvɚ]
+
+     n. [军] 机动；演习；策略；调遣
+     vi. [军] 机动；演习；调遣；用计谋
+     vt. [军] 机动；演习；用计；调遣
+    
+
+  1.The city is an opportunity for maneuver.
+    对策略而言城市是一种机会。
+  2.You have no room to maneuver , no time to think.
+    你没有回旋的空间，没有思考的时间。
+  3.This is a very stable position , the stability continuing into the air part of this maneuver.
+    这是一个非常稳定的立场，稳定持续到空气中的一部分，这一演习。
+

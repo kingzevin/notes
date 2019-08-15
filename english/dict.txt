@@ -17571,3 +17571,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But what if you could take a detour through a lobby that exhibits art , or down a lane that borders a green space ?
     但是，你愿不愿意绕道穿过一个陈列着艺术品的大厅，或者行走在一条毗邻绿色空间的小巷子？
 
+tangleed
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    word 'tangleed' not found, do you mean?
+
+    tangled
+    adj. 紊乱的；纠缠的；缠结的；复杂的
+    dangled
+    adj. 悬挂着的 | v. 挂；悬荡；吊着（dang...
+

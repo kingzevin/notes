@@ -17618,3 +17618,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The plan is to create a new palette for each character.
     该计划是建立一个新的调色板的每个字符。
 
+hexagonal
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [hek'sæɡənəl]    美: [hɛk'sægənl]
+
+     adj. 六边的，六角形的
+    
+
+  1.Do you know whether there are hexagonal pyramids in the world ?
+    你知道世界上是否有底面为六角的金字塔吗？
+  2.Take the beehive , and its hexagonal honeycomb.
+    拿蜂箱和它六边形的蜂巢作例子。
+  3.All hexagonal pencils , however , seem to give your robot the energy it needs to walk.
+    所有六角形铅笔，但是，似乎给了你的机器人的能源需要走。
+

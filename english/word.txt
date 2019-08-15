@@ -1818,3 +1818,5 @@ palatte
 
 palette
 
+hexagonal
+

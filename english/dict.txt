@@ -17706,3 +17706,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.See Resources for a link to the source of this excerpt.
     请参见参考资料以获取有关这个摘录的链接。
 
+period
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['pɪərɪəd]    美: ['pɪrɪəd]
+
+     n. 周期，期间；时期；一段时间；经期；课时；句点，句号
+     adj. 某一时代的
+    
+
+  1.During this period , the team should be well structured.
+    在此期间，团队应该是构建良好的。
+  2.You only have to go through the conditioning period once.
+    你只要度过了调节期那段时间就可以了。
+  3.But during their growth period.
+    但是在生长的期间。
+

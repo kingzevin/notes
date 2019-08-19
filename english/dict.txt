@@ -17840,3 +17840,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He seems unabashed by his recent defeat.
     他似乎对最近的失利并不在乎。
 
+posit
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['pɒzɪt]    美: ['pɑzɪt]
+
+     vt. 安置；假定
+     n. 假设；设想
+    
+
+  1.When we posit an intention we just decide which of these speakers it is.
+    当我们假定这样一种意图时,必须裁定哪一个是说话人。
+  2.I can only posit a theory , but I tend to blame the higher rate of mortifying sex scenes in novels by men on the nature of their fantasies.
+    我只能在此假定一个理论，但是又想责备那些小说中高频率出现的令人痛心的性描写，作者是那些依靠幻想天性的男人们。
+  3.A common strategy is to posit some externalcause such as population growth , climate change , or a new technology , and thenshow its effect on institutions and culture.
+    一个通常的策略是假设一些诸如人口增长、气候变化、技术革新的外因，然后说明其对制度与文化的作用。
+

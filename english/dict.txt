@@ -17780,3 +17780,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.You can see why there 's a backlash against this style of decoupling.
     您可以看到为什么对这种形式的解耦会有激烈的反对。
 
+delve
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [delv]    美: [dɛlv]
+
+     vi. 钻研；探究；挖
+     vt. 钻研；探究；挖
+     n. 穴；洞
+     n. (Delve)人名；(英)德尔夫
+    
+
+  1.A glaze ultimately intended to delve the user into the land of intuition , returning the light from inside out into the stadium at night.
+    最外面一层的玻璃意图让使用者挖掘空间的直觉感受，同时实现在夜晚，将光线引入到体育场内部。
+  2.In this list I delve into the world of theater superstitions and try to provide the reasons for their existence.
+    在这个列表中我深挖了世界上的剧院迷信并试图提供他们存在的原因给你们。
+  3.Ah this is a complex subject , but one that we will delve into.
+    啊，这是一个复杂的题目，但是我们将钻研它。
+

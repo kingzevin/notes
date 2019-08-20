@@ -17855,3 +17855,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.A common strategy is to posit some externalcause such as population growth , climate change , or a new technology , and thenshow its effect on institutions and culture.
     一个通常的策略是假设一些诸如人口增长、气候变化、技术革新的外因，然后说明其对制度与文化的作用。
 
+tweak
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [twiːk]    美: [twik]
+
+     v. 扭；（非正式）稍微调整机器或系统；用力拉；焦急
+     n. 扭；轻微调整
+    
+
+  1.And that you might need to tweak even the best long-term portfolio once a year or so.
+    即使是最好的长期投资组合，你也可能需要每年或一定时间做些调整。
+  2.I like to think of querystrings as the knobs of URLs — something to tweak your current view and fine tune it to your liking. That ’s why they work so great for sorting and filtering actions.
+    我喜欢把查询串想象成URL的旋钮——其调整你的当前视图，把它按照你的喜好来进行微调，这就是为什么它们用在排序和过滤这些行为上会如此之棒。
+  3.Get your idea out there , get feedback , tweak , get more feedback , and keep it up!
+    把你的想法实行出来、得到反馈、再接再励、获得更多反馈、继续保持！
+

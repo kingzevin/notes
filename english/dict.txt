@@ -17884,3 +17884,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Regardless of who the president is -- today tomorrow or decades hence -- we do best to show fidelity to that achievement.
     不管总统是谁-今天的、明天的或今后几十年的，我们都最好表现出对这一成就的忠诚。
 
+synthesize
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['sɪnθəsaɪz]    美: ['sɪnθəsaɪz]
+
+     vt. 合成；综合
+     vi. 合成；综合
+    
+
+  1.Can you synthesize them to one ?
+    你能把它们合成一个吗？
+  2.They have developed all kinds of tools to synthesize and manipulate this molecule.
+    他们已经研究出各种各样合成和处理这些分子的方法。
+  3.We experience to synthesize the 30 years of Milan ? Who the strongest between its sodali ?
+    我们综合您在米兰的这30年的经历，你认为最强大的前锋是谁呢？
+

@@ -17929,3 +17929,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.He said : ' Rather than worrying about being an apple or an hourglass , we want people to think about what they look like from the side.
     他说道：“我们关心的不是‘苹果形’和‘沙漏形’身材，而是想让人们想想他们的侧面是什么样的。”
 
+chunk
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [tʃʌŋk]    美: [tʃʌŋk]
+
+     n. 大块；矮胖的人或物
+    
+
+  1.Yeah , a pointer to this chunk of memory.
+    是的，一个指向这块内存的指针。
+  2.This can add up to a nice chunk of cash at the end of the year for your business.
+    这可以添加到一个好的大块的现金，在今年年底前，为您的业务。
+  3.Each chunk is executed as the body of an anonymous function.
+    每个块都是作为一个匿名函数体来执行的。
+

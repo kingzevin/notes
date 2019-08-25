@@ -17971,3 +17971,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He pointed out that " everybody is the intellectual " if we identify the intellectual only by the intrinsic of the intelligent work , therefore , we must limit the intellectual in the certain society.
     他指出：如果仅从智识活动的内在性上来确定知识分子范畴，那么“人人都是知识分子”，因此要从一定的社会关系中来界定知识分子。
 
+convolutional
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英:     
+
+     adj. 卷积的；回旋的；脑回的
+    
+
+  1.Discusses noise suppression in speech recognition under conditions of additive and convolutional noise.
+    主要论述加性和卷积性噪声条件下语音识别的抗噪方法。
+  2.On the basis of computer simulations and analysis by comparison , the feasibility of applying the BCJR algorithm to convolutional codes is further explored.
+    在计算机仿真和比较分析的基础上，进一步探讨了BCJR算法在卷积码译码中的应用条件。
+  3.In modern communication , Error-Correcting Codes are often used to improve the system performance , among which the convolutional code is adopted widely because of its excellent capability.
+    在现代通信中，常常使用纠错编码技术来提高系统性能，其中卷积码由于其出色的纠错性能而得到了广泛使用。
+

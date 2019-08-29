@@ -18053,3 +18053,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.It demonstrates the practicability of particle swarm optimization method in slope engineering.
     论证了粒子群优化算法在边坡工程中的实用性。
 
+archenemy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['ɑːtʃ'enəmɪ]    美: 
+
+     n. 主要敌人，大敌；撒旦，魔王
+    
+
+  1.The lampblack of the kitchen is the archenemy of mom , to this everybody detest.
+    厨房的油烟是妈妈们的大敌，对此大家深恶痛绝。
+  2." So this is a period of turbulence in an organization which is our archenemy .This is a period, therefore, that all military doctrine suggests you need to go for the knockout punch ," he said.
+    道格·鲁特说：“现在是我们的敌人感到十分动荡的日子，正因如此，所有的军事信条都显示我们美国要有能力对敌人进行致命打击。”
+

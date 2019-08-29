@@ -17994,3 +17994,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     nightlife
     n. 夜生活
 
+nightly
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['naɪtlɪ]    美: ['naɪtli]
+
+     adj. 夜间的；每夜的
+     adv. 每夜
+    
+
+  1.This is done while the table is off-line during a nightly batch window.
+    这是在一个每夜批处理窗口中当表离线的时候完成的。
+  2." It 's like nightly catharsis …… maybe we should all do it, " she said on the blog.
+    她在博客上说，“这像个夜间净化工作……也许我们都应该这么干干。”
+  3.For example , some projects might not be able to build on each commit but instead initiate a single daily or nightly integration build.
+    例如，一些项目也许不能构建在每个提交上，取而代之的是计划一个单个的每日或每夜的集成构建。
+

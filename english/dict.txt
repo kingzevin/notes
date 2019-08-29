@@ -18038,3 +18038,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you could codify or quantify everything that's ever been said or written , that would be langage.
     假如你可以编纂或者量化,每一件说过或写下的东西，那就是言语活动。
 
+swarm
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [swɔːm]    美: [swɔrm]
+
+     n. 一大群；蜂群；人群；一大群小型天体同时在空中出现
+     v. 成群来回移动；蜂拥而至；挤满；爬；（蜜蜂）成群飞离蜂巢
+    
+
+  1.You get them from the Portal , "The Swarm " and Buzzer hives.
+    你可以从传送门，“召唤蜂群”和蜂巢得到他们。
+  2.Swarm - works have opened up not only a new writing space for us , but a new thinking space.
+    蜂群的工作模式为我们开启的不仅是新的写作空间，而且是新的思考空间。
+  3.It demonstrates the practicability of particle swarm optimization method in slope engineering.
+    论证了粒子群优化算法在边坡工程中的实用性。
+

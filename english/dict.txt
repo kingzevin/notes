@@ -17985,3 +17985,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In modern communication , Error-Correcting Codes are often used to improve the system performance , among which the convolutional code is adopted widely because of its excellent capability.
     在现代通信中，常常使用纠错编码技术来提高系统性能，其中卷积码由于其出色的纠错性能而得到了广泛使用。
 
+nightlyu
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'nightlyu' not found, do you mean?
+
+    nightly
+    adj. 夜间的；每夜的 | adv. 每夜
+    nightlife
+    n. 夜生活
+

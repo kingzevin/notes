@@ -18009,3 +18009,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.For example , some projects might not be able to build on each commit but instead initiate a single daily or nightly integration build.
     例如，一些项目也许不能构建在每个提交上，取而代之的是计划一个单个的每日或每夜的集成构建。
 
+endeavour
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ɪn'devə; en-]    美: [ɪndɛvəʳ]
+
+     v. 努力，尽力
+     n. 努力，尝试；事业
+    
+
+  1.We should wish China well in this endeavour.
+    我们应当希望中国这次的努力富有成效。
+  2.We may endeavour to determine the nature of these sources in another way.
+    我们会努力，以确定的性质，这些来源的另一种途径。
+  3.It was to some extent a collective endeavour , to which you all contributed , and from which I , Jeshua , was the visible , physical representative.
+    某种程度上，这是一种集体性的努力，你们都对此做出了自己的贡献。我，约书亚，是其中一个看得见的肉身代表。
+

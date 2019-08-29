@@ -18065,3 +18065,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2." So this is a period of turbulence in an organization which is our archenemy .This is a period, therefore, that all military doctrine suggests you need to go for the knockout punch ," he said.
     道格·鲁特说：“现在是我们的敌人感到十分动荡的日子，正因如此，所有的军事信条都显示我们美国要有能力对敌人进行致命打击。”
 
+facet
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['fæsɪt; -et]    美: ['fæsɪt]
+
+     n. 面；方面；小平面
+     vt. 在…上琢面
+    
+
+  1.They beat us in every facet of the game.
+    他们在比赛的每个小层面都打败了我们。
+  2.Write down goals for every facet of your life.
+    写下你生命中各个方面的目标。
+  3.Now to our thugs : We are going to remove all of you during the mini stasis , in every facet of your control.
+    现在给我们的凶手们：我们将要移除全部的你们——在微型停滞期期间，在你们控制的每个方面。
+

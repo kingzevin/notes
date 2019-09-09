@@ -18268,3 +18268,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.After all , if the government will never allow you to fail due to the problems the public would face , then you cannot be treated like other firms , since you are not susceptible to failure.
     毕竟，政府如果因为公众可能会面对的问题，而绝对无法让你倒闭，那样你就无法被像其他公司一样对待了，此时你对破产不怎么敏感。
 
+anomaly
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ə'nɒm(ə)lɪ]    美: [ə'nɑməli]
+
+     n. 异常；不规则；反常事物
+    
+
+  1.Once you consciously notice this anomaly it is too late to reverse it.
+    一旦你有意识地注意到这种异常，要反转它已太迟了。
+  2.The anomaly migration velocity does not increase linearly but non linearly.
+    异常迁移速率不是线性增加，而为非线性递增。
+  3.There is no causality between precursor anomaly and earthquakes . There may be the accompanying or twin relation between them.
+    前兆异常和地震不是因果关系，是伴生或孪生的关系，它们都是构造活动的产物。
+

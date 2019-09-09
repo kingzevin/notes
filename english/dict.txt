@@ -18168,3 +18168,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The silhouette of my pain.
     是我的痛苦的轮廓。
 
+centroid
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['sentrɒɪd]    美: ['sɛntrɔɪd]
+
+     n. （数）形心
+    
+
+  1.For example centroid analysis and to facilitate them to learn and use.
+    对于形心分析和算例，方便大家学习和使用。
+  2.This paper presents an algorithm for target image extraction and high precious target centroid tracking in complex environment.
+    本文介绍一种复杂背景中目标图像的提取与高精度目标形心跟踪算法。
+  3.When the safety factor of the centroid is the minimum , the dimensions of the matrix lets up the half by dichotomy to precede the calculation until satisfy the request.
+    当该矩阵的安全系数在形心处最小时，运用二分法将控制收敛矩阵尺寸减小一半进行计算，直到满足要求为止。
+

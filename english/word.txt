@@ -1894,3 +1894,5 @@ distortion
 
 silhouette
 
+centroid
+

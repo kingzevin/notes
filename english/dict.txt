@@ -18182,3 +18182,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.When the safety factor of the centroid is the minimum , the dimensions of the matrix lets up the half by dichotomy to precede the calculation until satisfy the request.
     当该矩阵的安全系数在形心处最小时，运用二分法将控制收敛矩阵尺寸减小一半进行计算，直到满足要求为止。
 
+in the order of
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+     按…次序；大约
+    
+
+  1.The unusual shape of the pot dates it in the order of A. D. 600.
+    这个壶的特殊形状使人们可以确定它的年代大约为公元600年。
+  2.So if you're reactor is on the scale of meters the neutron length scales , it looks like a thermal neutron , is in the order of a tenth of a meter.
+    所以，如果你的反应堆是在几米的范围里,那是中子的长度范围，它看起来像是一个热中子，那大约是十分之一米。
+  3.Foucault continues , Instead , these questions will be raised : " How , under what conditions , and in what forms can something like a subject appear in the order of discourse ?
+    福柯继续说，取而代之的，这些问题会被问到：“哪种情况下，一个类似主题的东西会如何,以什么形式的话语顺序出现？
+

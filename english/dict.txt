@@ -18094,3 +18094,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Looking through a magnifying glass , Hanley focussed on the most legible fingerprint , which appeared to be covered with a clear finishing coat , like a varnish.
     透过放大镜看，汉利将注意力集中到一枚最清晰的指纹上，这枚指纹表明似乎覆盖着一层罩膜，像是上光漆。
 
+spline
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [splaɪn]    美: [splaɪn]
+
+     n. 花键；齿条；曲线尺；塞缝片
+     vt. 开键槽；用花键联接
+    
+
+  1.It also lets you bend the objects along the spline.
+    它也可以让你沿着弯曲的样条对象。
+  2.The paper introduces a way of measuring the deflection involute spline , and the calculation of diameter and distance of the measuring bar.
+    介绍了用量棒检测变位渐开线花键的方法，以及量棒直径、跨棒距、棒间距的计算方法和公式。
+  3.But because of the elasticity recovery of metal in rolling manufacturing procedure , the gear form and precision of the spline are influenced.
+    但是在冷滚轧加工过程中，金属的弹性恢复对花键的最终尺寸精度以及齿形质量有一定的影响。
+

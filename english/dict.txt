@@ -18109,3 +18109,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But because of the elasticity recovery of metal in rolling manufacturing procedure , the gear form and precision of the spline are influenced.
     但是在冷滚轧加工过程中，金属的弹性恢复对花键的最终尺寸精度以及齿形质量有一定的影响。
 
+polymorphism
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [,pɒlɪ'mɔːfɪz(ə)m]    美: [,pɑlɪ'mɔrfɪzm]
+
+     n. 多态性；多形性；同质多晶
+    
+
+  1.It supports polymorphism very well as you merely have records in the appropriate tables for each role that an object might have.
+    它能够很好地支持多态性，对于对象可能有的每个角色，只需要在相应的表中保存记录。
+  2.A gene polymorphism and susceptibility to disease and disease phenotype correlation there is the gene directly involved in the pathogenesis of corroboration.
+    而一个基因的多态性与疾病易感性及疾病表型都存在关联，是该基因直接参与发病的佐证。
+  3.This is an excellent application to review in order learn the basics of the object -oriented principles inheritance and polymorphism , both in terms of what they are and how to implement them in VB.
+    这是一个非常好的应用程序，用来回顾适宜学习的面向对象原理继承和多态性的基础，根据它们各自的内容，以及如何在VB中实现它们。
+

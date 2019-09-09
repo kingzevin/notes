@@ -18209,3 +18209,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.They are thought to be relatively stationary within the Earth , while plates and continents move above them.
     在地球内部它们被认为是相对固定的，而板块和大陆就在其上面移动。
 
+spurious
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: ['spjʊərɪəs]    美: ['spjʊrɪəs]
+
+     adj. 假的；伪造的；欺骗的
+    
+
+  1.When adopting this mixing skill , the first job is to reconsider people that you already know but have dismissed on possibly spurious grounds.
+    当采取这个交往方法，第一步是考虑那些你已经认识但是因为可能的假根据而排除在外的人。
+  2.While the mail server is bogged down with all the spurious requests , it can't handle real e -mails , some of which may be sales leads or support requests.
+    邮件服务器被所有这些假请求所包围，无法处理真正的电子邮件，而其中一些邮件可能是销售线索或支持请求。
+  3.The widow was persuaded by an unscrupulous rogue to " invest " all her money in a spurious company. Needless to say , both rogue and money disappeared for ever.
+    一个无耻的无赖劝说这位寡妇把所有钱都投到一家假公司里。不用说，那无赖和寡妇的钱从此就没有了下落。
+

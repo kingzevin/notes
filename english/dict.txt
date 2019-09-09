@@ -18123,3 +18123,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This is an excellent application to review in order learn the basics of the object -oriented principles inheritance and polymorphism , both in terms of what they are and how to implement them in VB.
     这是一个非常好的应用程序，用来回顾适宜学习的面向对象原理继承和多态性的基础，根据它们各自的内容，以及如何在VB中实现它们。
 
+polynomial
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [,pɒlɪ'nəʊmɪəl]    美: [,pɑlɪ'nomɪəl]
+
+     adj. 多项的，多词的；多项式的
+     n. 多项式；多词拉丁学名；表示任何多项数之和
+    
+
+  1.We prescribe a incentive contract of two order polynomial and a two - state distribution of noise.
+    我们规定了一个二阶多项式的激励契约与一个两状态的噪声分布。
+  2.Both the state space method and the polynomial matrix interpolation method are introduced to solve the problem.
+    分别引入了解决这一问题的状态空间方法和多项式矩阵插值方法。
+  3.In this paper , we present a new match protocol . It is of semantic security : there exists no probabilistic polynomial time algorithm to distinguish two guessed inputs.
+    本文给出了一个新的匹配协议，该协议是语义安全的，不存在概率多项式时间算法区分对两个输入的猜测值。
+

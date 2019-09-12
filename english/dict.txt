@@ -18440,3 +18440,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.So that means that any inference to a matter of fact beyond what we perceive or remember seems if Hume is right do we based on assumption of causality.
     如果休谟给出我们基于因果关系的假设是正确的,这么一来就意味着任何关于物质事实的推断,都高于我们的感知和记忆。
 
+inflight
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['inflait]    美: 
+
+     adj. 飞行中的，飞行中发生的
+    
+
+  1.Could you give us some advice on how to improve our inflight service ?
+    您可以就如何提高机上质量给我们提些建议吗?。
+  2.The criteria for the award included the quality of inflight entertainment , best movie selection , TV and documentary programmes , and best audio choices.
+    奖项评选的标准包括机上娱乐节目的质量、最佳精选电影、电视和纪录片以及最佳音频节目。
+  3.Inflight measurement of antenna pattern is a key technology of spaceborne SAR calibration.
+    天线方向图在轨测量是星载SAR定标技术的关键部分。
+

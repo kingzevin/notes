@@ -18363,3 +18363,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If you implemented X it would take a ton of time and morph what you ’re doing.
     如果你真去做了，那会花去大量的时间，并且会使你正在做的事情“变形”。
 
+thrust
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [θrʌst]    美: [θrʌst]
+
+     v. 插；插入；推挤；插入；用向某人刺去；猛然或用力推；伸展；强使接受；竖起，挺出
+     n. 推力；刺；要旨，重点；强攻；冲断层，逆断层；苛评
+    
+
+  1.He thrust all the responsibility on me.
+    他把全部责任硬推给我。
+  2.Point your ship in the direction you want to go , and thrust.
+    把你的飞船朝向你想要飞去的方向，然后推进即可。
+  3.Without thrust and fuel in the tank , we inevitably return to earth.
+    没有推力和油箱的燃料，我们不可避免地返回地球。
+

@@ -18348,3 +18348,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.He spent the second half of his career trying to poke holes in the theory and to subsume it in a unified theory that would restore certainty and determinism to physics.
     他在科学生涯的后一半时间试图给这个理论找漏洞，并想将其纳入到一个统一的能让物理重新恢复必然性和决定论。
 
+morph
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [mɔːf]    美: [mɔrf]
+
+     n. 形素，语素；形态；图像变换
+     v. （使）图像变形；将（图像）进行合成处理；改变，变化，变形
+    
+
+  1.This is a distinct morph of boa constrictor.
+    这是一个独特的形态的博阿压缩。
+  2.Sometimes all a room needs is one bold stroke of color for it to morph from dreary to dramatic.
+    有时候，所有的房间需要的是一个大胆的色彩中呈现出它形态从沉闷的戏剧性。
+  3.If you implemented X it would take a ton of time and morph what you ’re doing.
+    如果你真去做了，那会花去大量的时间，并且会使你正在做的事情“变形”。
+

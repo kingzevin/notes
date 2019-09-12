@@ -18296,3 +18296,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Temptation comes to all of us , whether or not we succumb depends on our ability to recognize its disguise.
     每个人都会受到诱惑，我们是否屈服与诱惑决定于我们识破其伪装的能力。
 
+niche
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    word 'niche' not found, do you mean?
+
+    汽车
+    car | automobile | motor vehicle
+

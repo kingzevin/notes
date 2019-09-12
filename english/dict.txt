@@ -18411,3 +18411,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.I suggest you continue to heed the call.
     我建议你继续听从我们的召唤。
 
+chronicle
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['krɒnɪk(ə)l]    美: ['krɑnɪkl]
+
+     n. 编年史，年代记；记录
+     vt. 记录；把…载入编年史
+    
+
+  1.Before the Chronicle I used to take the Guardian.
+    在订阅《纪事报》以前，我看的是《卫报》。
+  2.We take this chance to chronicle the story of this unique collection , with series of daily articles.
+    我们借此机会纪事故事这一独特的收藏，与一系列曰常物品。
+  3.It is impossible to chronicle the efforts at expressing essence without pointing to diversity within the unity.
+    没有指出合一里面的差异性，努力去以编年史的方式去表达其本质是不可能的。
+

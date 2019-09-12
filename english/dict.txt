@@ -18303,3 +18303,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     汽车
     car | automobile | motor vehicle
 
+tout
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [taʊt]    美: [taʊt]
+
+     vt. 兜售；招徕；刺探赛马情报
+     vi. 兜售；招徕顾客；拉选票
+     n. 侦查者；兜售者
+     n. (Tout)人名；(英)陶特
+    
+
+  1.Politicians of all stripes tout green technology , but that is speculative, and it is not clear how the government can best nurture it.
+    各派政客都在兜售环保科技，但他们底气不足，因为政府还未明确指出开发该科技的最佳途径。
+  2.Having a ' green ' IT department would be a great PR victory and firms can tout their leadership role in trying to " reduce the footprint ". ?
+    有一个'绿色'的IT部门将是一个很大的公关胜利，并行可以兜售自己的领导作用，试图“降低足印”。
+  3.Firms everywhere like to tout their digital innovations , and boast of having “ first-mover advantage ”.
+    企业喜欢到处兜售他们的数字创新产品，同时夸耀自己“先发制人”的优势。
+

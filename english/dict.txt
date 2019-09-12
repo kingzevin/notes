@@ -18470,3 +18470,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.' Billy , I think it 's your turn to wash the dishes , ' said Jane. A noncommittal grunt was his only reply.
     “比利，我想这次该轮到你刷盘子了， ”简说。他只是不置可否地咕哝了一声算作回答。
 
+ingress
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['ɪngres]    美: ['ɪnɡrɛs]
+
+     n. 进入；入口；准许进入；入境
+     n. (Ingress)人名；(英)英格雷斯
+    
+
+  1.A high seating position makes ingress and egress easy.
+    较高的座椅位置使入口和出口容易。
+  2.The rugged construction is double- sealed to prevent water dust ingress even during site wiring.
+    坚固的建筑是双重密封，以防止水和灰尘进入即使在现场布线。
+  3.The rugged construction is double- sealed to prevent water and dust ingress even during site wiring.
+    坚固的建筑是双重密封，以防止水和灰尘进入即使在现场布线。
+

@@ -18454,3 +18454,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Inflight measurement of antenna pattern is a key technology of spaceborne SAR calibration.
     天线方向图在轨测量是星载SAR定标技术的关键部分。
 
+grunt
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [grʌnt]    美: [ɡrʌnt]
+
+     v. 作呼噜声；发哼声；咕哝着说
+     n. 咕哝，呼噜声；工作乏味收入低的工人；步兵；（机动车辆的）动力；石鲈鱼
+     n. (Grunt) （俄、捷、波、美）格伦特（人名）
+    
+
+  1.His only answer was a grunt.
+    他只咕哝了一声算是回答了。
+  2.To sleep on my own and not hear the boys snore or grunt was pure bliss.
+    自己一个人睡、不用听男孩们的鼾声或咕哝声简直是幸福极了。
+  3.' Billy , I think it 's your turn to wash the dishes , ' said Jane. A noncommittal grunt was his only reply.
+    “比利，我想这次该轮到你刷盘子了， ”简说。他只是不置可否地咕哝了一声算作回答。
+

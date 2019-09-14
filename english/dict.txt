@@ -18485,3 +18485,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The rugged construction is double- sealed to prevent water and dust ingress even during site wiring.
     坚固的建筑是双重密封，以防止水和灰尘进入即使在现场布线。
 
+quota
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ˈkwəʊtə]    美: [ˈkwoʊtə]
+
+     n. 定额；限额；配额；指标；（候选人当选所需的）规定票数，最低票数
+    
+
+  1.So what should the quota be this year ?
+    那么，今年的配额该是多少呢？
+  2.We fulfilled the quota in half the time.
+    我们只用一半时间就完成了定额。
+  3.You have exceeded your quota for storing mail on this server.
+    您已经超过了在此服务器上存储邮件的配额。
+

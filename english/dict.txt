@@ -18530,3 +18530,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The silhouette of my pain.
     是我的痛苦的轮廓。
 
+verbose
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [vɜː'bəʊs]    美: [vɝ'bos]
+
+     adj. 冗长的；啰嗦的
+    
+
+  1.As you can see , this is rather verbose , but it works !
+    正如你所见，这是相当冗长，但它工作！
+  2.When you ignore the verbose XSLT syntax and view this as a simple test , the coding is very similar to that of a concept or task.
+    如果忽略冗长的XSLT语法，将其看作是简单的测试，那么这些代码会和用于概念或任务的代码非常类似。
+  3.You should certainly use these in preference to the more verbose traditional means of accomplishing the same thing.
+    你当然应该优先使用这些，而不是传统的冗长的方式，来完成相同的任务。
+

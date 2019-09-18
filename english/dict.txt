@@ -18544,3 +18544,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.You should certainly use these in preference to the more verbose traditional means of accomplishing the same thing.
     你当然应该优先使用这些，而不是传统的冗长的方式，来完成相同的任务。
 
+hamper
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: ['hæmpə]    美: ['hæmpɚ]
+
+     vt. 妨碍；束缚；使困累
+     n. 食盒，食篮；阻碍物
+    
+
+  1." This would hamper our relations with China , " he said in the meeting , according to the daily.
+    根据该日报的报道，他在该会议上说：“这会妨碍我们与中国的关系。”
+  2.The artery should get wider when blood flow in the area increases , but diseases such as atherosclerosis hamper this effect.
+    局部血流增加时，动脉应该增粗，但是诸如动脉粥样硬化之类的疾病妨碍这种作用。
+  3.If membranes become plastered with glyphosate , would this hamper the amount of enzyme secreted ?
+    如果胰腺薄膜粘贴上草甘膦，这是否会妨碍这些酶的分泌量？
+

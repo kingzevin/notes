@@ -18587,3 +18587,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The fan -out metric represents the number of uses of methods or attributes that are defined outside the class.
     分散度量代表在类之外定义的方法或属性的使用数。
 
+inclination
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ɪnklɪ'neɪʃ(ə)n]    美: ['ɪnklə'neʃən]
+
+     n. 倾向，爱好；斜坡
+    
+
+  1.Desire or inclination.
+    欲望或倾向。
+  2.If we read without inclination , half the mind is employed in fixing the attention ; so there is but one half to be employed on what we read.
+    如果我们不带这倾向去阅读，就要有一半的思维要用于保持注意力，用于阅读中的思维只剩下一半了。
+  3.For only intelligent animals have now forgotten this mutual desire and inclination , and in them alone the property of flowing together is not seen.
+    因为目前只有理性的动物忘记了这一相互的欲望和爱好，只有在他们那里看不到一起行动的特性。
+

@@ -18615,3 +18615,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.And I marvel that you can be so contemptuous of me on the same day that you lose your job ?
     我还很惊讶你怎么能在丢掉工作的当天如此轻蔑地和我说话？
 
+forensics
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英:     美: [fə'rɛnsɪks]
+
+     n. 辩论术；法医学
+    
+
+  1.At the same time , we hope this paper can make organization in forensics process less take some detours , realize economic benefit environmental benefit unified good wishes.
+    同时，我们希望本文可以让组织在取证过程中少走一些弯路，尽早实现经济效益环境效益统一的良好愿望。
+  2.The program teaches students about data protection , computer network protocols and vulnerabilities , security , firewalls and forensics , data hiding , and infrastructure and wireless security.
+    该计划指导学生有关数据保护，计算机网络协议和漏洞，安全性，防火墙和辩论术，数据隐藏，基…
+  3.It has meaning to raise efficiency , adaptability and extendibility of the dynamic forensics system , it can raise the reality and efficiency of electronic evidence too.
+    这些对提高动态取证系统的有效性、可适应性、可扩展性、智能化以及电子证据的真实性、有效性具有重要的意义。
+

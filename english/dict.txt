@@ -18658,3 +18658,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3." Avatar " asks us to see that everything is connected , all human beings to each other, and us to the Earth.
     《阿凡达》让我们看到万物相互关联，人与人之间是这样，我们与地球的关系也是如此。
 
+imperative
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ɪmˈperətɪv]    美: [ɪmˈperətɪv]
+
+     adj. 必要的，不可避免的；紧急的；命令的，专横的；势在必行的；[语]祈使的
+     n. 必要的事；命令；需要；规则；[语]祈使语气
+    
+
+  1.This is absolutely imperative as, while knowing the changes in DNA that predict disease is important , we can now do better.
+    这是绝对紧急的，当知道这些预测疾病的DNA中变化是重要的时，我们现在可以做的更好。
+  2.The transition from abstract data types to classes involves an important stylistic difference : the introduction of change and imperative reasoning.
+    从抽象数据类型到类的转变中包括了一个重要的格式差异：引进了变化和命令推理。
+  3.But it says " communications security , and specifically bandwidth protection [ from both friendly interference and adversary action ] is imperative.
+    但它说：“通信安全，具体的带宽保护[来自友好的干扰和对手的行动]是必要的。”
+

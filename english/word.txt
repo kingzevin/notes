@@ -1984,3 +1984,5 @@ pavement
 
 crosswalk
 
+get out of the taxi
+

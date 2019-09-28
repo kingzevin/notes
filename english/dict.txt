@@ -18844,3 +18844,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The ships are sailing from Mediterranean ports in Turkey and Europe to a rendezvous point near Cyprus.
     航行的船只从土耳其和欧洲地中海附近的一个港口塞浦路斯会合点。
 
+privy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ˈprɪvi]    美: [ˈprɪvi]
+
+     adj. 私人的；不公开的；秘密参与的
+     n. 有利害关系的人；厕所
+    
+
+  1.That is because most of the 12 retain the Privy Council in London as their court of final appeal.
+    那是因为这12国中大多数都将伦敦的枢密院做为他们的最终上诉法院。
+  2.For many countries ( especially commonwealth countries ) appealed may be hear from the highest court of these countries by the privy council.
+    对许多国家（尤其是英联邦国家）枢密院可能会审理来自最高法院的上诉。
+  3.You might create a two-way form that contains data to which only one user in the interaction should be privy.
+    您可以创建这样一个双向表单：只有交互中的一个用户能够访问表单数据。
+

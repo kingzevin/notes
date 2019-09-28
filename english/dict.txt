@@ -18859,3 +18859,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.You might create a two-way form that contains data to which only one user in the interaction should be privy.
     您可以创建这样一个双向表单：只有交互中的一个用户能够访问表单数据。
 
+prevailing
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [prɪˈveɪlɪŋ]    美: [prɪˈveɪlɪŋ]
+
+     adj. 流行的；一般的，最普通的；占优势的；盛行很广的
+     v. 盛行，流行（prevail的现在分词形式）；获胜
+    
+
+  1.So said the prevailing ideology of the age.
+    那个时代盛行的意识形态如是说。
+  2.I hope this book is not yet another restatement of the prevailing wisdom.
+    我希望这本书不会又是重复一些流行的至理名言。
+  3.We have a prevailing view in our society — not only in the policy world, but in many spheres — that we are divided creatures.
+    在我们的社会里有一种流行的观点——不但存在于政策领域，而且存在与许多其它领域——那就是我们是被分割的生物。
+

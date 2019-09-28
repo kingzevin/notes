@@ -18828,3 +18828,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.After buying a cup of coffee from the dispenser I strolled out of the snack room onto the penthouse balcony to gaze over the lovely campus.
     坐著电梯到了顶楼的快餐店，从自动售货机买了一杯咖啡后，我踱出小吃店，走到有遮阳雨篷的阳台边，欣赏这可爱的校园景色。
 
+rendezvous
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ˈrɒndɪvuː; ˈrɒndeɪvuː]    美: [ˈrɑːndɪvuː,ˈrɑːndeɪvuː]
+
+     n. 约会；约会地点；集结地
+     vi. 会合；约会
+     vt. 在指定地点与…相会
+    
+
+  1.With no rendezvous.
+    没有约会。
+  2.She wondered where they were going to rendezvous afterwards.
+    她想知道之后他们要去哪里约会。
+  3.The ships are sailing from Mediterranean ports in Turkey and Europe to a rendezvous point near Cyprus.
+    航行的船只从土耳其和欧洲地中海附近的一个港口塞浦路斯会合点。
+

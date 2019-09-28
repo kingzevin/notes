@@ -18714,3 +18714,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.What clothes should you take with you? I should take a down coat , and boots.
     你应该带什么衣服走？我应该带羽绒服和靴子。
 
+down jacket
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+     羽绒服；鸭绒衣；羽绒夹克
+    
+
+  1.I pulled out my down jacket , fuzzy scarf and uggs to battle against the winds !
+    我拿出我的羽绒外套，软绵绵的颈巾和羊毛靴一起跟广风战斗！
+  2.It was very cold outside , so she went out in a thick down jacket.
+    外面非常冷，所以她穿了一件厚厚的羽绒服出去了。
+  3.This is my new down jacket.
+    这是我的新羽绒服。
+

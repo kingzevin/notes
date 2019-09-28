@@ -1970,3 +1970,5 @@ pajamas
 
 down coat
 
+down jacket
+

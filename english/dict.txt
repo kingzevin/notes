@@ -18756,3 +18756,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.For dinner , he likes chicken and broccoli.
     正餐他喜欢吃鸡肉和花椰菜。
 
+go to bed late
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+     睡得晚
+    
+
+  1.Mom says we can go to bed late on Saturday.
+    妈妈说星期六晚上我们可以晚点上床睡觉。
+  2.Just because you can sleep in the next morning shouldn 't give you permission to go to bed late the night before.
+    正是因为你可以在第二天早上睡懒觉，所以不应该允许你自己在前一天晚上熬夜。
+  3.Do not go to bed late at night. Before you start the exam , read carefully over the question paper , and try to understand the exact meaning of each question.
+    不要去睡觉很晚在晚上。开始考试之前，读了这份文件进行认真的问题，并试图了解每个问题的确切含义。
+

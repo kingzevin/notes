@@ -1982,3 +1982,5 @@ sleep late
 
 pavement
 
+crosswalk
+

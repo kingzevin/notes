@@ -18951,3 +18951,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     free living
     免费搭乘；投机取巧；不担风险取利
 
+ﬂashcrowd
+Querying... █▒▒▒▒▒▒▒▒▒                        
+    word 'ﬂashcrowd' not found, do you mean?
+
+    flash crowd
+    
+

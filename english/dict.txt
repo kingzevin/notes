@@ -18933,3 +18933,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.International barter in which one country agrees to import commodities from another country to which it exports commodities.
     国际间的物物交换，一国家同意从另一国家进口商品，同时向它出口商品。
 
+freerid
+Querying... █▒▒▒▒▒▒▒▒▒                        
+    word 'freerid' not found, do you mean?
+
+    freed
+    adj. 释放的 | v. 使自由；解放（free的...
+    freer
+    n. 给予自由的人或事物
+

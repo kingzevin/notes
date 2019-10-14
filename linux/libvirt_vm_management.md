@@ -1,5 +1,7 @@
 # 在linux宿主机中利用libvirt和qemu配置ubuntu虚拟机
 
+``` bash 
+
 # virt install
 sudo virt-install --virt-type=kvm --name whisk1 --ram 4096 --vcpus=4 --os-variant=ubuntu14.04 --location=/var/lib/libvirt/boot/ubuntu14.iso --network=default,model=virtio --disk path=/var/lib/libvirt/images/ubuntu14_1.qcow2,size=40,bus=virtio,format=qcow2 --nographics --extra-args "console=ttyS0" -v
 
@@ -39,3 +41,4 @@ sudo lvextend -l +100%FREE /dev/VolGroup00/lvstuff1
 sudo mkfs -t ext3 /dev/VolGroup00/lvstuff1
 sudo mount -t ext3 /dev/VolGroup00/lvstuff1 llvm-install
 sudo chown -R zevin:zevin llvm-install
+```

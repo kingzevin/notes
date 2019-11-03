@@ -19112,3 +19112,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This is the chamber of the abbot.
     这是修道士的房间，非常简陋。
 
+sociologist
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ˌsəʊsiˈɒlədʒɪst]    美: [ˌsoʊsiˈɑːlədʒɪst]
+
+     n. 社会学家
+    
+
+  1.Her father was a professor of finance. Her mother was a sociologist.
+    她的父亲是一名金融教授，母亲是一位社会学家。
+  2.The findings of this sociologist are very interesting because they illustrate once again the relationship that exists between what we do in the present and the results we obtain in the future.
+    这个社会学家的发现是非常有趣的，因为他们在一次的说明我们现在做的和我们未来获得的结果有关系。
+  3.Not only is social class supposed not to exist in America , it is almost a dirty word —“ America's forbidden thought ”, in the words of one sociologist.
+    美国不仅不应该存在社会阶级，而且那几乎是一个肮脏的词——用一位社会学家的话来说就是“美国所禁忌的思想”。
+

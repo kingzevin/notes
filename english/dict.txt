@@ -19141,3 +19141,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Pope needed to stimulate the outside world to improve their lackluster life , but he did not know how to find stimulation.
     波普急需外界的刺激来改善自己乏善可陈的生活，可是他却不懂得该如何去找刺激。
 
+cylinder
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [ˈsɪlɪndə(r)]    美: [ˈsɪlɪndər]
+
+     n. 圆筒；汽缸；[数] 柱面；圆柱状物
+    
+
+  1.You see a green cylinder with a clock next to it while you create this array.
+    在创建此阵列时，您会看到一个绿色的圆筒，旁边还有一个时钟。
+  2.Why not have one big cylinder of the same displacement of the eight cylinders instead ?
+    为什么不用具有八个气缸同等排量的一个大气缸代替？
+  3.Therefore , generally with the membrane type compressor cylinder lubrication , no problem.
+    因此，一般用膜式压缩机，没有气缸润滑问题。
+

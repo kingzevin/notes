@@ -19155,3 +19155,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Therefore , generally with the membrane type compressor cylinder lubrication , no problem.
     因此，一般用膜式压缩机，没有气缸润滑问题。
 
+
+
+██╗   ██╗██████╗ ██╗ ██████╗████████╗
+╚██╗ ██╔╝██╔══██╗██║██╔════╝╚══██╔══╝
+ ╚████╔╝ ██║  ██║██║██║        ██║   
+  ╚██╔╝  ██║  ██║██║██║        ██║   
+   ██║   ██████╔╝██║╚██████╗   ██║   
+   ╚═╝   ╚═════╝ ╚═╝ ╚═════╝   ╚═╝   
+
+YDict V1.2
+https://github.com/TimothyYe/ydict
+
+Usage:
+ydict <word(s) to query>        Query the word(s)
+ydict <word(s) to query> -v     Query with speech
+ydict <word(s) to query> -m     Query with more example sentences

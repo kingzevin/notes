@@ -19171,3 +19171,15 @@ Usage:
 ydict <word(s) to query>        Query the word(s)
 ydict <word(s) to query> -v     Query with speech
 ydict <word(s) to query> -m     Query with more example sentences
+loyalty program
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+     忠诚计划
+    
+
+  1.Loyalty program members who book via OTAs must understand that they ’ve forfeited their perks to the OTA in the form of a hefty commission.
+    酒店应该告诉那些通过在线旅行社预订的忠诚计划会员，他们这样做等于拿自己的权益向在线旅行社支付额外的佣金。
+  2.Marriott is launching a campaign in October that will invite loyalty program members with large Facebook and Twitter followings to help spread the word about its SpringHill Suites chain.
+    万豪酒店准备在10月份举行一个活动，邀请在Facebook和Twitter上拥有大量关注者的忠诚计划会员们帮忙宣传其SprinigHillSuites酒店的信息。
+  3.Preferred Priority program : Our stores will embrace the spirit of Thanksgiving by offering priority to Black Friday products to customers using our in- store and online customer loyalty program.
+    老客户尊荣方案：为了回馈长期购买的老客户（包括实体和在线商店），本店将会怀着感恩节的精神执行尊荣计划，提供购物优先权给于我们的购物大户。
+

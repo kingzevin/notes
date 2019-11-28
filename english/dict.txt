@@ -19183,3 +19183,10 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Preferred Priority program : Our stores will embrace the spirit of Thanksgiving by offering priority to Black Friday products to customers using our in- store and online customer loyalty program.
     老客户尊荣方案：为了回馈长期购买的老客户（包括实体和在线商店），本店将会怀着感恩节的精神执行尊荣计划，提供购物优先权给于我们的购物大户。
 
+vending machien
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    word 'vending machien' not found, do you mean?
+
+    vending machine
+    自动贩卖机，自动售货机
+

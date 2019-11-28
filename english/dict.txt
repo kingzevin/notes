@@ -19202,3 +19202,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In the forthcoming articles in this series , we extend the vending machine so that it collects money and dispenses products.
     在本系列的后续文章中，我们将对自动售货机进行扩展，使其能够收取钱币并分发产品。
 
+overt
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [əʊˈvɜːt; ˈəʊvɜːt]    美: [oʊˈvɜːrt,ˈoʊvɜːrt]
+
+     adj. 明显的；公然的；蓄意的
+    
+
+  1.They explain the antagonism created by overt criticism of China’s growth model , however justified.
+    它们把这种明显由中国的增长模式导致的对立解释为合理的。
+  2.Perhaps humans have simply entered a new stage of evolution in which we have abandoned chocolates , door holding , flowers or any overt gesture of interest for a new and unnatural order of things.
+    也许人类仅仅是进化到了一个新阶段，我们为了一个崭新的不自然的事物顺序，抛弃了送巧克力，扶着门框，送花或者任何明显展露爱意的姿势。
+

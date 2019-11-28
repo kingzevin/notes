@@ -2044,3 +2044,5 @@ loyalty program
 
 vending machien
 
+vending machine
+

@@ -19190,3 +19190,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     vending machine
     自动贩卖机，自动售货机
 
+vending machine
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+     自动贩卖机，自动售货机
+    
+
+  1.In this article we will build the most basic vending machine.
+    在本文中，我们将构建最基本的自动售货机。
+  2.When your mind strays from your desk to the vending machine , it could be hunger or it could be boredom or irritation with your boss.
+    当您的想法偏离你的办公桌转到自动售货机，可以是饥饿或无聊还是和老板生气。
+  3.In the forthcoming articles in this series , we extend the vending machine so that it collects money and dispenses products.
+    在本系列的后续文章中，我们将对自动售货机进行扩展，使其能够收取钱币并分发产品。
+

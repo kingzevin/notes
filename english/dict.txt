@@ -19331,3 +19331,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This technique helps you determine the origin of any requirement.
     这个技术帮助你确定任何需求的起源。
 
+harness
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ˈhɑːnɪs]    美: [ˈhɑːrnɪs]
+
+     n. 马具；背带，吊带；甲胄；挽具状带子；降落伞背带；日常工作
+     v. 治理，利用；套；驾驭；披上甲胄；将（两只动物）拴在一起
+    
+
+  1.They harness their imagination to discover new things about both themselves and the world around them.
+    他们利用自己的想象力发现他们自己和周围世界的新鲜之处。
+  2.But if we harness our efforts and employ innovative approaches as these nations are doing , there is no reason that we cannot turn back the tide of this epidemic.
+    但是如果我们象这些国家正在进行的那样利用我们的努力和采用创新的策略，我们没有理由不能遏制该病流行的趋势。
+  3.You just need to know how to harness them.
+    你只是需要懂得如何好好驾驭它们。
+

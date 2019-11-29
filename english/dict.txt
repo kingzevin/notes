@@ -19258,3 +19258,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.A Church of St John Coltrane exists in San Francisco : the founders first claimed that the musician was an incarnation of god , but later demoted him to sainthood.
     在旧金山有一座圣约翰•柯川教堂：教堂奠基人首先声称音乐家是上帝的化身，但随后又把他降级为圣人。
 
+recurring
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英:     美: [rɪ'kɝɪŋ]
+
+     adj. 循环的；再发的
+     v. 再发生，反复出现；（小数）循环（recur 的现在分词）
+    
+
+  1.One of the most important recurring decisions for any group is what their strategy will be in the face of opposition.
+    对于任何组织，一个最重要的反复的决策就是在他们对手面前，他们自己的策略是什么？
+  2.There seem to be some recurring themes , like those jobs that involve the dead , the dying , a risk of death -- and public speaking.
+    似乎有一些公共演讲中反复出现的题目，如那些工作涉及到死者，濒临死亡的人以及存在死亡的风险。
+  3.But I was born with a recurring nightmare of a great bird picking me up in its claws and dropping me into an empty ocean , and for that , and other reasons , I have always been afraid of water.
+    但是，自出生以来，我都反复做着一个噩梦，一只大鸟用它的双爪把我抓起，扔到汪洋大海之中。因为这个梦，还有其他一些原因，我对水的恐惧感一直未能消除。
+

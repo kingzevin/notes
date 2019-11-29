@@ -19287,3 +19287,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The final edition of Compendium der Psychiatrie appeared in 1927 . Its four volumes held 10 times more information than the first edition of 1883.
     《精神病学纲要》最后一版于1927年问世，共四册，涵盖的信息量比1883年的初版多了10倍。
 
+era
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ˈɪərə]    美: [ˈɪrə,ˈerə]
+
+     n. 时代；年代；纪元
+     n. (Era)人名；(意、芬、印)埃拉
+    
+
+  1.We are living in a great historic era.
+    我们正处在一个伟大的历史时代。
+  2.The president 's memoir disinterred a past era.
+    总统的回忆录重现了一个过去的时代。
+  3.We are at the end of an era , not only in Europe , but globally.
+    我们来到了一个时代的终结点，不仅对欧洲如此，对全球也是如此。
+

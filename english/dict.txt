@@ -19317,3 +19317,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.The vote was also a seminal moment for the 192 - member United Nations and was being watched closely as a critical test of its ability to take collective action to prevent atrocities against civilians.
     这次投票也许是192个成员国的联合国的一个开创性的时刻，同时也被热切关注作为一个决定性联合国采取集体行动以防止暴行的能力的测试。
 
+origin
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ˈɒrɪdʒɪn]    美: [ˈɔːrɪdʒɪn]
+
+     n. 起源；原点；出身；开端
+    
+
+  1.She was despised because she was of humble origin.
+    她因出身低贱而受到蔑视。
+  2.They both go from the origin to.
+    它们都是从原点到。
+  3.This technique helps you determine the origin of any requirement.
+    这个技术帮助你确定任何需求的起源。
+

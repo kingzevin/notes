@@ -19273,3 +19273,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.But I was born with a recurring nightmare of a great bird picking me up in its claws and dropping me into an empty ocean , and for that , and other reasons , I have always been afraid of water.
     但是，自出生以来，我都反复做着一个噩梦，一只大鸟用它的双爪把我抓起，扔到汪洋大海之中。因为这个梦，还有其他一些原因，我对水的恐惧感一直未能消除。
 
+compendium
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [kəmˈpendiəm]    美: [kəmˈpendiəm]
+
+     n. 纲要；概略
+    
+
+  1.Read a compendium of published software architecture definitions.
+    阅读已发布的软件架构定义的纲要。
+  2.Eclipse automatically creates two Plug - In Development projects called org. osgi. compendium and cxf - dosgi - ri - singlebundle - distribution.
+    Eclipse会自动创建两个Plug-InDevelopment项目，叫作org.osgi.compendium和cxf-dosgi-ri-singlebundle-distribution。
+  3.The final edition of Compendium der Psychiatrie appeared in 1927 . Its four volumes held 10 times more information than the first edition of 1883.
+    《精神病学纲要》最后一版于1927年问世，共四册，涵盖的信息量比1883年的初版多了10倍。
+

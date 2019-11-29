@@ -19228,3 +19228,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.And that is why this fixed law of diffusion applies.
     这就是这个混合的扩散理论运用的原因。
 
+dispose
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [dɪˈspəʊz]    美: [dɪˈspoʊz]
+
+     vt. 处理；处置；安排
+     vi. 处理；安排；（能够）决定；击败；杀死
+     n. 处置；性情
+    
+
+  1.They dispose of the city 's waste in the sea.
+    他们把城市的废物倒入大海处理掉。
+  2.Lastly , what about the decision to dispose of his body at sea ?
+    最后，为什么决定在海上处理他的遗体？
+  3.You have no idea how much it takes to dispose batteries . Do yourself a favor.
+    你肯定不知道处理废电池花费有多大．何不对自己行行好呢？
+

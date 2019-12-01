@@ -19370,3 +19370,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   2.The idea that websites can be regulated like broadcasters , which are required to keep strict records of what they show in order to help watchdogs investigate complaints , is untenable.
     像规范广播公司那样来规范网站，要求严格保留他们所有的播放记录以供监管机构调查那些不满意见的想法更本就站不住脚。
 
+de facto
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+     （法）实际上的
+    
+
+  1.We have economic tsars , national health insurance , and de facto government ownership of industry.
+    我们有经济沙皇，国家健康保险，和实际存在的工业国有企业。
+  2.We add the year and month to the namespace as this is the de facto standard for versioning of namespaces.
+    我们将年份和月份添加到该命名空间，因为这种做法是命名空间版本控制的事实标准。
+  3.All users have a profile page stating what they can offer and when , with information on themselves and comments – de facto references – from other members.
+    所有会员都有一个档案页面，说明自己能提供哪些服务，何时提供，配以个人信息和其他会员的评论（实际上是推荐）。
+

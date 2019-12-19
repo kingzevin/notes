@@ -19410,3 +19410,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Well then , that umbrella was one humongous fly that kept landing on my head time after time, and at regular intervals.
     那么，那把雨伞就像一只硕大无比的苍蝇，反复不停地在你头上飞起落下，而且还是有间歇规律的。
 
+wieldly
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    word 'wieldly' not found, do you mean?
+
+    wildly
+    adv. 野生地；野蛮地；狂暴地；鲁莽地
+    wieldy
+    adj. 易于使用的；适合的
+

@@ -2088,3 +2088,5 @@ necessitate
 
 necessitate
 
+succinct
+

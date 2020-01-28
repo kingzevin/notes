@@ -19478,3 +19478,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.While some individual businesses might determine certain goods necessitate mass production , other forms of the cultural industry are more highly selective.
     而一些商业行为决定了特定产品需要批量生产，另一些文化产业的形态具有更高的个性化。
 
+succinct
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: [səkˈsɪŋkt]    美: [səkˈsɪŋkt]
+
+     adj. 简洁的；简明的；紧身的
+    
+
+  1.EPF and RUP address this concern by separating a rich reference library of practices from a succinct description of how the team chooses to work in their specific project.
+    EPF和RUP通过将一个实践丰富的引用库，与这个团队是如何选择到他们特殊项目中工作的简洁描述分离来解决这个问题。
+  2.I believe that longer templates in multiple languages will make the system unmaintainable in short order, so I recommend sticking with one language if you can -- and let that language be succinct.
+    我认为以多种语言编写的更长的模板，将使系统不能得到及时维护，所以，我建议您，只要可能，请坚持只使用一种语言——并保持语言的简洁。
+  3.Manufacturing , logistics , supply chain management , energy management , recycling and waste management all break down into succinct business processes , with human tasks and interventions.
+    制造、后勤、供应链管理、能源管理、回收和废物管理都可以分解为简洁的业务流程，其中包含人类任务和干预。
+

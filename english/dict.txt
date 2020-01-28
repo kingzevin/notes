@@ -19419,3 +19419,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
     wieldy
     adj. 易于使用的；适合的
 
+adhere
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [ədˈhɪə(r)]    美: [ədˈhɪr]
+
+     vi. 坚持；依附；粘着；追随
+     vt. 使粘附
+    
+
+  1.We must adhere to the principle of making study serve the practical purpose.
+    我们必须坚持学以致用的原则。
+  2.Discipline is a logic-based decision that performers adhere to , regardless of whether they feel like it or not.
+    纪律是一种基于逻辑的决定，这份决定是执行者们坚持的，无论他们喜不喜欢。
+  3.If Japan does not follow the gentlemanly trade rules , it is not because of simple greed but because it does not adhere to Western principles on much of anything.
+    如果日本不遵守君子贸易规则，并不是简单的因为它的贪婪，而是因为它在很多事情上并不坚持西方的原则。
+

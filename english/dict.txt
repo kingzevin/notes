@@ -19464,3 +19464,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.While some individual businesses might determine certain goods necessitate mass production , other forms of the cultural industry are more highly selective.
     而一些商业行为决定了特定产品需要批量生产，另一些文化产业的形态具有更高的个性化。
 
+necessitate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [nəˈsesɪteɪt]    美: [nəˈsesɪteɪt]
+
+     vt. 使成为必需，需要；迫使
+    
+
+  1.Does it necessitate a more convoluted build process ?
+    是否需要更加复杂的构建过程？
+  2.A versioned service ensures that an upgrade of that service does not necessitate a retest of all the other services that the application uses.
+    有版本控制的服务可确保该服务的升级并不需要重新测试应用程序使用的所有其他服务。
+  3.While some individual businesses might determine certain goods necessitate mass production , other forms of the cultural industry are more highly selective.
+    而一些商业行为决定了特定产品需要批量生产，另一些文化产业的形态具有更高的个性化。
+

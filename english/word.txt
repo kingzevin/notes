@@ -2094,3 +2094,5 @@ discrepancy
 
 delineate
 
+negate
+

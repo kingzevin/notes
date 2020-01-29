@@ -19520,3 +19520,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.During this phase organizations delineate additional SOA capabilities , agree on policies for service reuse across lines of business , establish processes to guarantee service levels , and so forth.
     在此阶段，组织描绘出了附加的SOA能力，对跨业务线的服务复用的策略达成一致，建立过程以保证服务水平，等等。
 
+negate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [nɪˈɡeɪt]    美: [nɪˈɡeɪt]
+
+     vt. 否定；取消；使无效
+     vi. 否定；否认；无效
+     n. 对立面；反面
+    
+
+  1.You can also posit strength and joy , or you negate abuse and addiction.
+    你也可以喜欢力量和欢乐，或者你否定不良的习惯。
+  2.With too many computing resources , the hardware costs and other expenses negate the cost - reduction promises of cloud computing.
+    计算资源太多，硬件成本和其他费用就会否定云计算的成本削减承诺。
+  3.Sure , social media makes communication and promotions easier in some ways , but it doesn’t negate the need for professional public relations experts.
+    当然，社交媒体使沟通和宣传活动在某些方面变得更加容易，但它并没有否定对专业公关人员的需求。
+

@@ -19492,3 +19492,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Manufacturing , logistics , supply chain management , energy management , recycling and waste management all break down into succinct business processes , with human tasks and interventions.
     制造、后勤、供应链管理、能源管理、回收和废物管理都可以分解为简洁的业务流程，其中包含人类任务和干预。
 
+discrepancy
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [dɪˈskrepənsi]    美: [dɪˈskrepənsi]
+
+     n. 不符；矛盾；相差
+    
+
+  1.Much of this discrepancy is to do with history.
+    这种差异有大部分原因是历史造成的。
+  2.One area where this gap is often revealed is in a discrepancy between dedicated resources and estimated costs.
+    这种隔阂常常显露出的一个区域是专用的资源和估算的成本之间的差异。
+  3.At first , they questioned their findings , but then Polacheck and Kamm realized that the cause of the discrepancy is the existence of two competing mechanisms.
+    首先，他们质疑了他们的发现，但是接着珀拉切克和卡姆意识到这种差异的原因是两种竞争机制的存在。
+

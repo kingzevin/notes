@@ -19506,3 +19506,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.At first , they questioned their findings , but then Polacheck and Kamm realized that the cause of the discrepancy is the existence of two competing mechanisms.
     首先，他们质疑了他们的发现，但是接着珀拉切克和卡姆意识到这种差异的原因是两种竞争机制的存在。
 
+delineate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [dɪˈlɪnieɪt]    美: [dɪˈlɪnieɪt]
+
+     vt. 描绘；描写；画…的轮廓
+    
+
+  1.First , I used comments to delineate sections of the code.
+    首先，我使用了注释来描绘代码的各个部分。
+  2.We delineate three separate mechanisms , friction , suction , and interlocking , that contribute to the gripping force.
+    我们描绘出三个独立的力学机制，摩擦力，吸力，交错力，这有助于握力的提升。
+  3.During this phase organizations delineate additional SOA capabilities , agree on policies for service reuse across lines of business , establish processes to guarantee service levels , and so forth.
+    在此阶段，组织描绘出了附加的SOA能力，对跨业务线的服务复用的策略达成一致，建立过程以保证服务水平，等等。
+

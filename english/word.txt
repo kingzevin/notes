@@ -2134,3 +2134,5 @@ irony
 
 savage
 
+wretch
+

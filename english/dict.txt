@@ -19976,3 +19976,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Maybe if we would have screened “ Food , Inc. ” in the pasture , the cows would have stayed where they belonged.
     也许如果我们在牧场上有了“食品公司”，这些牛就会呆在他们本来属于的地方。
 
+annihilate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [əˈnaɪəleɪt]    美: [əˈnaɪəleɪt]
+
+     vt. 歼灭；战胜；废止
+     vi. 湮灭；湮没
+    
+
+  1.Bring the two together and they annihilate each other in a flash of energy.
+    把这两种物质放在一起，它们瞬间就会湮灭而化为能量。
+  2.After running their simulation on a supercomputer , they found that dark matter should annihilate much more readily than had previously been thought.
+    在用超级计算机运行了该模型之后，他们发现暗物质的湮灭必须要比之前设想的快上许多。
+  3.When a piece of antimatter strikes the observatory and collides with " normal " matter , both particles immediately annihilate and are transformed into gamma rays — which Fermi can detect.
+    当一小块反物质击打天文台并与“正常”的物质相碰撞时，两个粒子都立即湮灭，并转变为伽马射线-费米就可以检测到它。
+

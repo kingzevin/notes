@@ -20232,3 +20232,19 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.London , renowned for centuries for its infamous smog and severe pollution , today has the cleanest air that it has had since the Middle Ages.
     伦敦，因其臭名昭著的烟雾和极其严重的污染而闻名几百年，今天有着自中世纪以来最干净的空气。
 
+hoist
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        
+    英: [hɔɪst]    美: [hɔɪst]
+
+     v. 升起，吊起；抬高，举起
+     n. 起重机；吊车；升降机；升起，增加；信号旗；旗宽
+     n. (Hoist) （美、印、英、加）霍伊斯特（人名）
+    
+
+  1.I did frame three of my four walls on the ground , then raised them with the chain hoist.
+    我只在地面装好四面墙的三个框架，再用链式起重机把它们举起来。
+  2.Worry , by its very nature , means thinking about the future —and if you hoist yourself into awareness of the present moment , worrying melts away.
+    担心，由于其本身的性质，意味着考虑未来——如果你把自己提升到当下时刻的意识里，担心就化为乌有了。
+  3.About a year ago , when Phil last had a hospital appointment , the men in green when they arrived said they were not licensed to use the hoist to get Phil off the bed and into their carrying equipment.
+    大约一年以前，就是菲尔上一次按预约去医院的时候，身穿绿色衣服的工作人员过来说，他们没有得到允许用升降机把菲尔从床上转到到他们的运送设备上。
+

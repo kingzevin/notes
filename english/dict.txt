@@ -20307,3 +20307,15 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Fundamentally , these paradigms can be ( and are ) built on top of a substrate of threads and locks , but they create higher level abstractions that push much of that complexity down.
     从根本上讲，这些范例可以（且是）构建于线程和锁的基底之上，但是它们创建降低复杂度的更高的抽象级别。
 
+in a nutshell
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+     adv. 简单地，简约地；极其简括地说
+    
+
+  1.To put it in a nutshell , a good user experience is essential.
+    简单地说就是，一个好的用户体验是不可少的。
+  2.In a nutshell , the developer writes a test before writing any code.
+    简单地说，开发人员在撰写代码之前要撰写一个测试。
+  3.A recent review argues that the problem is no longer simply a lack of opportunity or encouragement -- in a nutshell , girls just seem to prefer other subjects.
+    最近的一篇文章表示，造成这种现象不仅仅是简单的因为女性缺乏机会和鼓励——简单地说，就是女生更偏好其他科目。
+

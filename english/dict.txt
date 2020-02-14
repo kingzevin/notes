@@ -20319,3 +20319,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.A recent review argues that the problem is no longer simply a lack of opportunity or encouragement -- in a nutshell , girls just seem to prefer other subjects.
     最近的一篇文章表示，造成这种现象不仅仅是简单的因为女性缺乏机会和鼓励——简单地说，就是女生更偏好其他科目。
 
+tenet
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [ˈtenɪt]    美: [ˈtenɪt]
+
+     n. 原则；信条；教义
+     n. (Tenet)人名；(法)特内；(英)特尼特
+    
+
+  1.“ All performance starts with clear goals ” is a basic tenet of management.
+    “任何行动皆源于明确的目标”，这是管理的基本宗旨。
+  2.Its basic tenet is that Russia’s destiny is to be a great power , a greatness that must be fostered in the face of Western attempts to undermine it.
+    其基本原则是俄罗斯与生俱来就应该成为强国，纵然面对西方干扰与阻碍的企图，这种伟大的强国之梦也必须得到实现。
+  3.Tenet 3 : Services share schema and contract , not class ( So do all of my OO programs with interface and classes.
+    信条3：服务共享数据定义与契约，而非类。 （我所有的采用接口与类的OO程序都满足这条。
+

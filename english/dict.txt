@@ -20334,3 +20334,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Tenet 3 : Services share schema and contract , not class ( So do all of my OO programs with interface and classes.
     信条3：服务共享数据定义与契约，而非类。 （我所有的采用接口与类的OO程序都满足这条。
 
+tie-breaking
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        
+    英: ['tai,breikiŋ]    
+
+     adj. 平局决胜的；打破僵局的
+    
+
+  1.However , the Senate narrowly rejected the measure this past week on a tie- breaking vote cast by the vice president.
+    但是，当上周副总统投出打破均势的一票后，上议院以微弱多数票否决了该新税制。
+  2.With Vice President Pence's tie-breaking vote , Betsy DeVos becomes the 11th U. S. education secretary responsible for advising the president on America 's education policies , activities and programs.
+    副总统彭斯投出了决定票，贝齐·德沃斯成为美国第11任教育部长，负责就美国的教育政策、教育活动和教育方案为美国总统提出建议。
+  3.Penalty shoot-out: A tie -breaking system where , after a tied game, players on each team try to score against the opposing goalkeeper from the penalty line to determine a winner.
+    两队打平后，两队的运动员在罚球线处，面对守门员射门，直到决出胜者。
+

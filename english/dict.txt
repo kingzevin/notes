@@ -20348,3 +20348,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Penalty shoot-out: A tie -breaking system where , after a tied game, players on each team try to score against the opposing goalkeeper from the penalty line to determine a winner.
     两队打平后，两队的运动员在罚球线处，面对守门员射门，直到决出胜者。
 
+kludge
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [kluːdʒ; klʌdʒ]    美: [kluːdʒ,klʌdʒ]
+
+     n. 杂牌电脑，组装机（等于kluge）
+    
+
+  1.As an engineer , he can recognise a kludge when he sees one.
+    作为一名工程师，他一眼就能识别出那些"蹩脚的组装"。
+  2.Isn't this just another kludge to try and emulate real desktop GUI application capabilities ?
+    这是不是一种临时搭配，以尝试和模拟真正的桌面GUI应用程序功能？
+  3.Once the text coordinate acquisition kludge is complete , the text is written to the image , and the image as shown under Step 2 in Figure 1 is written out.
+    当文本坐标采集组装完成后，文本将被写到图像中，并且图1的步骤2所示的图像将被输出。
+

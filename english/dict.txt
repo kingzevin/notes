@@ -20384,3 +20384,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If the system does detect an anomaly , it asks itself if there is likely to be an innocent explanation (a change in the weather , for example , or a public holiday ).
     如果系统探测到异常，将会自我判断是否可以合理解释（例如天气变化或节假日）。
 
+omission
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [əˈmɪʃn]    美: [əˈmɪʃn]
+
+     n. 疏忽，遗漏；省略；冗长
+    
+
+  1.This omission , again , may be accidental -- the superior does not realize that subordinates need the information.
+    这种遗漏同样也可能是出于偶然——上级没有意识到下级需要这个信息。
+  2.Reminds us to think not in terms of decoration but in terms of clarity , a kind of clarity that may be achieved through omission or exclusion of the non - essential.
+    提醒我们应该用清晰性思考，而不是用装饰性思考，这种清晰是一种通过省略和排除没有必要事物来实现的。
+  3.If patrons were permitted to not only remove books from shelves , but also to put them back or add new ones, then mistakes of omission or commission would lead to an unusable mess.
+    如果允许用户不仅可以从书架上取走图书，而且还可以将图书放回原处或增添新图书，则遗漏或登记错误会导致不可收拾的混乱局面。
+

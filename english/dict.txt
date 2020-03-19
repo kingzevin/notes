@@ -20398,3 +20398,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If patrons were permitted to not only remove books from shelves , but also to put them back or add new ones, then mistakes of omission or commission would lead to an unusable mess.
     如果允许用户不仅可以从书架上取走图书，而且还可以将图书放回原处或增添新图书，则遗漏或登记错误会导致不可收拾的混乱局面。
 
+proactively
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ˌprəʊˈæktɪvli]    美: [ˌproʊˈæktɪvli]
+
+     adv. 前摄地；主动地
+    
+
+  1.Are you expected to proactively diagnose performance and availability problems ?
+    您是否需要前瞻性地诊断性能和可用性问题？
+  2.We encourage customers to deploy Server Fix Packs proactively so that they have fixes in place for problems before they run into them.
+    我们鼓励客户前瞻性地部署服务器补丁包，使他们能够在遇到问题之前就完成了修复。
+  3.As a result of the incumbent challenges , it is critical for clients to invest proactively in the planning and management of these approaches.
+    由于职责方面的挑战，对于客户来说，前摄性地在这些方法的规划和管理上进行投资是至关重要的。
+

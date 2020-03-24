@@ -20412,3 +20412,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.As a result of the incumbent challenges , it is critical for clients to invest proactively in the planning and management of these approaches.
     由于职责方面的挑战，对于客户来说，前摄性地在这些方法的规划和管理上进行投资是至关重要的。
 
+quarantine
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [ˈkwɒrəntiːn]    美: [ˈkwɔːrəntiːn]
+
+     n. 检疫隔离期；隔离；检疫；检疫区，隔离区
+     v. 对（动物或人）进行检疫隔离
+    
+
+  1.The quarantine is now abolished.
+    这项检疫措施现已取消。
+  2.The ship is detained in quarantine.
+    该船被留在港口进行检疫。
+  3.It is said that all ships coming from abroad should be performed quarantine.
+    据说对所有国外来的船舶都要进行检疫。
+

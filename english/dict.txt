@@ -20562,3 +20562,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.For another , rural governments should learn how to allot the limited resources in a reasonable way , emphasizing more on education , technology and culture.
     另一方面，农村政府应该学会如何以合理的方式分配有限的资源，把重点放在教育、科技和文化的发展上。
 
+pointwise
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [pɔintwaiz]    
+
+     adj. [数] 逐点的
+    
+
+  1.Some pointwise geometry properties directly depict the geometry speciality of space.
+    有些点态几何性质直接描述空间的几何特点。
+  2.We study the pointwise estimates of solutions for the conservation law with relaxation by Green's function.
+    考虑带松弛项的守恒律方程，用格林函数的方法得到了其整体解的逐点估计。
+  3.This clustering algorithm can on-line partition the input data , pointwise update the clusters, and self-organize the fuzzy neural structure.
+    此聚类算法可以在线地划分输入数据，逐点地更新聚类，自己组织模糊神经网络的结构。
+

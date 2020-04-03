@@ -20487,3 +20487,16 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.What tools do you need to help you diagnose the problem , and where do you get them ?
     您需要什么工具来帮助您诊断问题，可以从哪里获得这些工具？
 
+expedite
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒ 
+    英: [ˈekspədaɪt]    美: [ˈekspədaɪt]
+
+     vt. 加快；促进；发出
+     adj. 畅通的；迅速的；方便的
+    
+
+  1.Just as you can automate builds to reduce errors and speed software development , you can automate deployment processes to reduce errors and expedite software delivery.
+    正如可以通过自动化构建来减少错误并加快软件开发，也可以通过自动化部署流程来减少错误和加快软件交付。
+  2.Discussions during the forum are clearly designed to expedite the delivery, in different country contexts , of rapid results for the health of women and children.
+    此次论坛期间讨论的明确目的是要根据不同国家的具体情况，加快实现可促进妇女和儿童健康的成果。
+

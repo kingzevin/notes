@@ -20514,3 +20514,12 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.How can you track and guarantee the provenance of facts in order to correct errors and provide accountability ?
     为了纠正错误并提供可说明性，怎样才能跟踪和保证事实的出处？
 
+in midst of
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    word 'in midst of' not found, do you mean?
+
+    in quest of
+    探寻，寻求；为了追求……
+    in light of
+    根据；鉴于；从…观点
+

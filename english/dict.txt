@@ -20442,3 +20442,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.What tools do you need to help you diagnose the problem , and where do you get them ?
     您需要什么工具来帮助您诊断问题，可以从哪里获得这些工具？
 
+diagnose
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ˈdaɪəɡnəʊz; ˌdaɪəɡˈnəʊz]    美: [ˌdaɪəɡˈnoʊs]
+
+     vt. 诊断；断定
+     vi. 诊断；判断
+    
+
+  1.How did they diagnose you ?
+    他们怎么给你的诊断的？
+  2.How might you diagnose the problem ?
+    那么你会怎么诊断这个问题呢？
+  3.What tools do you need to help you diagnose the problem , and where do you get them ?
+    您需要什么工具来帮助您诊断问题，可以从哪里获得这些工具？
+

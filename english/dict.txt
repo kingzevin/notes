@@ -20576,3 +20576,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.This clustering algorithm can on-line partition the input data , pointwise update the clusters, and self-organize the fuzzy neural structure.
     此聚类算法可以在线地划分输入数据，逐点地更新聚类，自己组织模糊神经网络的结构。
 
+rebuttal
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [rɪˈbʌtl]    美: [rɪˈbʌtl]
+
+     n. 反驳；辩驳；反证
+    
+
+  1.The best humor allows for opinion and rebuttal.
+    最好的幽默考虑到意见和辩驳。
+  2.Chevron has filed a 9, 000 -page rebuttal of Mr Cabrera 's report.
+    雪佛龙提交了一份9,000页的报告来反驳卡布雷拉。
+  3.In response to claims that the surge has had some success , including a stronger government grip on Gereshk, the younger commander offered a fierce rebuttal.
+    针对声称增兵取得了一定的成功，包括政府对格罗·斯克的控制有所加强的说法，年纪稍轻的那位指挥官给予了激烈的反驳。
+

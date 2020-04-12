@@ -20605,3 +20605,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Another font of information , according to this report , is the U.S. prisons , because they all are recorded and are often intertwined with the Mexican phone lines.
     根据这篇报道，另一个信息版本是美国监狱，因为他们都被记录了，并且常常和墨西哥电话线缠绕在一起。
 
+intertwine
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ˌɪntəˈtwaɪn]    美: [ˌɪntərˈtwaɪn]
+
+     vi. 纠缠；编结
+     vt. 缠绕；纠缠
+    
+
+  1.Structurally , DNA is composed of two strands that intertwine to form a spring-like structure called the double helix.
+    从结构上讲，DNA是由两条链相互缠绕构成弹簧状结构称为双螺旋。
+  2.If you are only using objects , these two areas intertwine as your concern tangles itself throughout your application.
+    如果只使用对象，那么这两个区域是交叉的，因为关注点在应用程序中是纠缠在一起的。
+  3.It allows the present and the past to intertwine , which is how music works anyway.
+    这功能让现在和过去交织在一起，这正是音乐的功效。
+

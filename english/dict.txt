@@ -20590,3 +20590,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.In response to claims that the surge has had some success , including a stronger government grip on Gereshk, the younger commander offered a fierce rebuttal.
     针对声称增兵取得了一定的成功，包括政府对格罗·斯克的控制有所加强的说法，年纪稍轻的那位指挥官给予了激烈的反驳。
 
+intertwined
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        
+    英: [,ɪntɜː'twaɪnd]    美: 
+
+     adj. 缠绕的；错综复杂的
+     v. 使缠结，缠绕（intertwine的过去式）
+    
+
+  1.But now you have another loops of wire that is intertwined with it.
+    但如果有另一个和它缠绕在一起的金属线圈。
+  2.As a result business implementations are often intertwined with data access and transformation code.
+    这导致业务实现经常和数据存取以及转换的代码纠缠在一起。
+  3.Another font of information , according to this report , is the U.S. prisons , because they all are recorded and are often intertwined with the Mexican phone lines.
+    根据这篇报道，另一个信息版本是美国监狱，因为他们都被记录了，并且常常和墨西哥电话线缠绕在一起。
+

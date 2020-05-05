@@ -20694,3 +20694,18 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.If grabbed by forceps from the side , by a leg , they lean towards it and crouch down , then there is a slight cracking sound and the blood jets right along the line of attack.
     如果用镊子从侧面去抓它，例如从腿部进攻，它会侧身靠向镊子，俯身，然后在一点轻微的开裂声后，血就会直直的射向你攻击它的方向。
 
+proliferate
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [prəˈlɪfəreɪt]    美: [prəˈlɪfəreɪt]
+
+     vi. 增殖；扩散；激增
+     vt. 使激增
+    
+
+  1.Despite the difficulties , investors assume such deals will continue to proliferate.
+    尽管困难重重，投资者认为这种交易仍将继续激增。
+  2.As digital screens proliferate and people move from print to pixel , how will the act of reading change ?
+    随着电子屏幕的激增，印刷体纷纷被转换成像素，人们的阅读习惯将相应做何改变呢？
+  3.As more states adhere to the NPT , each nation should gain confidence that its neighbor or adversary is not developing nuclear weapons and so be more secure in its decision not to proliferate.
+    随着遵守《不扩散核武器条约》的国家增多，各国将能确信邻国或对手不会发展核武器，从而更加坚定于不扩散的决策。
+

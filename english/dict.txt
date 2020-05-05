@@ -20677,3 +20677,20 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.Not simply for the vision that some idealists possess , but for the optimism that all idealists have.
     不仅是由于一些理想主义者所具有的远见，也是由于他们所拥有的乐观主义精神。
 
+lean
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        Querying... ██████████                        Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        
+    英: [liːn]    美: [liːn]
+
+     v. 倾斜身体；倾斜；倚靠；（使）斜靠
+     adj. 瘦且健康的；脂肪少的；难以赚钱的；贫乏的；高效低耗的；（混合汽化燃料）空气所占比例高的
+     n. 瘦肉；倾斜；倾斜度
+     n. (Lean) （丹）利恩（人名）
+    
+
+  1.But this is not Lean.
+    但这并不是精益。
+  2.I call this " Lean + Agile Kanban ", and it can be combined with " Agile Kanban ", as shown the next example.
+    我叫它为“精益+敏捷看板”，如下一个例子展示的那样它可以与“敏捷看板”相结合。
+  3.If grabbed by forceps from the side , by a leg , they lean towards it and crouch down , then there is a slight cracking sound and the blood jets right along the line of attack.
+    如果用镊子从侧面去抓它，例如从腿部进攻，它会侧身靠向镊子，俯身，然后在一点轻微的开裂声后，血就会直直的射向你攻击它的方向。
+

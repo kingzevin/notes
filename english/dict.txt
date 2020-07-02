@@ -20709,3 +20709,17 @@ Querying... █▒▒▒▒▒▒▒▒▒               
   3.As more states adhere to the NPT , each nation should gain confidence that its neighbor or adversary is not developing nuclear weapons and so be more secure in its decision not to proliferate.
     随着遵守《不扩散核武器条约》的国家增多，各国将能确信邻国或对手不会发展核武器，从而更加坚定于不扩散的决策。
 
+arbitration
+Querying... █▒▒▒▒▒▒▒▒▒                        Querying... ███▒▒▒▒▒▒▒                        Querying... █████▒▒▒▒▒                        Querying... ███████▒▒▒                        
+    英: [ˌɑːbɪˈtreɪʃn]    美: [ˌɑːrbɪˈtreɪʃn]
+
+     n. 公断，仲裁
+    
+
+  1.It was settled by compulsory arbitration.
+    此事已通过强制性仲裁得到解决。
+  2.The matter is likely to go to arbitration.
+    这件事可能要交付仲裁。
+  3.The judge said that arbitration was a fair and expeditious decision-making process.
+    法官说仲裁是一个公正且迅速有效率的决定过程。
+
